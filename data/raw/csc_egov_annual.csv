@@ -1,0 +1,3611 @@
+year,District Name,State/UT,egov_transactions,active_cscs
+2021,Anantapur,Andhra Pradesh,231891,118
+2022,ANANTAPUR,Andhra Pradesh,431316,56
+2023,Anantapur,Andhra Pradesh,411973,81
+2024,Anantapur,Andhra Pradesh,441866,58
+2025,Anantapur,Andhra Pradesh,421264,97
+2021,Chittoor,Andhra Pradesh,1719774,531
+2022,Chttoor,Andhra Pradesh,1397552,493
+2023,Chittoor,Andhra Pradesh,1371866,373
+2024,Chittoor,Andhra Pradesh,2131807,511
+2025,Chittoor,Andhra Pradesh,1682569,461
+2021,East Godavari,Andhra Pradesh,796838,232
+2022,East Godavari,Andhra Pradesh,909454,183
+2023,East Godavari,Andhra Pradesh,1263714,227
+2024,East Godavari,Andhra Pradesh,1131534,308
+2025,East Godavari,Andhra Pradesh,1639278,187
+2021,Guntur,Andhra Pradesh,1098340,145
+2022,Guntur,Andhra Pradesh,939747,284
+2023,Guntur,Andhra Pradesh,981545,263
+2024,Guntur,Andhra Pradesh,1337784,181
+2025,Guntur,Andhra Pradesh,1079923,203
+2021,Krishna,Andhra Pradesh,677495,163
+2022,Krishna,Andhra Pradesh,966584,346
+2023,Krishna,Andhra Pradesh,1175823,347
+2024,Krishna,Andhra Pradesh,920930,156
+2025,Krishna,Andhra Pradesh,1018243,277
+2021,Kurnool,Andhra Pradesh,1004655,232
+2022,Kurnool,Andhra Pradesh,941136,278
+2023,Kurnool,Andhra Pradesh,1261363,439
+2024,Kurnool,Andhra Pradesh,1298323,406
+2025,Kurnool,Andhra Pradesh,1673483,438
+2021,Nellore,Andhra Pradesh,700343,108
+2022,Sri Potti Sriramulu Nellore,Andhra Pradesh,789841,177
+2023,Nellore,Andhra Pradesh,770668,118
+2024,Nellore,Andhra Pradesh,769105,109
+2025,Nellore,Andhra Pradesh,909519,106
+2021,Prakasam,Andhra Pradesh,482768,86
+2022,Prakasam,Andhra Pradesh,573482,148
+2023,Prakasam,Andhra Pradesh,590131,157
+2024,Prakasam,Andhra Pradesh,704036,134
+2025,Prakasam,Andhra Pradesh,846549,171
+2021,Srikakulam,Andhra Pradesh,1087421,268
+2022,Srikakulam,Andhra Pradesh,1082690,272
+2023,Srikakulam,Andhra Pradesh,782284,310
+2024,Srikakulam,Andhra Pradesh,1030803,269
+2025,Srikakulam,Andhra Pradesh,1202653,284
+2021,Vishakhapatnam,Andhra Pradesh,416631,88
+2022,Visakhapatnam,Andhra Pradesh,413843,128
+2023,Visakhapatnam,Andhra Pradesh,501231,96
+2024,Visakhapatnam,Andhra Pradesh,567518,148
+2025,Visakhapatnam,Andhra Pradesh,532368,152
+2021,Vizianagaram,Andhra Pradesh,1210379,402
+2022,Vizianagaram,Andhra Pradesh,1130564,350
+2023,Vizianagaram,Andhra Pradesh,970192,260
+2024,Vizianagaram,Andhra Pradesh,1417701,237
+2025,Vizianagaram,Andhra Pradesh,1654411,310
+2021,West Godavari,Andhra Pradesh,250707,66
+2022,West Godavari,Andhra Pradesh,207466,53
+2023,West Godavari,Andhra Pradesh,262634,92
+2024,West Godavari,Andhra Pradesh,265051,66
+2025,WEST GODAVARI,Andhra Pradesh,290493,45
+2021,YSR Kadapa,Andhra Pradesh,1723585,545
+2022,YSR Kadapa,Andhra Pradesh,2664153,712
+2023,YSR Kadapa,Andhra Pradesh,2052139,599
+2024,YSR Kadapa,Andhra Pradesh,2032409,376
+2025,YSR Kadapa,Andhra Pradesh,2522385,570
+2021,TAWANG,Arunachal Pradesh,1034763,244
+2022,Tawang,Arunachal Pradesh,1105142,223
+2023,Tawang,Arunachal Pradesh,1010357,257
+2024,Tawang,Arunachal Pradesh,1332376,403
+2025,Tawang,Arunachal Pradesh,1109515,266
+2021,West Kameng,Arunachal Pradesh,762467,344
+2022,West Kameng,Arunachal Pradesh,1069421,288
+2023,West Kameng,Arunachal Pradesh,886623,285
+2024,West Kameng,Arunachal Pradesh,1099083,411
+2025,West Kameng,Arunachal Pradesh,1124166,263
+2021,East Kameng,Arunachal Pradesh,1322242,540
+2022,East Kameng,Arunachal Pradesh,1426833,539
+2023,East Kameng,Arunachal Pradesh,1835179,455
+2024,East Kameng,Arunachal Pradesh,1785630,579
+2025,East Kameng,Arunachal Pradesh,1988329,601
+2021,Papum Pare,Arunachal Pradesh,2644655,1191
+2022,Papum Pare,Arunachal Pradesh,2855871,676
+2023,Papum Pare,Arunachal Pradesh,3814906,878
+2024,Papum Pare,Arunachal Pradesh,4036974,753
+2025,Papum Pare,Arunachal Pradesh,3508291,614
+2021,kurung kumey,Arunachal Pradesh,1513789,319
+2022,Kurung  Kumey,Arunachal Pradesh,1768291,717
+2023,Kurung Kumey,Arunachal Pradesh,2846528,457
+2024,Kurung Kumey,Arunachal Pradesh,2360787,580
+2025,Kurung Kumey,Arunachal Pradesh,2318752,541
+2021,KRA DAADI,Arunachal Pradesh,182455,44
+2022,Kra Daadi,Arunachal Pradesh,197577,75
+2023,Kra Daadi,Arunachal Pradesh,211370,55
+2024,Kra Daadi,Arunachal Pradesh,233909,41
+2025,Kra Daadi,Arunachal Pradesh,273094,57
+2021,Lower Subansiri,Arunachal Pradesh,202937,94
+2022,Lower Subansiri,Arunachal Pradesh,255013,70
+2023,LOWER SUBANSIRI,Arunachal Pradesh,400012,62
+2024,Lower Subansiri,Arunachal Pradesh,381156,107
+2025,LOWER SUBANSIRI,Arunachal Pradesh,344368,73
+2021,Upper Subansiri,Arunachal Pradesh,558036,108
+2022,Upper Subansiri,Arunachal Pradesh,756072,187
+2023,Upper Subansiri,Arunachal Pradesh,741721,192
+2024,Upper Subansiri,Arunachal Pradesh,867952,206
+2025,Upper Subansiri,Arunachal Pradesh,943793,184
+2021,West Siang,Arunachal Pradesh,576007,157
+2022,WEST SIANG,Arunachal Pradesh,1395892,253
+2023,West Siang,Arunachal Pradesh,1000189,314
+2024,West Siang,Arunachal Pradesh,1378941,279
+2025,West Siang,Arunachal Pradesh,1139044,255
+2021,East Siang,Arunachal Pradesh,1177511,385
+2022,East Siang,Arunachal Pradesh,1169644,443
+2023,East Siang,Arunachal Pradesh,1700768,342
+2024,East Siang,Arunachal Pradesh,1201300,252
+2025,EAST SIANG,Arunachal Pradesh,1899595,295
+2021,Siang,Arunachal Pradesh,325532,167
+2022,Siang,Arunachal Pradesh,524813,165
+2023,Siang,Arunachal Pradesh,475394,183
+2024,Siang,Arunachal Pradesh,536964,179
+2025,Siang,Arunachal Pradesh,411703,184
+2021,Upper Siang,Arunachal Pradesh,1068695,313
+2022,Upper Siang,Arunachal Pradesh,849656,375
+2023,Upper Siang,Arunachal Pradesh,945332,246
+2024,Upper Siang,Arunachal Pradesh,1176165,230
+2025,Upper Siang,Arunachal Pradesh,1042730,250
+2021,Lower Siang,Arunachal Pradesh,469259,186
+2022,LOWER SIANG,Arunachal Pradesh,452191,132
+2023,Lower Siang,Arunachal Pradesh,647167,162
+2024,Lower Siang,Arunachal Pradesh,527765,102
+2025,Lower Siang,Arunachal Pradesh,628098,96
+2021,Lower Dibang Valley,Arunachal Pradesh,465250,96
+2022,Lower Dibang Valley,Arunachal Pradesh,431924,199
+2023,Lower Dibang Valley,Arunachal Pradesh,546020,206
+2024,Lower Dibang Valley,Arunachal Pradesh,656244,103
+2025,Lower Dibang Valley,Arunachal Pradesh,588162,109
+2021,Dibang Valley,Arunachal Pradesh,233589,93
+2022,Dibang Valley,Arunachal Pradesh,338229,71
+2023,Dibang Valley,Arunachal Pradesh,364611,61
+2024,Dibang Valley,Arunachal Pradesh,344510,95
+2025,Dibang Valley,Arunachal Pradesh,490444,56
+2021,Anjaw,Arunachal Pradesh,278741,139
+2022,Anjaw,Arunachal Pradesh,394421,133
+2023,Anjaw,Arunachal Pradesh,483431,126
+2024,Anjaw,Arunachal Pradesh,461645,74
+2025,Anjaw,Arunachal Pradesh,453067,167
+2021,Lohit,Arunachal Pradesh,281995,106
+2022,Lohit,Arunachal Pradesh,302451,120
+2023,Lohit,Arunachal Pradesh,315185,110
+2024,Lohit,Arunachal Pradesh,404969,107
+2025,Lohit,Arunachal Pradesh,319791,99
+2021,Namsai,Arunachal Pradesh,343815,140
+2022,Namsai,Arunachal Pradesh,406284,127
+2023,Namsai,Arunachal Pradesh,358727,130
+2024,Namsai,Arunachal Pradesh,437677,160
+2025,Namsai,Arunachal Pradesh,581023,144
+2021,Changlang,Arunachal Pradesh,2269052,701
+2022,CHANGLANG,Arunachal Pradesh,2770579,327
+2023,Changlang,Arunachal Pradesh,3992436,578
+2024,Changlang,Arunachal Pradesh,2513742,597
+2025,CHANGLANG,Arunachal Pradesh,4658949,341
+2021,Tirap,Arunachal Pradesh,379816,83
+2022,Tirap,Arunachal Pradesh,464937,90
+2023,Tirap,Arunachal Pradesh,566685,87
+2024,Tirap,Arunachal Pradesh,535486,137
+2025,Tirap,Arunachal Pradesh,577227,138
+2021,Longding,Arunachal Pradesh,4531657,2271
+2022,Longding,Arunachal Pradesh,5076090,2247
+2023,Longding,Arunachal Pradesh,6093284,1979
+2024,Longding,Arunachal Pradesh,6201425,1892
+2025,LONGDING,Arunachal Pradesh,8011310,2002
+2021,BAKSA,Assam,1289609,404
+2022,Baksa,Assam,1721452,413
+2023,BAKSA,Assam,1359572,332
+2024,BAKSA,Assam,1301866,327
+2025,Baksa,Assam,1707130,495
+2021,Barpeta,Assam,802804,237
+2022,Barpeta,Assam,657622,379
+2023,Barpeta,Assam,978264,388
+2024,Barpeta,Assam,996247,304
+2025,Barpeta,Assam,1143153,353
+2021,Biswanath,Assam,416915,108
+2022,Biswanath,Assam,405709,127
+2023,Biswanath,Assam,554707,89
+2024,Biswanath,Assam,664367,98
+2025,Biswanath,Assam,569033,80
+2021,Bongaigaon,Assam,1038239,540
+2022,Bongaigaon,Assam,1231666,503
+2023,Bongaigaon,Assam,1544584,579
+2024,Bongaigaon,Assam,1837581,534
+2025,Bongaigaon,Assam,1837181,423
+2021,Cachar,Assam,436446,186
+2022,Cachar,Assam,452148,184
+2023,Cachar,Assam,526638,127
+2024,Cachar,Assam,540010,126
+2025,Cachar,Assam,568208,131
+2021,Charaideo,Assam,924328,211
+2022,Charaideo,Assam,913835,230
+2023,Charaideo,Assam,1050535,199
+2024,Charaideo,Assam,1248260,374
+2025,Charaideo,Assam,1161032,255
+2021,Chirang,Assam,6509499,2116
+2022,Chirang,Assam,6610414,1393
+2023,Chirang,Assam,5432791,2301
+2024,CHIRANG,Assam,7220627,2131
+2025,Chirang,Assam,9884421,1833
+2021,Darrang,Assam,645351,224
+2022,Darrang,Assam,945284,309
+2023,Darrang,Assam,978797,222
+2024,Darrang,Assam,1180191,229
+2025,Darrang,Assam,1189249,287
+2021,Dhemaji,Assam,1775440,730
+2022,Dhemaji,Assam,1694904,721
+2023,Dhemaji,Assam,2035710,522
+2024,Dhemaji,Assam,2349575,506
+2025,Dhemaji,Assam,2424105,494
+2021,Dhubri,Assam,436290,134
+2022,Dhubri,Assam,529399,151
+2023,Dhubri,Assam,680654,184
+2024,Dhubri,Assam,555605,184
+2025,Dhubri,Assam,702923,181
+2021,Dibrugarh,Assam,512513,269
+2022,DIBRUGARH,Assam,835192,153
+2023,Dibrugarh,Assam,686552,161
+2024,Dibrugarh,Assam,919224,314
+2025,Dibrugarh,Assam,835826,260
+2021,Goalpara,Assam,4248223,1289
+2022,Goalpara,Assam,2736225,1076
+2023,Goalpara,Assam,2939339,1164
+2024,GOALPARA,Assam,4565539,948
+2025,goalpara,Assam,3868286,1039
+2021,GOLAGHAT,Assam,487247,130
+2022,Golaghat,Assam,463190,157
+2023,Golaghat,Assam,562287,173
+2024,  Golaghat ,Assam,503994,116
+2025,Golaghat,Assam,618521,147
+2021,Hailakandi,Assam,3465246,1059
+2022,  Hailakandi ,Assam,4141274,1270
+2023,HAILAKANDI,Assam,3741504,888
+2024,  Hailakandi ,Assam,5175722,894
+2025,Hailakandi,Assam,5060748,1052
+2021,Hojai,Assam,1523848,530
+2022,Hojai,Assam,1803319,466
+2023,HOJAI,Assam,1655904,576
+2024,Hojai,Assam,2246105,430
+2025,HOJAI,Assam,1710052,387
+2021,Jorhat,Assam,475748,156
+2022,Jorhat,Assam,508085,166
+2023,Jorhat,Assam,556917,199
+2024,Jorhat,Assam,595454,217
+2025,Jorhat,Assam,695015,206
+2021,Kamrup Metropolitan,Assam,1248902,275
+2022,Kamrup Metropolitan,Assam,1246672,369
+2023,Kamrup Metropolitan,Assam,1901351,489
+2024,Kamrup Metropolitan,Assam,1572148,379
+2025,Kamrup Metropolitan,Assam,2194988,402
+2021,Kamrup,Assam,1587828,683
+2022,Kamrup,Assam,1663517,684
+2023,Kamrup,Assam,2219499,623
+2024,Kamrup,Assam,2150708,305
+2025,Kamrup,Assam,2227291,344
+2021,Karbi Anglong,Assam,1129319,507
+2022,Karbi Anglong,Assam,1093673,383
+2023,Karbi Anglong,Assam,1546548,296
+2024,Karbi Anglong,Assam,1403990,453
+2025,KARBI ANGLONG,Assam,1603256,426
+2021,Karimganj,Assam,333738,77
+2022,Karimganj,Assam,307595,102
+2023,Karimganj,Assam,413556,97
+2024,Karimganj,Assam,311918,81
+2025,Karimganj,Assam,453166,53
+2021,Kokrajhar,Assam,662286,124
+2022,Kokrajhar,Assam,443580,95
+2023,Kokrajhar,Assam,727623,154
+2024,Kokrajhar,Assam,703262,107
+2025,Kokrajhar,Assam,584931,126
+2021,Lakhimpur,Assam,1047614,148
+2022,Lakhimpur,Assam,790577,281
+2023,LAKHIMPUR,Assam,939007,235
+2024,Lakhimpur,Assam,894460,282
+2025,Lakhimpur,Assam,829517,179
+2021,Majuli,Assam,659628,175
+2022,Majuli,Assam,618279,247
+2023,Majuli,Assam,641972,193
+2024,Majuli,Assam,770592,317
+2025,Majuli,Assam,1013296,241
+2021,MORIGAON,Assam,1197201,409
+2022,Morigaon,Assam,1582216,448
+2023,Morigaon,Assam,1449396,385
+2024,Morigaon,Assam,1397141,252
+2025,Morigaon,Assam,1754563,344
+2021,NAGAON,Assam,1004152,235
+2022,Nagaon,Assam,1034887,315
+2023,Nagaon,Assam,1043473,279
+2024,Nagaon,Assam,1148007,380
+2025,Nagaon,Assam,1136655,306
+2021,Nalbari,Assam,303572,105
+2022,Nalbari,Assam,311110,118
+2023,Nalbari,Assam,436073,91
+2024,Nalbari,Assam,452575,63
+2025,Nalbari,Assam,543174,80
+2021,Dima Hasao,Assam,815108,301
+2022,Dima Hasao,Assam,1113222,223
+2023,North Cachar Hills,Assam,1347403,241
+2024,Dima Hasao,Assam,1241342,213
+2025,Dima Hasao,Assam,1147864,256
+2021,Sivasagar,Assam,1107742,473
+2022,Sivasagar,Assam,1393357,455
+2023,Sivasagar,Assam,1759619,319
+2024,SIVASAGAR,Assam,1827736,524
+2025,Sivasagar,Assam,1906360,259
+2021,Sonitpur,Assam,1028160,351
+2022,Sonitpur,Assam,1196362,225
+2023,Sonitpur,Assam,1094022,515
+2024,SONITPUR,Assam,1053673,457
+2025,SONITPUR,Assam,1207942,513
+2021,SOUTH SALMARA-MANKACHAR,Assam,1975671,643
+2022,South Salmara-Mankachar,Assam,2338322,364
+2023,South Salmara-Mankachar,Assam,2718847,497
+2024,South Salmara-Mankachar,Assam,2095812,716
+2025,South Salmara-Mankachar,Assam,1934616,740
+2021,Tinsukia,Assam,2293293,510
+2022,  Tinsukia ,Assam,1939887,640
+2023,TINSUKIA,Assam,2237562,373
+2024,Tinsukia,Assam,1773468,520
+2025,Tinsukia,Assam,2804195,508
+2021,Udalguri,Assam,1326748,255
+2022,Udalguri,Assam,1627657,401
+2023,Udalguri,Assam,1417191,250
+2024,Udalguri,Assam,1746513,232
+2025,Udalguri,Assam,1968161,326
+2021,WEST KARBI ANGLONG,Assam,679079,256
+2022,West Karbi Anglong,Assam,707823,265
+2023,WEST KARBI ANGLONG,Assam,873086,206
+2024,West Karbi Anglong,Assam,921113,302
+2025,West Karbi Anglong,Assam,762412,172
+2021,Araria,Bihar,258949,89
+2022,Araria,Bihar,320772,70
+2023,Araria,Bihar,352714,83
+2024,Araria,Bihar,446266,82
+2025,Araria,Bihar,423068,67
+2021,Arwal,Bihar,1636182,436
+2022,Arwal,Bihar,1213227,325
+2023,Arwal,Bihar,1615042,281
+2024,Arwal,Bihar,1418904,450
+2025,Arwal,Bihar,1171803,311
+2021,Aurangabad,Bihar,1537474,437
+2022,Aurangabad,Bihar,1780283,585
+2023,Chhatrapati Sambhajinagar,Bihar,1468774,531
+2024,Aurangabad,Bihar,1671794,427
+2025,Aurangabad,Bihar,1692387,551
+2021,Banka,Bihar,785954,366
+2022,Banka,Bihar,1073535,357
+2023,Banka,Bihar,1199248,302
+2024,Banka,Bihar,1292811,386
+2025,Banka,Bihar,1630293,282
+2021,Begusarai,Bihar,355774,58
+2022,Begusarai,Bihar,659512,121
+2023,Begusarai,Bihar,475323,78
+2024,Begusarai,Bihar,615610,101
+2025,Begusarai,Bihar,610265,124
+2021,Bhagalpur,Bihar,461141,127
+2022,Bhagalpur,Bihar,478357,130
+2023,Bhagalpur,Bihar,579441,125
+2024,Bhagalpur,Bihar,458021,78
+2025,BHAGALPUR,Bihar,534521,86
+2021,Bhojpur,Bihar,2417542,598
+2022,BHOJPUR,Bihar,2795503,643
+2023,BHOJPUR,Bihar,4367819,652
+2024,Bhojpur,Bihar,2713490,661
+2025,Bhojpur,Bihar,2756015,467
+2021,Buxar,Bihar,735786,250
+2022,Buxar,Bihar,804942,260
+2023,BUXAR,Bihar,660000,206
+2024,BUXAR,Bihar,725636,235
+2025,Buxar,Bihar,689055,275
+2021,Darbhanga,Bihar,1612694,276
+2022,Darbhanga,Bihar,1686081,556
+2023,Darbhanga,Bihar,2117322,566
+2024,Darbhanga,Bihar,2401739,463
+2025,Darbhanga,Bihar,2120988,311
+2021,East Champaran (Motihari),Bihar,1060537,181
+2022,East Champaran (Motihari),Bihar,813508,214
+2023,East Champaran (Motihari),Bihar,858037,150
+2024,East Champaran (Motihari),Bihar,809759,210
+2025,East Champaran (Motihari),Bihar,1156171,168
+2021,Gaya,Bihar,953121,339
+2022,Gaya,Bihar,1046166,195
+2023,Gaya,Bihar,847441,276
+2024,Gaya,Bihar,1044865,190
+2025,GAYA,Bihar,697388,324
+2021,Gopalganj,Bihar,1468028,441
+2022,GOPALGANJ,Bihar,2304914,319
+2023,Gopalganj,Bihar,1575739,630
+2024,Gopalganj,Bihar,1929931,414
+2025,Gopalganj,Bihar,2964124,539
+2021,Jamui,Bihar,517015,182
+2022,Jamui,Bihar,459676,120
+2023,Jamui,Bihar,642643,165
+2024,Jamui,Bihar,536928,146
+2025,Jamui,Bihar,559479,213
+2021,Jehanabad,Bihar,904588,367
+2022,Jehanabad,Bihar,957820,277
+2023,Jehanabad,Bihar,977431,337
+2024,Jehanabad,Bihar,886680,220
+2025,Jehanabad,Bihar,959993,190
+2021,Kaimur (Bhabua),Bihar,632208,187
+2022,Kaimur (Bhabua),Bihar,769498,139
+2023,Kaimur (Bhabua),Bihar,785747,137
+2024,Kaimur (Bhabua),Bihar,798525,141
+2025,Kaimur (Bhabua),Bihar,610903,117
+2021,Katihar,Bihar,796638,129
+2022,Katihar,Bihar,1006928,243
+2023,Katihar,Bihar,907966,111
+2024,Katihar,Bihar,1096884,151
+2025,Katihar,Bihar,1078679,185
+2021,Khagaria,Bihar,517281,125
+2022,Khagaria,Bihar,641268,217
+2023,Khagaria,Bihar,738305,157
+2024,Khagaria,Bihar,691827,249
+2025,Khagaria,Bihar,1170373,150
+2021,Kishanganj,Bihar,813334,260
+2022,Kishanganj,Bihar,738766,237
+2023,Kishanganj,Bihar,867188,191
+2024,Kishanganj,Bihar,974819,352
+2025,Kishanganj,Bihar,1179901,372
+2021,Lakhisarai,Bihar,495850,153
+2022,Lakhisarai,Bihar,722478,119
+2023,Lakhisarai,Bihar,748512,132
+2024,Lakhisarai,Bihar,633730,193
+2025,Lakhisarai,Bihar,691508,165
+2021,Madhepura,Bihar,2870325,852
+2022,MADHEPURA,Bihar,2553635,622
+2023,Madhepura,Bihar,2515903,388
+2024,MADHEPURA,Bihar,3669564,577
+2025,MADHEPURA,Bihar,2343129,515
+2021,Madhubani,Bihar,411043,160
+2022,Madhubani,Bihar,589545,108
+2023,Madhubani,Bihar,513829,105
+2024,Madhubani,Bihar,483154,169
+2025,Madhubani,Bihar,717697,149
+2021,Munger (Monghyr),Bihar,691069,235
+2022,Munger (Monghyr),Bihar,1005854,134
+2023,Munge (Monghyr),Bihar,622602,196
+2024,Munger (Monghyr),Bihar,942540,226
+2025,Munger  (Monghyr),Bihar,767082,163
+2021,Muzaffarpur,Bihar,580755,242
+2022,Muzaffarpur,Bihar,738827,237
+2023,Muzaffarpur,Bihar,674732,231
+2024,MUZAFFARPUR,Bihar,578543,172
+2025,Muzaffarpur,Bihar,958416,108
+2021,NALANDA,Bihar,2828830,683
+2022,  Nalanda ,Bihar,3341914,1000
+2023,nalanda,Bihar,2967848,758
+2024,Nalanda,Bihar,2550022,497
+2025,Nalanda,Bihar,3008586,681
+2021,Nawada,Bihar,1131265,174
+2022,Nawada,Bihar,1204492,339
+2023,NAWADA,Bihar,1112312,285
+2024,Nawada,Bihar,1016666,307
+2025,Nawada,Bihar,1689791,356
+2021,Patna,Bihar,1477610,380
+2022,Patna,Bihar,1796553,530
+2023,Patna,Bihar,1642037,487
+2024,PATNA,Bihar,2116154,565
+2025,Patna,Bihar,2375386,462
+2021,Purnia (Purnea),Bihar,218544,65
+2022,Purnia (Purnea),Bihar,281282,62
+2023,Purnia (Purnea),Bihar,272939,55
+2024,Purnia (Purnea),Bihar,373502,66
+2025,Purnia (Purnea),Bihar,298783,50
+2021,Rohtas,Bihar,1141694,387
+2022,Rohtas,Bihar,1324145,219
+2023,Rohtas,Bihar,1347082,362
+2024,Rohtas,Bihar,1235433,336
+2025,rohtas,Bihar,1251360,336
+2021,Saharsa,Bihar,1427965,332
+2022,Saharsa,Bihar,1260147,503
+2023,Saharsa,Bihar,1471931,623
+2024,Saharsa,Bihar,2050412,382
+2025,Saharsa,Bihar,1549789,498
+2021,Samastipur,Bihar,735719,311
+2022,Samastipur,Bihar,1096906,177
+2023,Samastipur,Bihar,1258865,296
+2024,SAMASTIPUR,Bihar,1231023,314
+2025,Samastipur,Bihar,1517352,218
+2021,Saran,Bihar,1789428,648
+2022,Saran,Bihar,2094179,728
+2023,Saran,Bihar,2011452,527
+2024,Saran,Bihar,2400613,711
+2025,Saran,Bihar,2486898,484
+2021,Sheikhpura,Bihar,439563,113
+2022,Sheikhpura,Bihar,501285,140
+2023,Sheikhpura,Bihar,488388,127
+2024,Sheikhpura,Bihar,538247,173
+2025,Sheikhpura,Bihar,534260,223
+2021,Sheohar,Bihar,2513699,966
+2022,Sheohar,Bihar,2031762,951
+2023,Sheohar,Bihar,3026793,829
+2024,Sheohar,Bihar,3289254,509
+2025,Sheohar,Bihar,2977739,797
+2021,SITAMARHI,Bihar,4058978,1142
+2022,Sitamarhi,Bihar,3186552,1460
+2023,Sitamarhi,Bihar,5921019,907
+2024,Sitamarhi,Bihar,3792812,827
+2025,Sitamarhi,Bihar,4678207,1587
+2021,Siwan,Bihar,660619,117
+2022,Siwan,Bihar,753864,217
+2023,Siwan,Bihar,776494,238
+2024,Siwan,Bihar,694763,198
+2025,Siwan,Bihar,832243,114
+2021,Supaul,Bihar,535882,110
+2022,SUPAUL,Bihar,524128,153
+2023,Supaul,Bihar,756970,166
+2024,Supaul,Bihar,744808,173
+2025,Supaul,Bihar,743318,147
+2021,Vaishali,Bihar,2261187,539
+2022,Vaishali,Bihar,2116357,634
+2023,Vaishali,Bihar,3185314,780
+2024,Vaishali,Bihar,2965988,909
+2025,Vaishali,Bihar,3347579,746
+2021,West Champaran,Bihar,2484264,755
+2022,West Champaran,Bihar,2796588,994
+2023,West Champaran,Bihar,3764723,575
+2024,West Champaran,Bihar,3740142,1065
+2025,West Champaran,Bihar,3735628,664
+2021,Chandigarh,Chandigarh (UT),610739,176
+2022,Chandigarh,Chandigarh (UT),599967,144
+2023,Chandigarh,Chandigarh (UT),832786,152
+2024,Chndigarh,Chandigarh (UT),602554,128
+2025,Chandigarh,Chandigarh (UT),988419,166
+2021,Balod,Chhattisgarh,1016924,227
+2022,Balod,Chhattisgarh,1080206,131
+2023,BALOD,Chhattisgarh,1153859,166
+2024,Balod,Chhattisgarh,1063840,220
+2025,Balod,Chhattisgarh,987244,223
+2021,Baloda Bazar,Chhattisgarh,608260,264
+2022,BALODA BAZAR,Chhattisgarh,649200,121
+2023,Baloda Bazar,Chhattisgarh,821448,242
+2024,Baloda Bazar,Chhattisgarh,678606,125
+2025,Baloda Bazar,Chhattisgarh,570009,263
+2021,Balrampur,Chhattisgarh,842147,315
+2022,Balrampur,Chhattisgarh,1116444,351
+2023,Balrampur,Chhattisgarh,1186189,187
+2024,Balrampur,Chhattisgarh,1432627,227
+2025,BALRAMPUR,Chhattisgarh,916170,328
+2021,Bastar,Chhattisgarh,435211,85
+2022,Bastar,Chhattisgarh,422287,124
+2023,Bastar,Chhattisgarh,500401,106
+2024,Bastar,Chhattisgarh,471618,108
+2025,Bastar,Chhattisgarh,578291,134
+2021,Bemetara,Chhattisgarh,315247,133
+2022,BEMETARA,Chhattisgarh,309886,156
+2023,Bemetara,Chhattisgarh,329610,135
+2024,Bemetara,Chhattisgarh,404513,99
+2025,Bemetara,Chhattisgarh,345250,122
+2021,Bijapur,Chhattisgarh,459535,138
+2022,Bijapur,Chhattisgarh,397503,95
+2023,BIJAPUR,Chhattisgarh,580430,168
+2024,Bijapur,Chhattisgarh,660707,101
+2025,Bijapur,Chhattisgarh,587839,120
+2021,Bilaspur,Chhattisgarh,408177,166
+2022,Bilaspur,Chhattisgarh,458615,177
+2023,BILASPUR,Chhattisgarh,551372,103
+2024,Bilaspur,Chhattisgarh,643265,102
+2025,Bilaspur,Chhattisgarh,690699,102
+2021,Dantewada (South Bastar),Chhattisgarh,1333969,317
+2022,Dantewada (South Bastar),Chhattisgarh,1689679,180
+2023,Dantewada (South Bastar),Chhattisgarh,2539881,367
+2024,Dantewada (South Bastar),Chhattisgarh,1638427,331
+2025,Dantewada (South Bastar),Chhattisgarh,1472952,329
+2021,Dhamtari,Chhattisgarh,2748639,871
+2022,Dhamtari,Chhattisgarh,3021089,1055
+2023,Dhamtari,Chhattisgarh,2851789,1095
+2024,Dhamtari,Chhattisgarh,3099829,1014
+2025,DHAMTARI,Chhattisgarh,3358636,794
+2021,Durg,Chhattisgarh,386075,127
+2022,Durg,Chhattisgarh,384973,113
+2023,Durg,Chhattisgarh,458291,120
+2024,Durg,Chhattisgarh,444379,117
+2025,Durg,Chhattisgarh,509895,95
+2021,Gariyaband,Chhattisgarh,1894226,536
+2022,GARIYABAND,Chhattisgarh,1579081,611
+2023,Gariyaband,Chhattisgarh,1739800,509
+2024,Gariyaband,Chhattisgarh,2086415,551
+2025,Gariyaband,Chhattisgarh,2437294,633
+2021,Janjgir-Champa,Chhattisgarh,734286,210
+2022,Janjgir-Champa,Chhattisgarh,615452,268
+2023,Janjgir-Champa,Chhattisgarh,698894,152
+2024,Janjgir-Champa,Chhattisgarh,706259,273
+2025,Janjgir-Champa,Chhattisgarh,1033264,175
+2021,Jashpur,Chhattisgarh,1079111,243
+2022,Jashpur,Chhattisgarh,1091463,210
+2023,Jashpur,Chhattisgarh,983158,240
+2024,Jashpur,Chhattisgarh,1403771,310
+2025,Jashpur,Chhattisgarh,993432,205
+2021,Kabirdham (Kawardha),Chhattisgarh,1219647,456
+2022,Kabirdham (Kawardha),Chhattisgarh,1888760,448
+2023,Kabirdham (Kawardha),Chhattisgarh,1646963,554
+2024,Kabirdham (Kawardha),Chhattisgarh,1885095,511
+2025,Kabirdham (Kawardha),Chhattisgarh,2280949,260
+2021,Kanker (North Bastar),Chhattisgarh,479380,69
+2022,Kanker (North Bastar),Chhattisgarh,393579,113
+2023,Kanker (North Bastar),Chhattisgarh,533750,128
+2024,Kanker (North Bastar),Chhattisgarh,593734,77
+2025,Kanker (North Bastar),Chhattisgarh,651463,112
+2021,Kondagaon,Chhattisgarh,847615,218
+2022,Kondagaon,Chhattisgarh,842247,408
+2023,Kondagaon,Chhattisgarh,1183618,347
+2024,Kondagaon,Chhattisgarh,1514904,287
+2025,Kondagaon,Chhattisgarh,1186585,196
+2021,Korba,Chhattisgarh,1269481,208
+2022,Korba,Chhattisgarh,1326584,296
+2023,KORBA,Chhattisgarh,1611662,239
+2024,Korba,Chhattisgarh,1776815,272
+2025,Korba,Chhattisgarh,1543239,181
+2021,Korea (Koriya),Chhattisgarh,923294,286
+2022,Korea (Koriya),Chhattisgarh,856953,292
+2023,Korea (Koriya),Chhattisgarh,1182492,445
+2024,Korea (Koriya),Chhattisgarh,1213316,323
+2025,Korea (Koriya),Chhattisgarh,1333786,429
+2021,Mahasamund,Chhattisgarh,1168955,248
+2022,Mahasamund,Chhattisgarh,1319077,422
+2023,Mahasamund,Chhattisgarh,1232213,269
+2024,Mahasamund,Chhattisgarh,1210325,302
+2025,Mahasamund,Chhattisgarh,1584625,337
+2021,Mungeli,Chhattisgarh,6876119,1485
+2022,Mungeli,Chhattisgarh,8794768,2072
+2023,Mungeli,Chhattisgarh,8718407,1361
+2024,Mungeli,Chhattisgarh,9822340,1783
+2025,Mungeli,Chhattisgarh,9032556,980
+2021,Narayanpur,Chhattisgarh,478450,181
+2022,Narayanpur,Chhattisgarh,554264,116
+2023,Narayanpur,Chhattisgarh,499489,134
+2024,Narayanpur,Chhattisgarh,549462,137
+2025,Narayanpur,Chhattisgarh,567791,187
+2021,Raigarh,Chhattisgarh,546805,113
+2022,Raigarh,Chhattisgarh,367086,141
+2023,Raigarh,Chhattisgarh,609670,200
+2024,Raigarh,Chhattisgarh,683502,146
+2025,RAIGARH,Chhattisgarh,692802,114
+2021,Raipur,Chhattisgarh,577062,172
+2022,RAIPUR,Chhattisgarh,471794,169
+2023,Raipur,Chhattisgarh,551738,127
+2024,Raipur,Chhattisgarh,679648,162
+2025,Raipur,Chhattisgarh,735730,118
+2021,Rajnandgaon,Chhattisgarh,322996,175
+2022,Rajnandgaon,Chhattisgarh,628455,172
+2023,Rajnandgaon,Chhattisgarh,527910,225
+2024,RAJNANDGAON,Chhattisgarh,570101,124
+2025,Rajnandgaon,Chhattisgarh,685513,129
+2021,Sukma,Chhattisgarh,497930,162
+2022,Sukma,Chhattisgarh,484834,195
+2023,Sukma,Chhattisgarh,438818,94
+2024,SUKMA,Chhattisgarh,543969,144
+2025,Sukma,Chhattisgarh,660163,199
+2021,Surajpur,Chhattisgarh,2119009,750
+2022,Surajpur,Chhattisgarh,2242497,525
+2023,Surajpur,Chhattisgarh,2183214,767
+2024,Surajpur,Chhattisgarh,2700484,795
+2025,Surajpur,Chhattisgarh,3172841,617
+2021,Surguja,Chhattisgarh,2278500,535
+2022,Surguja,Chhattisgarh,1835173,859
+2023,Surguja,Chhattisgarh,2510568,704
+2024,Surguja,Chhattisgarh,2900170,967
+2025,Surguja,Chhattisgarh,2698187,738
+2021,Dadra & Nagar Haveli,Dadra and Nagar Haveli (UT),713141,187
+2022,Dadra & Nagar Haveli,Dadra and Nagar Haveli (UT),454249,206
+2023,Dadra & Nagar Haveli,Dadra and Nagar Haveli (UT),552425,141
+2024,DADRA & NAGAR HAVELI,Dadra and Nagar Haveli (UT),729111,103
+2025,Dadra & Nagar Haveli,Dadra and Nagar Haveli (UT),1001302,197
+2021,Daman,Daman and Diu (UT),413676,175
+2022,Daman,Daman and Diu (UT),459184,85
+2023,Daman,Daman and Diu (UT),342980,116
+2024,Daman,Daman and Diu (UT),484592,177
+2025,Daman,Daman and Diu (UT),474342,105
+2021,Diu,Daman and Diu (UT),1723638,239
+2022,Diu,Daman and Diu (UT),1671444,481
+2023,Diu,Daman and Diu (UT),2195698,482
+2024,Diu,Daman and Diu (UT),2489153,346
+2025,Diu,Daman and Diu (UT),2610517,325
+2021,Central Delhi,Delhi (NCT),530467,148
+2022,Central Delhi,Delhi (NCT),503352,221
+2023,Central Delhi,Delhi (NCT),504548,141
+2024,Central Delhi,Delhi (NCT),672919,116
+2025,Central Delhi,Delhi (NCT),670844,133
+2021,East Delhi,Delhi (NCT),1034540,533
+2022,East Delhi,Delhi (NCT),1247198,273
+2023,East Delhi,Delhi (NCT),1413267,352
+2024,East Delhi,Delhi (NCT),1454193,344
+2025,East Delhi,Delhi (NCT),1688608,468
+2021,New Delhi,Delhi (NCT),999192,258
+2022,New Delhi,Delhi (NCT),1137285,335
+2023,new delhi,Delhi (NCT),1035832,272
+2024,New Delhi,Delhi (NCT),1476426,397
+2025,New Delhi,Delhi (NCT),1499744,361
+2021,North Delhi,Delhi (NCT),183713,83
+2022,North Delhi,Delhi (NCT),276428,75
+2023,North Delhi,Delhi (NCT),290343,89
+2024,North Delhi,Delhi (NCT),267997,79
+2025,North Delhi,Delhi (NCT),262835,92
+2021,NORTH EAST DELHI,Delhi (NCT),2924823,646
+2022,North East Delhi,Delhi (NCT),2876179,580
+2023,North East Delhi,Delhi (NCT),2896998,800
+2024,North East Delhi,Delhi (NCT),2824404,664
+2025,North East Delhi,Delhi (NCT),3876170,634
+2021,North West Delhi,Delhi (NCT),4597178,1140
+2022,North West Delhi,Delhi (NCT),5794807,1274
+2023,North West Delhi,Delhi (NCT),5353133,749
+2024,North West Delhi,Delhi (NCT),5366524,722
+2025,North West Delhi,Delhi (NCT),6012103,1249
+2021,Shahdara,Delhi (NCT),343412,125
+2022,Shahdara,Delhi (NCT),438764,182
+2023,Shahdara,Delhi (NCT),471099,165
+2024,SHAHDARA,Delhi (NCT),467542,163
+2025,Shahdara,Delhi (NCT),521658,152
+2021,South Delhi,Delhi (NCT),838718,114
+2022,South Delhi,Delhi (NCT),650439,191
+2023,South Delhi,Delhi (NCT),808528,172
+2024,South Delhi,Delhi (NCT),765312,144
+2025,South Delhi,Delhi (NCT),729488,148
+2021,South East Delhi,Delhi (NCT),933959,362
+2022,South East Delhi,Delhi (NCT),1357380,420
+2023,South East Delhi,Delhi (NCT),1031051,364
+2024,South East Delhi,Delhi (NCT),1179703,321
+2025,South East Delhi,Delhi (NCT),1325727,340
+2021,South West Delhi,Delhi (NCT),1285351,370
+2022,South West Delhi,Delhi (NCT),1394349,396
+2023,South West Delhi,Delhi (NCT),1874980,201
+2024,south west delhi,Delhi (NCT),1594175,285
+2025,South West Delhi,Delhi (NCT),1876422,299
+2021,West Delhi,Delhi (NCT),1149404,461
+2022,West Delhi,Delhi (NCT),1542094,545
+2023,West Delhi,Delhi (NCT),1184533,513
+2024,West Delhi,Delhi (NCT),1329067,463
+2025,West Delhi,Delhi (NCT),2320741,532
+2021,North Goa,Goa,2810793,1509
+2022,North Goa,Goa,3263255,1038
+2023,North Goa,Goa,3537970,1353
+2024,North Goa,Goa,2792400,1170
+2025,NORTH GOA,Goa,4772499,973
+2021,South Goa,Goa,478173,285
+2022,South Goa,Goa,955670,220
+2023,South Goa,Goa,749368,190
+2024,South Goa,Goa,1139309,296
+2025,South Goa,Goa,838623,140
+2021,Ahmedabad,Gujarat,531063,146
+2022,Ahmadabad,Gujarat,552549,124
+2023,Ahmedabad,Gujarat,454897,159
+2024,Ahmedabad,Gujarat,622355,103
+2025,Ahmedabad,Gujarat,611142,84
+2021,Amreli,Gujarat,256395,81
+2022,Amreli,Gujarat,317353,119
+2023,Amreli,Gujarat,340329,102
+2024,Amreli,Gujarat,466082,81
+2025,AMRELI,Gujarat,420139,60
+2021,ANAND,Gujarat,505677,176
+2022,ANAND,Gujarat,497044,130
+2023,Anand,Gujarat,687304,132
+2024,Anand,Gujarat,729133,143
+2025,Anand,Gujarat,513363,150
+2021,Aravalli,Gujarat,912488,199
+2022,Aravalli,Gujarat,876966,179
+2023,Aravlli,Gujarat,570852,279
+2024,ARAVALLI,Gujarat,1061877,252
+2025,Aravalli,Gujarat,843140,332
+2021,Banaskantha (Palanpur),Gujarat,3537968,737
+2022,Banaskantha (Palanpur),Gujarat,4397814,583
+2023,Banaskantha,Gujarat,3381996,1186
+2024,Banaskantha (Palanpur),Gujarat,4714559,972
+2025,Banaskantha (Palanpur),Gujarat,4531111,584
+2021,Bharuch,Gujarat,666194,133
+2022,Bharuch,Gujarat,621336,142
+2023,Bharuch,Gujarat,665853,127
+2024,Bharuch,Gujarat,734527,170
+2025,bharuch,Gujarat,711295,153
+2021,Bhavnagar,Gujarat,784797,304
+2022,BHAVNAGAR,Gujarat,873183,306
+2023,Bhavnagar,Gujarat,1045930,204
+2024,Bhavnagar,Gujarat,938360,228
+2025,Bhavnagar,Gujarat,1287284,369
+2021,Botad,Gujarat,1409849,291
+2022,Botad,Gujarat,1235225,206
+2023,BOTAD,Gujarat,1729593,308
+2024,Botad,Gujarat,1619117,264
+2025,Botad,Gujarat,1728800,336
+2021,Chhota Udepur,Gujarat,2126495,370
+2022,Chhota Udepur,Gujarat,2397034,389
+2023,Chhota Udepur,Gujarat,2285803,584
+2024,Chota Udepur,Gujarat,2753579,425
+2025,Chhota Udepur,Gujarat,2490857,430
+2021,Dahod,Gujarat,5350839,1027
+2022,Dahod,Gujarat,4712807,1743
+2023,Dahod,Gujarat,6059236,1156
+2024,Dahod,Gujarat,5958057,1963
+2025,Dahod,Gujarat,6412268,1272
+2021,Dangs (Ahwa),Gujarat,765571,143
+2022,Dangs (Ahwa),Gujarat,590127,190
+2023,Dangs (Ahwa),Gujarat,1147538,132
+2024,Dangs (Ahwa),Gujarat,841236,196
+2025,Dangs (Ahwa),Gujarat,800754,145
+2021,Devbhoomi Dwarka,Gujarat,427248,141
+2022,Devbhoomi Dwarka,Gujarat,501672,178
+2023,Devbhoomi Dwarka,Gujarat,601967,184
+2024,Devbhoomi Dwarka,Gujarat,629126,141
+2025,Devbhoomi Dwarka,Gujarat,619797,118
+2021,Gandhinagar,Gujarat,2505761,581
+2022,Gandhinagar,Gujarat,2072825,403
+2023,GANDHINAGAR,Gujarat,2417713,382
+2024,Gandhinagar,Gujarat,2624252,645
+2025,Gandhinagar,Gujarat,2796729,454
+2021,Gir Somnath,Gujarat,1727542,520
+2022,Gir Somnath,Gujarat,2038668,566
+2023,Gir Somnath,Gujarat,2147444,555
+2024,GIR SOMNATH,Gujarat,2309784,315
+2025,Gir Somnath,Gujarat,2239124,426
+2021,Jamnagar,Gujarat,3016756,670
+2022,Jamnagar,Gujarat,2721229,1238
+2023,Jamnagar,Gujarat,3158909,1064
+2024,Jamnagar,Gujarat,3860797,1089
+2025,Jamnagar,Gujarat,3728463,646
+2021,Junagadh,Gujarat,1348984,255
+2022,Junagadh,Gujarat,1546183,434
+2023,Junagadh,Gujarat,1558627,425
+2024,JUNAGADH,Gujarat,1554963,452
+2025,Junagadh,Gujarat,1791407,417
+2021,Kachchh,Gujarat,650043,238
+2022,Kachchh,Gujarat,776393,225
+2023,Kachchh,Gujarat,874293,131
+2024,Kachchh,Gujarat,863931,121
+2025,Kachchh,Gujarat,776027,139
+2021,Kheda (Nadiad),Gujarat,1577415,510
+2022,Kheda (Nadiad),Gujarat,1477750,305
+2023,Kheda (Nadiad),Gujarat,2008483,474
+2024,Kheda (Nadiad),Gujarat,1866778,489
+2025,Kheda,Gujarat,1683015,449
+2021,Mahisagar,Gujarat,2464969,571
+2022,Mahisagar,Gujarat,3281216,494
+2023,Mahisagar,Gujarat,3651023,708
+2024,Mahisagar,Gujarat,5170792,364
+2025,Mahisagar,Gujarat,4729606,343
+2021,Mehsana,Gujarat,1528243,503
+2022,Mehsana,Gujarat,1467306,337
+2023,Mehsana,Gujarat,2135542,441
+2024,Mehsana,Gujarat,2218348,462
+2025,Mehsana,Gujarat,2147737,582
+2021,Morbi,Gujarat,1112923,417
+2022,Morbi,Gujarat,1212859,429
+2023,Morbi,Gujarat,1441736,468
+2024,Morbi,Gujarat,1376696,371
+2025,Morbi,Gujarat,1495249,269
+2021,Narmada (Rajpipla),Gujarat,1714047,663
+2022,Narmada (Rajpipla),Gujarat,1893638,381
+2023,Narmada,Gujarat,1960116,499
+2024,Narmada (Rajpipla),Gujarat,2138639,535
+2025,Narmada (Rajpipla),Gujarat,2245215,593
+2021,Navsari,Gujarat,1669672,378
+2022,Navsari,Gujarat,1646605,568
+2023,NAVSARI,Gujarat,2553879,459
+2024,Navsari,Gujarat,2098170,628
+2025,Navsari,Gujarat,1959897,454
+2021,Panchmahal (Godhra),Gujarat,3157140,680
+2022,Panchmahal (Godhra),Gujarat,2034087,672
+2023,Panchmahal (Godhra),Gujarat,2391624,938
+2024,Panchmahal (Godhra),Gujarat,2694321,912
+2025,Panch Mahals,Gujarat,3099028,558
+2021,Patan,Gujarat,1563157,343
+2022,Patan,Gujarat,1905283,444
+2023,Patan,Gujarat,1816962,295
+2024,Patan,Gujarat,1826712,514
+2025,Patan,Gujarat,2164297,435
+2021,Porbandar,Gujarat,664906,181
+2022,Porbandar,Gujarat,786047,162
+2023,Porbandar,Gujarat,859293,285
+2024,Porbandar,Gujarat,1009783,186
+2025,PORBANDAR,Gujarat,1048862,210
+2021,Rajkot,Gujarat,1021413,349
+2022,Rajkot,Gujarat,999876,170
+2023,Rajkot,Gujarat,1264390,198
+2024,Rajkot,Gujarat,1172931,353
+2025,Rajkot,Gujarat,1116976,356
+2021,Sabarkantha (Himmatnagar),Gujarat,2719253,426
+2022,Sabarkantha (Himmatnagar),Gujarat,1983933,823
+2023,Sabarkantha (Himmatnagar),Gujarat,2803931,630
+2024,Sabarkantha (Himmatnagar),Gujarat,2062289,733
+2025,Sabarkantha (Himmatnagar),Gujarat,2713676,506
+2021,SURAT,Gujarat,618845,90
+2022,Surat,Gujarat,591353,126
+2023,Surat,Gujarat,820234,181
+2024,Surat,Gujarat,775537,90
+2025,SURAT,Gujarat,858741,127
+2021,Surendranagar,Gujarat,1023887,447
+2022,Surendranagar,Gujarat,1263761,242
+2023,Surendranagar,Gujarat,988930,399
+2024,Surendranagar,Gujarat,1366213,430
+2025,Surendranagar,Gujarat,1367778,203
+2021,Tapi (Vyara),Gujarat,839733,119
+2022,Tapi (Vyara),Gujarat,1193085,233
+2023,Tapi,Gujarat,824408,247
+2024,Tapi (Vyara),Gujarat,1026462,132
+2025,Tapi,Gujarat,1132527,112
+2021,Vadodara,Gujarat,1261503,167
+2022,Vadodara,Gujarat,1414165,153
+2023,Vadodara,Gujarat,974007,161
+2024,Vadodara,Gujarat,1134870,248
+2025,Vadodara,Gujarat,1372445,180
+2021,Valsad,Gujarat,2189650,720
+2022,Valsad,Gujarat,1832171,572
+2023,Valsad,Gujarat,2110424,825
+2024,Valsad,Gujarat,2349119,562
+2025,Valsad,Gujarat,2054296,791
+2021,AMBALA,Haryana,643610,267
+2022,Ambala,Haryana,1130720,373
+2023,Ambala,Haryana,904786,362
+2024,Ambala,Haryana,995363,277
+2025,Ambala,Haryana,900965,327
+2021,Bhiwani,Haryana,1014094,206
+2022,Bhiwani,Haryana,775136,303
+2023,Bhiwani,Haryana,889637,173
+2024,Bhiwani,Haryana,1245236,331
+2025,Bhiwani,Haryana,1189774,348
+2021,Charkhi Dadri,Haryana,265169,96
+2022,Charkhi Dadri,Haryana,360336,82
+2023,CHARKHI DADRI,Haryana,386679,122
+2024,Charkhi Dadri,Haryana,311733,84
+2025,Charkhi Dadri,Haryana,279508,121
+2021,Faridabad,Haryana,2079727,505
+2022,Faridabad,Haryana,2228479,308
+2023,Faridabad,Haryana,1894427,268
+2024,Faridabad,Haryana,2732829,292
+2025,Faridabad,Haryana,2238224,347
+2021,FATEHABAD,Haryana,1347160,555
+2022,Fatehabad,Haryana,1312749,336
+2023,Fatehabad,Haryana,1537687,490
+2024,Fatehabad,Haryana,1671635,503
+2025,FATEHABAD,Haryana,2136521,525
+2021,Gurgaon,Haryana,4265688,1530
+2022,Gurgaon,Haryana,5244517,1695
+2023,Gurgaon,Haryana,5211925,1453
+2024,Gurgaon,Haryana,4505641,1220
+2025,GURGAON,Haryana,6630739,1697
+2021,HISAR,Haryana,563020,144
+2022,HISAR,Haryana,539475,265
+2023,Hisar,Haryana,735322,218
+2024,Hisar,Haryana,774900,239
+2025,Hisar,Haryana,599629,270
+2021,Jhajjar,Haryana,923464,177
+2022,Jhajjar,Haryana,986740,193
+2023,Jhajjar,Haryana,1006420,360
+2024,Jhajjar,Haryana,858714,199
+2025,Jhajjar,Haryana,1273970,351
+2021,JIND,Haryana,894014,312
+2022,Jind,Haryana,1107240,271
+2023,Jind,Haryana,1153860,321
+2024,Jind,Haryana,1218640,292
+2025,JIND,Haryana,1131334,322
+2021,Kaithal,Haryana,4028125,808
+2022,Kaithal,Haryana,3183415,645
+2023,Kaithal,Haryana,3044117,657
+2024,Kaithal,Haryana,3807458,993
+2025,Kaithal,Haryana,4354063,708
+2021,KARNAL,Haryana,782363,270
+2022,Karnal,Haryana,959845,140
+2023,Karnal,Haryana,917621,279
+2024,Karnal,Haryana,913399,146
+2025,Karnal,Haryana,1014701,229
+2021,Kurukshetra,Haryana,657415,341
+2022,Kurukshetra,Haryana,884594,249
+2023,Kurukshetra,Haryana,843449,300
+2024,Kurukshetra,Haryana,1188880,329
+2025,Kurukshetra,Haryana,1011264,333
+2021,MAHENDRAGARH,Haryana,1145973,406
+2022,Mahendragarh,Haryana,1571346,404
+2023,Mahendragarh,Haryana,1821755,509
+2024,Mahendragarh,Haryana,1821864,269
+2025,Mahendragarh,Haryana,1706170,437
+2021,Nuh,Haryana,1116538,251
+2022,Mewat,Haryana,1521029,264
+2023,Mewat,Haryana,1083539,189
+2024,Mewat,Haryana,1448340,284
+2025,Mewat,Haryana,1393666,373
+2021,Palwal,Haryana,671137,149
+2022,Palwal,Haryana,627889,163
+2023,Palwal,Haryana,725342,205
+2024,Palwal,Haryana,693346,196
+2025,PALWAL,Haryana,680315,130
+2021,Panchkula,Haryana,1103880,194
+2022,Panchkula,Haryana,1038791,284
+2023,Panchkula,Haryana,1134331,322
+2024,Panchkula,Haryana,1005664,296
+2025,Panchkula,Haryana,1105256,366
+2021,Panipat,Haryana,1796885,722
+2022,Panipat,Haryana,2062462,385
+2023,Panipat,Haryana,2116736,695
+2024,Panipat,Haryana,2620792,456
+2025,Panipat,Haryana,2747768,678
+2021,Rewari,Haryana,341753,100
+2022,Rewari,Haryana,425495,69
+2023,Rewari,Haryana,292942,155
+2024,Rewari,Haryana,430936,141
+2025,Rewari,Haryana,383652,77
+2021,Rohtak,Haryana,1026606,359
+2022,Rohtak,Haryana,1039095,221
+2023,ROHTAK,Haryana,926252,176
+2024,Rohtak,Haryana,1169865,259
+2025,ROHTAK,Haryana,1006264,163
+2021,Sirsa,Haryana,551223,102
+2022,Sirsa,Haryana,508896,135
+2023,Sirsa,Haryana,525474,170
+2024,Sirsa,Haryana,607875,193
+2025,Sirsa,Haryana,860737,107
+2021,Sonipat,Haryana,2178355,682
+2022,Sonipat,Haryana,2508864,464
+2023,Sonipat,Haryana,2793539,459
+2024,Sonipat,Haryana,3156324,591
+2025,Sonipat,Haryana,3094368,462
+2021,Yamunanagar,Haryana,342254,84
+2022,Yamunanagar,Haryana,358685,85
+2023,Yamunanagar,Haryana,453349,108
+2024,Yamunanagar,Haryana,390887,52
+2025,Yamunanagar,Haryana,539140,101
+2021,Bilaspur,Himachal Pradesh,429533,199
+2022,Bilaspur,Himachal Pradesh,590977,190
+2023,Bilaspur,Himachal Pradesh,485628,197
+2024,Bilaspur,Himachal Pradesh,527461,168
+2025,Bilaspur,Himachal Pradesh,447904,189
+2021,Chamba,Himachal Pradesh,831237,299
+2022,Chamba,Himachal Pradesh,984865,205
+2023,Chamba,Himachal Pradesh,1237304,384
+2024,Chamba,Himachal Pradesh,1160594,402
+2025,Chamba,Himachal Pradesh,1269989,196
+2021,Hamirpur,Himachal Pradesh,3527607,1420
+2022,Hamirpur,Himachal Pradesh,3780375,851
+2023,Hamirpur,Himachal Pradesh,3747694,1247
+2024,Hamirpur,Himachal Pradesh,5617870,1547
+2025,HAMIRPUR,Himachal Pradesh,4279407,875
+2021,KANGRA,Himachal Pradesh,820253,211
+2022,Kangra,Himachal Pradesh,967026,250
+2023,Kangra,Himachal Pradesh,844473,272
+2024,Kangra,Himachal Pradesh,831194,251
+2025,Kangra,Himachal Pradesh,1379254,301
+2021,Kinnaur,Himachal Pradesh,599807,215
+2022,KINNAUR,Himachal Pradesh,671678,140
+2023,Kinnaur,Himachal Pradesh,563929,215
+2024,Kinnaur,Himachal Pradesh,539566,218
+2025,Kinnaur,Himachal Pradesh,902191,207
+2021,Kullu,Himachal Pradesh,5270694,942
+2022,Kullu,Himachal Pradesh,4828513,721
+2023,Kullu,Himachal Pradesh,6512184,1147
+2024,Kullu,Himachal Pradesh,8432737,1239
+2025,Kullu,Himachal Pradesh,6381147,938
+2021,Lahaul  &  Spiti,Himachal Pradesh,306948,80
+2022,Lahul and Spiti,Himachal Pradesh,277606,108
+2023,Lahaul & Spiti,Himachal Pradesh,317326,107
+2024,Lahaul & Spiti,Himachal Pradesh,276549,86
+2025,Lahul and Spiti,Himachal Pradesh,358292,51
+2021,Mandi,Himachal Pradesh,204059,57
+2022,Mandi,Himachal Pradesh,212792,60
+2023,Mandi,Himachal Pradesh,173534,43
+2024,Mandi,Himachal Pradesh,255256,30
+2025,Mandi,Himachal Pradesh,287986,32
+2021,Shimla,Himachal Pradesh,1404009,320
+2022,Shimla,Himachal Pradesh,1219893,301
+2023,Shimla,Himachal Pradesh,1415785,312
+2024,Shimla,Himachal Pradesh,1811111,308
+2025,Shimla,Himachal Pradesh,1936790,381
+2021,Sirmaur (Sirmour),Himachal Pradesh,615448,153
+2022,Sirmaur (Sirmour),Himachal Pradesh,592736,192
+2023,Sirmaur (Sirmour),Himachal Pradesh,791729,229
+2024,Sirmaur (Sirmour),Himachal Pradesh,754522,188
+2025,Sirmaur (Sirmour),Himachal Pradesh,1093057,119
+2021,Solan,Himachal Pradesh,402318,98
+2022,Solan,Himachal Pradesh,271792,119
+2023,Solan,Himachal Pradesh,447296,101
+2024,Solan,Himachal Pradesh,416230,88
+2025,Solan,Himachal Pradesh,709504,114
+2021,Una,Himachal Pradesh,1560324,271
+2022,Una,Himachal Pradesh,1455434,516
+2023,Una,Himachal Pradesh,1684139,571
+2024,Una,Himachal Pradesh,2175399,519
+2025,Una,Himachal Pradesh,2235170,268
+2021,Anantnag,Jammu and Kashmir,942778,235
+2022,Anantnag,Jammu and Kashmir,1066892,251
+2023,Anantnag,Jammu and Kashmir,1121688,349
+2024,ANANTNAG,Jammu and Kashmir,987964,361
+2025,Anantnag,Jammu and Kashmir,1091381,207
+2021,Bandipore,Jammu and Kashmir,509888,150
+2022,Bandipore,Jammu and Kashmir,620391,197
+2023,Bandipore,Jammu and Kashmir,644496,185
+2024,Bandipore,Jammu and Kashmir,668697,96
+2025,Bandipore,Jammu and Kashmir,836435,177
+2021,Baramulla,Jammu and Kashmir,288224,102
+2022,Baramulla,Jammu and Kashmir,368285,121
+2023,Baramulla,Jammu and Kashmir,351768,75
+2024,Baramulla,Jammu and Kashmir,391620,63
+2025,Baramulla,Jammu and Kashmir,483657,75
+2021,Budgam,Jammu and Kashmir,1581189,603
+2022,Budgam,Jammu and Kashmir,1967151,283
+2023,Budgam,Jammu and Kashmir,1890940,410
+2024,BUDGAM,Jammu and Kashmir,2510171,486
+2025,Budgam,Jammu and Kashmir,1810324,537
+2021,  Doda ,Jammu and Kashmir,1595491,541
+2022,Doda,Jammu and Kashmir,2052602,306
+2023,Doda,Jammu and Kashmir,2590770,474
+2024,Doda,Jammu and Kashmir,2013301,518
+2025,Doda,Jammu and Kashmir,2936430,261
+2021,GANDERBAL,Jammu and Kashmir,651722,313
+2022,Ganderbal,Jammu and Kashmir,494012,171
+2023,Ganderbal,Jammu and Kashmir,738456,311
+2024,Ganderbal,Jammu and Kashmir,651611,217
+2025,Ganderbal,Jammu and Kashmir,829178,155
+2021,Jammu,Jammu and Kashmir,3832958,1153
+2022,Jammu,Jammu and Kashmir,3234924,1165
+2023,Jammu,Jammu and Kashmir,4000054,1275
+2024,Jammu,Jammu and Kashmir,4481635,1315
+2025,Jammu,Jammu and Kashmir,5901795,1009
+2021,Kargil,Jammu and Kashmir,306717,88
+2022,Kargil,Jammu and Kashmir,366443,145
+2023,KARGIL,Jammu and Kashmir,467406,148
+2024,Kargil,Jammu and Kashmir,313866,134
+2025,KARGIL,Jammu and Kashmir,395204,86
+2021,Kathua,Jammu and Kashmir,313131,99
+2022,Kathua,Jammu and Kashmir,295600,59
+2023,Kathua,Jammu and Kashmir,281668,79
+2024,Kathua,Jammu and Kashmir,365442,105
+2025,Kathua,Jammu and Kashmir,310456,63
+2021,Kishtwar,Jammu and Kashmir,594083,176
+2022,Kishtwar,Jammu and Kashmir,650901,141
+2023,Kishtwar,Jammu and Kashmir,839542,128
+2024,Kishtwar,Jammu and Kashmir,723624,116
+2025,KISHTWAR,Jammu and Kashmir,980852,171
+2021,Kulgam,Jammu and Kashmir,697303,270
+2022,Kulgam,Jammu and Kashmir,856560,219
+2023,Kulgam,Jammu and Kashmir,870891,190
+2024,Kulgam,Jammu and Kashmir,1150894,180
+2025,Kulgam,Jammu and Kashmir,1206538,251
+2021,Kupwara,Jammu and Kashmir,1029066,273
+2022,Kupwara,Jammu and Kashmir,846344,281
+2023,Kupwara,Jammu and Kashmir,1215911,255
+2024,Kupwara,Jammu and Kashmir,907478,392
+2025,Kupwara,Jammu and Kashmir,1132931,352
+2021,LEH,Jammu and Kashmir,716979,145
+2022,Leh,Jammu and Kashmir,677216,144
+2023,Leh,Jammu and Kashmir,651939,249
+2024,LEH,Jammu and Kashmir,936822,252
+2025,Leh,Jammu and Kashmir,798957,131
+2021,Poonch,Jammu and Kashmir,1304078,314
+2022,Poonch,Jammu and Kashmir,1298342,413
+2023,Poonch,Jammu and Kashmir,1229299,327
+2024,Poonch,Jammu and Kashmir,1385095,413
+2025,Poonch,Jammu and Kashmir,1477700,406
+2021,Pulwama,Jammu and Kashmir,361708,58
+2022,Pulwama,Jammu and Kashmir,298203,123
+2023,Pulwama,Jammu and Kashmir,303608,98
+2024,Pulwama,Jammu and Kashmir,323303,92
+2025,Pulwama,Jammu and Kashmir,414469,101
+2021,RAJOURI,Jammu and Kashmir,2203406,958
+2022,RAJOURI,Jammu and Kashmir,2635211,655
+2023,Rajouri,Jammu and Kashmir,3074658,927
+2024,Rajouri,Jammu and Kashmir,4209963,512
+2025,Rajouri,Jammu and Kashmir,2967513,457
+2021,Ramban,Jammu and Kashmir,803662,277
+2022,Ramban,Jammu and Kashmir,894252,223
+2023,RAMBAN,Jammu and Kashmir,1105526,320
+2024,Ramban,Jammu and Kashmir,1202327,224
+2025,Ramban,Jammu and Kashmir,1314657,264
+2021,Reasi,Jammu and Kashmir,1514665,611
+2022,Reasi,Jammu and Kashmir,1564244,451
+2023,Reasi,Jammu and Kashmir,1446999,445
+2024,Reasi,Jammu and Kashmir,2031984,722
+2025,Reasi,Jammu and Kashmir,2482955,420
+2021,Samba,Jammu and Kashmir,1293261,383
+2022,Samba,Jammu and Kashmir,2596940,414
+2023,Samba,Jammu and Kashmir,1800142,235
+2024,Samba,Jammu and Kashmir,1590736,276
+2025,Samba,Jammu and Kashmir,1713021,216
+2021,Shopian,Jammu and Kashmir,1196765,302
+2022,Shopian,Jammu and Kashmir,1446120,245
+2023,Shopian,Jammu and Kashmir,1625479,210
+2024,Shopian,Jammu and Kashmir,1735627,285
+2025,Shopian,Jammu and Kashmir,1772755,311
+2021,Srinagar,Jammu and Kashmir,936213,386
+2022,Srinagar,Jammu and Kashmir,1284552,235
+2023,Srinagar,Jammu and Kashmir,1050176,239
+2024,Srinagar,Jammu and Kashmir,1219641,226
+2025,Srinagar,Jammu and Kashmir,1373925,231
+2021,Udhampur,Jammu and Kashmir,1112554,225
+2022,Udhampur,Jammu and Kashmir,978806,277
+2023,  Udhampur ,Jammu and Kashmir,1068930,387
+2024,Udhampur,Jammu and Kashmir,1433520,395
+2025,Udhampur,Jammu and Kashmir,1508792,234
+2021,Bokaro,Jharkhand,1378702,458
+2022,Bokaro,Jharkhand,1426013,478
+2023,BOKARO,Jharkhand,1365088,354
+2024,Bokaro,Jharkhand,1820783,447
+2025,Bokaro,Jharkhand,2082618,496
+2021,Chatra,Jharkhand,2849753,416
+2022,Chatra,Jharkhand,3532051,795
+2023,Chatra,Jharkhand,3913195,876
+2024,Chatra,Jharkhand,3428331,797
+2025,CHATRA,Jharkhand,3401497,527
+2021,Deoghar,Jharkhand,1016464,244
+2022,Deoghar,Jharkhand,1081359,255
+2023,Deoghar,Jharkhand,987413,392
+2024,Deoghar,Jharkhand,928186,183
+2025,Deoghar,Jharkhand,1102109,180
+2021,Dhanbad,Jharkhand,1361088,444
+2022,Dhanbad,Jharkhand,1656915,417
+2023,  Dhanbad ,Jharkhand,1984685,506
+2024,Dhanbad,Jharkhand,1958847,265
+2025,Dhanbad,Jharkhand,2048435,440
+2021,Dumka,Jharkhand,990535,282
+2022,Dumka,Jharkhand,898000,196
+2023,Dumka,Jharkhand,904651,301
+2024,Dumka,Jharkhand,942496,207
+2025,Dumka,Jharkhand,1097591,318
+2021,East Singhbhum,Jharkhand,3117395,600
+2022,East Singhbhum,Jharkhand,2345146,1003
+2023,East Singhbhum,Jharkhand,2934500,678
+2024,East Singhbhum,Jharkhand,3338303,489
+2025,East Singhbhum,Jharkhand,4061921,950
+2021,Garhwa,Jharkhand,527643,138
+2022,GARHWA,Jharkhand,404719,184
+2023,Garhwa,Jharkhand,609338,178
+2024,GARHWA,Jharkhand,589315,108
+2025,Garhwa,Jharkhand,463703,161
+2021,Giridih,Jharkhand,2520365,605
+2022,Giridih,Jharkhand,2701010,702
+2023,Giridih,Jharkhand,2540449,696
+2024,Giridih,Jharkhand,2959218,623
+2025,Giridih,Jharkhand,3772362,1264
+2021,Godda,Jharkhand,806722,155
+2022,Godda,Jharkhand,685630,317
+2023,godda,Jharkhand,855751,218
+2024,Godda,Jharkhand,876290,233
+2025,Godda,Jharkhand,1170972,276
+2021,Gumla,Jharkhand,267217,74
+2022,Gumla,Jharkhand,296977,74
+2023,Gumla,Jharkhand,258128,103
+2024,GUMLA,Jharkhand,271792,105
+2025,Gumla,Jharkhand,341502,55
+2021,Hazaribag,Jharkhand,1334715,350
+2022,Hazaribag,Jharkhand,1480259,221
+2023,Hazaribag,Jharkhand,1283665,172
+2024,Hazaribag,Jharkhand,1591836,290
+2025,Hazaribag,Jharkhand,2011002,370
+2021,Jamtaa,Jharkhand,589970,194
+2022,Jamtara,Jharkhand,592437,143
+2023,Jamtara,Jharkhand,524767,110
+2024,Jamtara,Jharkhand,645915,170
+2025,Jamtara,Jharkhand,907963,95
+2021,KHUNTI,Jharkhand,1270034,282
+2022,KHUNTI,Jharkhand,1209889,345
+2023,Khunti,Jharkhand,1489653,539
+2024,Khunti,Jharkhand,1970048,336
+2025,Khunti,Jharkhand,2103579,291
+2021,Koderma,Jharkhand,557296,127
+2022,Koderma,Jharkhand,914891,107
+2023,Koderma,Jharkhand,715771,201
+2024,Koderma,Jharkhand,732609,143
+2025,KODERMA,Jharkhand,818295,196
+2021,Latehar,Jharkhand,893701,168
+2022,Latehar,Jharkhand,825228,164
+2023,Latehar,Jharkhand,1210909,216
+2024,Latehar,Jharkhand,1070262,131
+2025,Latehar,Jharkhand,1345405,111
+2021,Lohardaga,Jharkhand,283729,40
+2022,Lohardaga,Jharkhand,262701,82
+2023,Lohardaga,Jharkhand,310747,81
+2024,Lohardaga,Jharkhand,272756,44
+2025,Lohardaga,Jharkhand,388109,36
+2021,Pakur,Jharkhand,540593,221
+2022,Pakur,Jharkhand,558357,240
+2023,Pakur,Jharkhand,610074,187
+2024,Pakur,Jharkhand,792930,199
+2025,Pakur,Jharkhand,875443,187
+2021,Palamu,Jharkhand,114256,28
+2022,Palamu,Jharkhand,127172,48
+2023,Palamu,Jharkhand,135444,32
+2024,Palamu,Jharkhand,144209,43
+2025,Palamu,Jharkhand,185400,51
+2021,Ramgarh,Jharkhand,335613,93
+2022,Ramgarh,Jharkhand,362989,85
+2023,Ramgarh,Jharkhand,350064,58
+2024,RAMGARH,Jharkhand,430538,64
+2025,Ramgarh,Jharkhand,344266,69
+2021,Ranchi,Jharkhand,977734,423
+2022,RANCHI,Jharkhand,1537357,564
+2023,Ranchi,Jharkhand,1331992,509
+2024,Ranchi,Jharkhand,1734777,523
+2025,Ranchi,Jharkhand,1550239,429
+2021,Sahibganj,Jharkhand,1574193,578
+2022,Sahibganj,Jharkhand,1589127,307
+2023,Sahibganj,Jharkhand,1709503,383
+2024,SAHIBGANJ,Jharkhand,2042872,569
+2025,SAHIBGANJ,Jharkhand,2123122,321
+2021,Seraikela-Kharsawan,Jharkhand,1694219,332
+2022,Seraikela-Kharsawan,Jharkhand,1441550,412
+2023,Seraikela-Kharsawan,Jharkhand,1337966,371
+2024,Seraikela-Kharsawan,Jharkhand,1079382,278
+2025,Seraikela-Kharsawan,Jharkhand,1621035,233
+2021,Simdega,Jharkhand,415623,164
+2022,Simdega,Jharkhand,385954,131
+2023,Simdega,Jharkhand,358617,139
+2024,Simdega,Jharkhand,337054,116
+2025,Simdega,Jharkhand,396463,122
+2021,West Singhbhum,Jharkhand,780235,325
+2022,West Singhbhum,Jharkhand,719429,231
+2023,West Singhbhum,Jharkhand,837303,239
+2024,West Singhbhum,Jharkhand,701932,282
+2025,West Singhbhum,Jharkhand,1173564,306
+2021,Bagalkot,Karnataka,557021,273
+2022,Bagalkot,Karnataka,730350,191
+2023,Bagalkot,Karnataka,726154,230
+2024,Bagalkot,Karnataka,817592,272
+2025,Bagalkot,Karnataka,943967,246
+2021,Ballari (Bellary),Karnataka,304631,123
+2022,Ballari (Bellary),Karnataka,290652,137
+2023,Ballari,Karnataka,347423,134
+2024,Ballari (Bellary),Karnataka,269886,73
+2025,Ballari (Bellary),Karnataka,392493,137
+2021,Belagavi (Belgaum),Karnataka,3005668,826
+2022,Belagavi (Belgaum),Karnataka,2637480,524
+2023,Belagavi (Belgaum),Karnataka,2742960,458
+2024,Belagavi (Belgaum),Karnataka,2806146,581
+2025,Belagavi (Belgaum),Karnataka,3339020,873
+2021,Bengaluru (Bangalore) Rural,Karnataka,1504695,578
+2022,Bengaluru (Bangalore) Rural,Karnataka,1085757,428
+2023,Bengaluru (Bangalore) Rural,Karnataka,1890572,541
+2024,Bengaluru (Bangalore) Rural,Karnataka,1824330,421
+2025,Bengaluru (Bangalore) Rural,Karnataka,1519541,328
+2021,  Bengaluru (Bangalore) Urban ,Karnataka,982996,208
+2022,Bengaluru (Bangalore) Urban,Karnataka,1087269,170
+2023,Bengaluru (Bangalore) Urban,Karnataka,1182687,230
+2024,Bengaluru (Bangalore) Urban,Karnataka,1351733,214
+2025,Bengaluru (Bangalore) Urban,Karnataka,1291995,218
+2021,Bidar,Karnataka,763024,194
+2022,Bidar,Karnataka,740835,204
+2023,Bidar,Karnataka,656468,299
+2024,Bidar,Karnataka,790213,213
+2025,Bidar,Karnataka,972990,275
+2021,Chamarajanagar,Karnataka,978707,391
+2022,Chamarajanagar,Karnataka,862188,386
+2023,Chamarajanagar,Karnataka,1070371,345
+2024,Chamarajanagar,Karnataka,1040670,212
+2025,Chamarajanagar,Karnataka,1415420,247
+2021,Chikballapur,Karnataka,178353,38
+2022,CHIKBALLAPUR,Karnataka,150861,73
+2023,Chikballapur,Karnataka,255426,54
+2024,Chikballapur,Karnataka,249123,56
+2025,Chikballapur,Karnataka,228463,53
+2021,Chikkamagaluru (Chikmagalur),Karnataka,881769,234
+2022,Chikkamagaluru (Chikmagalur),Karnataka,819309,256
+2023,Chikkamagaluru (Chikmagalur),Karnataka,1098261,264
+2024,Chikkamagaluru (Chikmagalur),Karnataka,1351369,278
+2025,Chikkamagaluru (Chikmagalur),Karnataka,1400061,276
+2021,Chitradurga,Karnataka,433651,129
+2022,Chitradurga,Karnataka,469463,178
+2023,Chitradurga,Karnataka,567674,101
+2024,Chitradurga,Karnataka,534495,117
+2025,Chitradurga,Karnataka,596729,167
+2021,Dakshina Kannada,Karnataka,536554,85
+2022,Dakshina Kannada,Karnataka,707484,117
+2023,Dakshina Kannada,Karnataka,637307,100
+2024,  Dakshina Kannada ,Karnataka,836381,134
+2025,Dakshina Kannada,Karnataka,547267,104
+2021,Davangere,Karnataka,723375,193
+2022,DAVANGERE,Karnataka,625586,226
+2023,DAVANGERE,Karnataka,741947,183
+2024,Davangere,Karnataka,930582,276
+2025,Davangere,Karnataka,829659,234
+2021,Dharwad,Karnataka,2563454,879
+2022,Dharwad,Karnataka,2635498,673
+2023,Dharwad,Karnataka,3641185,764
+2024,Dharwad,Karnataka,3360113,766
+2025,Dharwad,Karnataka,4816928,1014
+2021,Gadag,Karnataka,1631225,262
+2022,Gadag,Karnataka,1617542,418
+2023,Gadag,Karnataka,1805956,378
+2024,GADAG,Karnataka,1996776,311
+2025,Gadag,Karnataka,1569759,418
+2021,Hassan,Karnataka,524181,134
+2022,Hassan,Karnataka,761378,139
+2023,Hassan,Karnataka,614968,174
+2024,Hassan,Karnataka,725019,159
+2025,Hassan,Karnataka,816363,201
+2021,HAVERI,Karnataka,1088612,391
+2022,HAVERI,Karnataka,1586920,261
+2023,Haveri,Karnataka,1161774,510
+2024,Haveri,Karnataka,1440822,476
+2025,Haveri,Karnataka,1800066,502
+2021,Kalaburagi (Gulbarga),Karnataka,2200588,537
+2022,Kalaburagi (Gulbarga),Karnataka,2299405,791
+2023,Kalaburagi (Gulbarga),Karnataka,3411322,440
+2024,KALABURAGI (GULBARGA),Karnataka,3434612,605
+2025,Kalaburagi (Gulbarga),Karnataka,3633257,812
+2021,Kodagu,Karnataka,1508995,539
+2022,KODAGU,Karnataka,1552624,466
+2023,Kodagu,Karnataka,1602610,412
+2024,Kodagu,Karnataka,2166193,531
+2025,KODAGU,Karnataka,2038494,497
+2021,Kolar,Karnataka,1082803,353
+2022,Kolar,Karnataka,959833,354
+2023,Kolar,Karnataka,838992,274
+2024,Kolar,Karnataka,1347879,167
+2025,Kolar,Karnataka,1033485,237
+2021,Koppal,Karnataka,636396,97
+2022,Koppal,Karnataka,571989,156
+2023,Koppal,Karnataka,736301,209
+2024,Koppal,Karnataka,719637,121
+2025,Koppal,Karnataka,757812,104
+2021,Mandya,Karnataka,2101696,532
+2022,MANDYA,Karnataka,1962507,276
+2023,Mandya,Karnataka,1830872,253
+2024,Mandya,Karnataka,2194115,387
+2025,Mandya,Karnataka,3598459,328
+2021,Mysuru (Mysore),Karnataka,907239,420
+2022,Mysuru (Mysore),Karnataka,1366525,320
+2023,Mysuru,Karnataka,1045666,218
+2024,Mysuru (Mysore),Karnataka,1556459,417
+2025,Mysuru (Mysore),Karnataka,1187523,366
+2021,Raichur,Karnataka,2062122,329
+2022,Raichur,Karnataka,2873967,568
+2023,Raichur,Karnataka,3645701,510
+2024,Raichur,Karnataka,3299474,292
+2025,Raichur,Karnataka,3759442,382
+2021,Ramanagara,Karnataka,1323625,497
+2022,Ramanagara,Karnataka,1101309,455
+2023,Ramanagara,Karnataka,1208113,339
+2024,Ramanagara,Karnataka,1260271,241
+2025,Ramanagara,Karnataka,1358108,332
+2021,Shivamogga (Shimoga),Karnataka,1695679,529
+2022,Shivamogga (Shimoga),Karnataka,1432158,615
+2023,Shivamogga (Shimoga),Karnataka,2479847,699
+2024,Shivamogga  (Shimoga),Karnataka,2200282,560
+2025,Shivamogga (Shimoga),Karnataka,2010154,552
+2021,Tumakuru (Tumkur),Karnataka,655736,106
+2022,Tumakuru (Tumkur),Karnataka,731225,209
+2023,Tumakuru (Tumkur),Karnataka,700217,104
+2024,Tumakuru (Tumkur),Karnataka,602940,107
+2025,Tumkur,Karnataka,701834,112
+2021,Udupi,Karnataka,1723319,417
+2022,Udupi,Karnataka,2729013,842
+2023,Udupi,Karnataka,3496206,760
+2024,Udupi,Karnataka,3050550,436
+2025,Udupi,Karnataka,3126076,665
+2021,Uttara Kannada (Karwar),Karnataka,916866,197
+2022,Uttara Kannada (Karwar),Karnataka,875213,349
+2023,Uttara Kannada (Karwar),Karnataka,1006873,288
+2024,Uttara Kannada (Karwar),Karnataka,1049227,338
+2025,Uttara Kannada (Karwar),Karnataka,1530647,295
+2021,Vijayapura (Bijapur),Karnataka,2655168,961
+2022,Vijayapura (Bijapur),Karnataka,4367843,1407
+2023,Vijayapura (Bijapur),Karnataka,4701423,1427
+2024,Vijayapura (Bijapur),Karnataka,4880211,765
+2025,Vijayapura (Bijapur),Karnataka,6104469,1406
+2021,Yadgir,Karnataka,365974,103
+2022,Yadgir,Karnataka,490437,89
+2023,YADGIR,Karnataka,544540,152
+2024,Yadgir,Karnataka,514770,95
+2025,Yadgir,Karnataka,544340,136
+2021,Alappuzha,Kerala,3043403,1159
+2022,Alappuzha,Kerala,2730702,559
+2023,Alappuzha,Kerala,2764266,943
+2024,Alappuzha,Kerala,3373409,1228
+2025,Alappuzha,Kerala,4057632,1104
+2021,Ernakulam,Kerala,1031727,343
+2022,Ernakulam,Kerala,1334667,189
+2023,Ernakulam,Kerala,1041991,280
+2024,ERNAKULAM,Kerala,1399476,178
+2025,Ernakulam,Kerala,1706929,329
+2021,Idukki,Kerala,508192,109
+2022,Idukki,Kerala,597526,93
+2023,Idukki,Kerala,640273,148
+2024,IDUKKI,Kerala,681780,123
+2025,Idukki,Kerala,818089,208
+2021,Kannur,Kerala,497455,138
+2022,Kannur,Kerala,548505,188
+2023,Kannur,Kerala,654252,205
+2024,Kannur,Kerala,754877,227
+2025,Kannur,Kerala,651902,205
+2021,Kasaragod,Kerala,884010,247
+2022,Kasaragod,Kerala,734234,178
+2023,Kasaragod,Kerala,934080,245
+2024,Kasaragod,Kerala,881854,132
+2025,Kasaragod,Kerala,1370048,231
+2021,Kollam,Kerala,1009163,457
+2022,Kollam,Kerala,1267232,361
+2023,Kollam,Kerala,1636767,390
+2024,Kollam,Kerala,1505191,260
+2025,Kollam,Kerala,1833841,316
+2021,Kottayam,Kerala,1483387,246
+2022,Kottayam,Kerala,1480742,352
+2023,Kottayam,Kerala,1634555,343
+2024,Kottayam,Kerala,1849183,409
+2025,Kottayam,Kerala,2069051,355
+2021,Kozhikode,Kerala,553847,148
+2022,Kozhikode,Kerala,833877,179
+2023,Kozhikode,Kerala,617681,160
+2024,Kozhikode,Kerala,867742,198
+2025,Kozhikode,Kerala,837224,161
+2021,Malappuam,Kerala,701199,203
+2022,Malappuram,Kerala,856396,174
+2023,MALAPPURAM,Kerala,918280,255
+2024,Malappuram,Kerala,757265,169
+2025,Malappuram,Kerala,804365,222
+2021,Palakkad,Kerala,3672397,969
+2022,Palakkad,Kerala,4752283,1023
+2023,Palakkad,Kerala,4309998,1682
+2024,Palakkad,Kerala,3845305,1383
+2025,Palakkad,Kerala,5050486,1578
+2021,Pathanamthitta,Kerala,3950839,1089
+2022,Pathanamthitta,Kerala,3650114,618
+2023,Pathanamthitta,Kerala,4382338,729
+2024,Pathanamthitta,Kerala,4181728,543
+2025,Pathanamthitta,Kerala,5116207,840
+2021,Thiruvananthapuram,Kerala,1235510,232
+2022,Thiruvananthapuram,Kerala,1403562,258
+2023,Thiruvananthapuram,Kerala,1456516,451
+2024,Thiruvananthapuram,Kerala,1388238,356
+2025,Thiruvananthapuram,Kerala,1608555,237
+2021,Thrissur,Kerala,927712,256
+2022,Thrissur,Kerala,941963,197
+2023,Trichur,Kerala,834929,344
+2024,THRISSUR,Kerala,829589,324
+2025,Thrissur,Kerala,1501911,170
+2021,Wayanad,Kerala,968457,199
+2022,Wayanad,Kerala,831523,165
+2023,Wayanad,Kerala,1074336,183
+2024,Wayanad,Kerala,1185348,342
+2025,Wayanad,Kerala,1143309,335
+2021,Agatti,Lakshadweep (UT),1342200,328
+2022,Agatti,Lakshadweep (UT),1315500,300
+2023,Agatti,Lakshadweep (UT),2135833,276
+2024,Agatti,Lakshadweep (UT),2535678,450
+2025,AGATTI,Lakshadweep (UT),2165936,509
+2021,Amini,Lakshadweep (UT),283846,74
+2022,Amini,Lakshadweep (UT),360169,108
+2023,AMINI,Lakshadweep (UT),398388,129
+2024,Amini,Lakshadweep (UT),482923,108
+2025,Amini,Lakshadweep (UT),487381,82
+2021,Androth,Lakshadweep (UT),636082,149
+2022,ANDROTH,Lakshadweep (UT),1004506,222
+2023,Androth,Lakshadweep (UT),983127,217
+2024,Androth,Lakshadweep (UT),1095907,248
+2025,Androth,Lakshadweep (UT),1003324,277
+2021,Bithra,Lakshadweep (UT),232312,75
+2022,Bithra,Lakshadweep (UT),207648,90
+2023,Bithra,Lakshadweep (UT),305694,63
+2024,Bithra,Lakshadweep (UT),266946,75
+2025,Bithra,Lakshadweep (UT),335678,85
+2021,Chethlath,Lakshadweep (UT),1161992,461
+2022,Chethlath,Lakshadweep (UT),1252852,451
+2023,chethlath,Lakshadweep (UT),1135149,334
+2024,Chethlath,Lakshadweep (UT),1107966,390
+2025,Chethlath,Lakshadweep (UT),1709535,272
+2021,Kavaratti,Lakshadweep (UT),1969165,346
+2022,Kavarati,Lakshadweep (UT),1863643,371
+2023,Kavaratti,Lakshadweep (UT),1852534,387
+2024,Kavaratti,Lakshadweep (UT),2264833,413
+2025,Kavaratti,Lakshadweep (UT),2131409,446
+2021,Kadmath,Lakshadweep (UT),689743,195
+2022,Kadmath,Lakshadweep (UT),708934,150
+2023,Kadmath,Lakshadweep (UT),902398,111
+2024,Kadmath,Lakshadweep (UT),857749,132
+2025,Kadmath,Lakshadweep (UT),651745,169
+2021,Kalpeni,Lakshadweep (UT),3482242,787
+2022,KALPENI,Lakshadweep (UT),3574261,697
+2023,Kalpeni,Lakshadweep (UT),3355184,1012
+2024,Kalpeni,Lakshadweep (UT),3569037,887
+2025,Kalpeni,Lakshadweep (UT),3559799,690
+2021,Kilthan,Lakshadweep (UT),482935,135
+2022,Kilthan,Lakshadweep (UT),454122,87
+2023,Kilthan,Lakshadweep (UT),419216,98
+2024,Kilthan,Lakshadweep (UT),490978,75
+2025,Kilthan,Lakshadweep (UT),655917,92
+2021,Minicoy,Lakshadweep (UT),239676,63
+2022,Minicoy,Lakshadweep (UT),253953,64
+2023,Minicoy,Lakshadweep (UT),287619,97
+2024,Minicoy,Lakshadweep (UT),339781,53
+2025,Minicoy,Lakshadweep (UT),371976,88
+2021,Agar Malwa,Madhya Pradesh,1119830,336
+2022,AGAR MALWA,Madhya Pradesh,1102567,208
+2023,Agar Malwa,Madhya Pradesh,1127096,261
+2024,Agar Malwa,Madhya Pradesh,1561314,188
+2025,AGAR MALWA,Madhya Pradesh,1135151,321
+2021,ALIRAJPUR,Madhya Pradesh,1539399,437
+2022,Alirajpur,Madhya Pradesh,1456082,423
+2023,Alirajpur,Madhya Pradesh,2255262,640
+2024,Alirajpur,Madhya Pradesh,1829528,733
+2025,Alirajpur,Madhya Pradesh,2078905,690
+2021,Anuppur,Madhya Pradesh,2681999,887
+2022,Anuppur,Madhya Pradesh,3246771,543
+2023,Anuppur,Madhya Pradesh,3382764,667
+2024,Anuppur,Madhya Pradesh,4567675,1048
+2025,Anuppur,Madhya Pradesh,4440160,962
+2021,Ashoknagar,Madhya Pradesh,492276,126
+2022,Ashoknagar,Madhya Pradesh,717476,212
+2023,Ashoknagar,Madhya Pradesh,721989,187
+2024,Ashoknagar,Madhya Pradesh,744498,117
+2025,Ashoknagar,Madhya Pradesh,744855,180
+2021,Balaghat,Madhya Pradesh,1803045,717
+2022,Balaghat,Madhya Pradesh,2295632,471
+2023,Balaghat,Madhya Pradesh,2945738,616
+2024,Balaghat,Madhya Pradesh,1922462,502
+2025,Balaghat,Madhya Pradesh,3518167,704
+2021,Barwani,Madhya Pradesh,777398,210
+2022,Barwani,Madhya Pradesh,1194858,325
+2023,Barwani,Madhya Pradesh,1078837,165
+2024,Barwani,Madhya Pradesh,1129597,174
+2025,BARWANI,Madhya Pradesh,956223,189
+2021,Betul,Madhya Pradesh,624523,185
+2022,Betul,Madhya Pradesh,804862,287
+2023,Betul,Madhya Pradesh,631188,268
+2024,BETUL,Madhya Pradesh,850235,182
+2025,BETUL,Madhya Pradesh,877874,248
+2021,Bhind,Madhya Pradesh,2866538,555
+2022,Bhind,Madhya Pradesh,2926275,402
+2023,Bhind,Madhya Pradesh,2520174,320
+2024,Bhind,Madhya Pradesh,2923691,561
+2025,Bhind,Madhya Pradesh,3175473,514
+2021,Bhopal,Madhya Pradesh,1032970,286
+2022,Bhopal,Madhya Pradesh,1380384,257
+2023,Bhopal,Madhya Pradesh,1505583,487
+2024,Bhopal,Madhya Pradesh,1328554,298
+2025,Bhopal,Madhya Pradesh,1407527,555
+2021,Burhanpur,Madhya Pradesh,249503,99
+2022,Burhanpur,Madhya Pradesh,226624,76
+2023,Burhanpur,Madhya Pradesh,290610,86
+2024,Burhanpur,Madhya Pradesh,276662,91
+2025,Burhanpur,Madhya Pradesh,240289,48
+2021,Chhatarpur,Madhya Pradesh,3402706,687
+2022,CHHATARPUR,Madhya Pradesh,3125438,538
+2023,Chhatarpur,Madhya Pradesh,4244091,812
+2024,Chhatarpur,Madhya Pradesh,3388587,799
+2025,Chhatarpur,Madhya Pradesh,5342608,891
+2021,Chhindwara,Madhya Pradesh,2414250,813
+2022,Chhindwara,Madhya Pradesh,2597520,915
+2023,Chhindwara,Madhya Pradesh,3522356,600
+2024,Chhindwara,Madhya Pradesh,3823382,944
+2025,Chhindwara,Madhya Pradesh,2984184,554
+2021,Damoh,Madhya Pradesh,651119,202
+2022,Damoh,Madhya Pradesh,607169,186
+2023,damoh,Madhya Pradesh,654345,106
+2024,Damoh,Madhya Pradesh,557134,162
+2025,Damoh,Madhya Pradesh,1035119,162
+2021,Datia,Madhya Pradesh,1095677,370
+2022,Datia,Madhya Pradesh,1353661,347
+2023,Datia,Madhya Pradesh,1313971,458
+2024,Datia,Madhya Pradesh,1496892,421
+2025,Datia,Madhya Pradesh,1512687,305
+2021,Dewas,Madhya Pradesh,1084858,355
+2022,Dewas,Madhya Pradesh,1660392,413
+2023,Dewas,Madhya Pradesh,1386035,404
+2024,Dewas,Madhya Pradesh,1167911,262
+2025,DEWAS,Madhya Pradesh,1451050,232
+2021,Dhar,Madhya Pradesh,609792,413
+2022,Dhar,Madhya Pradesh,891325,402
+2023,Dhar,Madhya Pradesh,1036195,408
+2024,Dhar,Madhya Pradesh,1612088,388
+2025,DHAR,Madhya Pradesh,1073063,233
+2021,Dindori,Madhya Pradesh,624349,143
+2022,Dindori,Madhya Pradesh,567479,217
+2023,Dindori,Madhya Pradesh,747461,182
+2024,Dindori,Madhya Pradesh,775985,194
+2025,Dindori,Madhya Pradesh,745792,150
+2021,Guna,Madhya Pradesh,541763,138
+2022,Guna,Madhya Pradesh,606748,170
+2023,Guna,Madhya Pradesh,585058,116
+2024,Guna,Madhya Pradesh,708281,112
+2025,Guna,Madhya Pradesh,861132,135
+2021,Gwalior,Madhya Pradesh,1098664,210
+2022,Gwalior,Madhya Pradesh,1073873,192
+2023,Gwalior,Madhya Pradesh,1161257,286
+2024,GWALIOR,Madhya Pradesh,1076199,182
+2025,Gwalior,Madhya Pradesh,1387020,276
+2021,HARDA,Madhya Pradesh,1928626,637
+2022,Harda,Madhya Pradesh,2111637,729
+2023,Harda,Madhya Pradesh,1349494,573
+2024,Harda,Madhya Pradesh,2922688,454
+2025,Harda,Madhya Pradesh,2596743,445
+2021,Hoshangabad,Madhya Pradesh,1154028,406
+2022,Hoshangabad,Madhya Pradesh,885065,457
+2023,Hoshangabad,Madhya Pradesh,1061214,342
+2024,Hoshangabad,Madhya Pradesh,1249165,271
+2025,Hoshangabad,Madhya Pradesh,1420401,242
+2021,Indore,Madhya Pradesh,570742,142
+2022,Indore,Madhya Pradesh,671183,183
+2023,Indore,Madhya Pradesh,663105,129
+2024,Indore,Madhya Pradesh,671939,245
+2025,Indore,Madhya Pradesh,706497,165
+2021,Jabalpur,Madhya Pradesh,1520589,574
+2022,Jabalpur,Madhya Pradesh,1979431,522
+2023,Jabalpur,Madhya Pradesh,1635611,510
+2024,JABALPUR,Madhya Pradesh,1571297,343
+2025,Jabalpur,Madhya Pradesh,2340718,380
+2021,Jhabua,Madhya Pradesh,115595,33
+2022,Jhabua,Madhya Pradesh,123413,26
+2023,Jhabua,Madhya Pradesh,107009,22
+2024,Jhabua,Madhya Pradesh,91173,23
+2025,Jhabua,Madhya Pradesh,136970,34
+2021,Katni,Madhya Pradesh,1718452,368
+2022,Katni,Madhya Pradesh,2160130,678
+2023,Katni,Madhya Pradesh,2770281,678
+2024,KATNI,Madhya Pradesh,2646898,582
+2025,Katni,Madhya Pradesh,2532295,641
+2021,Khandwa,Madhya Pradesh,210981,54
+2022,Khandwa,Madhya Pradesh,211971,87
+2023,Khandwa,Madhya Pradesh,245553,57
+2024,Khandwa,Madhya Pradesh,272827,92
+2025,Khandwa,Madhya Pradesh,240167,67
+2021,Khargone,Madhya Pradesh,650392,193
+2022,KHARGONE,Madhya Pradesh,661949,123
+2023,Khargone,Madhya Pradesh,676637,192
+2024,Khargone,Madhya Pradesh,805087,170
+2025,KHARGONE,Madhya Pradesh,851774,194
+2021,MANDLA,Madhya Pradesh,232768,123
+2022,Mandla,Madhya Pradesh,289661,98
+2023,Mandla,Madhya Pradesh,346820,87
+2024,Mandla,Madhya Pradesh,405081,143
+2025,Mandla,Madhya Pradesh,442169,138
+2021,Mandsaur,Madhya Pradesh,257078,104
+2022,Mandsaur,Madhya Pradesh,294187,126
+2023,Mandsaur,Madhya Pradesh,438928,117
+2024,Mandsaur,Madhya Pradesh,286105,90
+2025,Mandsaur,Madhya Pradesh,569773,126
+2021,Morena,Madhya Pradesh,1742052,477
+2022,Morena,Madhya Pradesh,2277899,562
+2023,Morena,Madhya Pradesh,2378850,502
+2024,Morena,Madhya Pradesh,2922165,570
+2025,Morena,Madhya Pradesh,2244733,744
+2021,Narsinghpur,Madhya Pradesh,458914,221
+2022,Narsinghpur,Madhya Pradesh,583314,241
+2023,Narsinghpur,Madhya Pradesh,693233,199
+2024,Narsinghpur,Madhya Pradesh,987296,113
+2025,Narsinghpur,Madhya Pradesh,606531,167
+2021,Neemuch,Madhya Pradesh,953765,342
+2022,Neemuch,Madhya Pradesh,851402,284
+2023,Neemuch,Madhya Pradesh,1024929,303
+2024,Neemuch,Madhya Pradesh,1191772,297
+2025,Neemuch,Madhya Pradesh,1201884,345
+2021,Panna,Madhya Pradesh,676479,153
+2022,Panna,Madhya Pradesh,718674,231
+2023,Panna,Madhya Pradesh,931343,271
+2024,Panna,Madhya Pradesh,889158,183
+2025,Panna,Madhya Pradesh,897236,171
+2021,Raisen,Madhya Pradesh,1154844,409
+2022,Raisen,Madhya Pradesh,1253825,252
+2023,Raisen,Madhya Pradesh,1038293,457
+2024,Raisen,Madhya Pradesh,1073101,464
+2025,Raisen,Madhya Pradesh,1644565,356
+2021,Rajgarh,Madhya Pradesh,644836,181
+2022,Rajgarh,Madhya Pradesh,1126118,200
+2023,Rajgarh,Madhya Pradesh,1388150,198
+2024,Rajgarh,Madhya Pradesh,1099774,187
+2025,Rajgarh,Madhya Pradesh,1044640,246
+2021,Ratlam,Madhya Pradesh,432303,97
+2022,RATLAM,Madhya Pradesh,532779,61
+2023,Ratlam,Madhya Pradesh,497755,123
+2024,Ratlam,Madhya Pradesh,461132,63
+2025,Ratlam,Madhya Pradesh,617430,118
+2021,Rewa,Madhya Pradesh,2038437,673
+2022,Rewa,Madhya Pradesh,2056525,695
+2023,Rewa,Madhya Pradesh,2498308,582
+2024,Rewa,Madhya Pradesh,2581457,697
+2025,Rewa,Madhya Pradesh,2148294,444
+2021,Sagar,Madhya Pradesh,428364,236
+2022,Sagar,Madhya Pradesh,550388,114
+2023,Sagar,Madhya Pradesh,580750,178
+2024,Sagar,Madhya Pradesh,637669,177
+2025,SAGAR,Madhya Pradesh,807308,127
+2021,Satna,Madhya Pradesh,204320,51
+2022,SATNA,Madhya Pradesh,256306,70
+2023,Satna,Madhya Pradesh,331270,76
+2024,Satna,Madhya Pradesh,416444,74
+2025,SATNA,Madhya Pradesh,399803,47
+2021,Sehore,Madhya Pradesh,514839,172
+2022,Sehore,Madhya Pradesh,560038,138
+2023,Sehore,Madhya Pradesh,702343,140
+2024,Sehore,Madhya Pradesh,774689,227
+2025,Sehore,Madhya Pradesh,760750,178
+2021,Seoni,Madhya Pradesh,2284708,797
+2022,SEONI,Madhya Pradesh,2989346,928
+2023,Seoni,Madhya Pradesh,2530555,936
+2024,Seoni,Madhya Pradesh,2623380,1014
+2025,SEONI,Madhya Pradesh,3102589,1051
+2021,Shahdol,Madhya Pradesh,1608208,513
+2022,Shahdol,Madhya Pradesh,1710833,610
+2023,Shahdol,Madhya Pradesh,1699265,496
+2024,Shahdol,Madhya Pradesh,1706361,481
+2025,Shahdol,Madhya Pradesh,1429810,502
+2021,SHAJAPUR,Madhya Pradesh,735830,244
+2022,Shajapur,Madhya Pradesh,907949,128
+2023,Shajapur,Madhya Pradesh,861820,175
+2024,Shajapur,Madhya Pradesh,769777,203
+2025,Shajapur,Madhya Pradesh,768224,173
+2021,Sheopur,Madhya Pradesh,576720,250
+2022,Sheopur,Madhya Pradesh,612325,187
+2023,SHEOPUR,Madhya Pradesh,619424,117
+2024,Sheopur,Madhya Pradesh,487376,208
+2025,Sheopur,Madhya Pradesh,710404,143
+2021,Shivpuri,Madhya Pradesh,833492,231
+2022,Shivpuri,Madhya Pradesh,582900,158
+2023,Shivpuri,Madhya Pradesh,779259,194
+2024,SHIVPURI,Madhya Pradesh,1149028,198
+2025,Shivpuri,Madhya Pradesh,875042,237
+2021,Sidhi,Madhya Pradesh,4786560,1102
+2022,Sidhi,Madhya Pradesh,5227873,865
+2023,Sidhi,Madhya Pradesh,6072987,1206
+2024,Sidhi,Madhya Pradesh,7271590,865
+2025,Sidhi,Madhya Pradesh,7345081,898
+2021,Singrauli,Madhya Pradesh,927328,273
+2022,Singrauli,Madhya Pradesh,1451105,210
+2023,Singrauli,Madhya Pradesh,1414745,451
+2024,Singrauli,Madhya Pradesh,1409429,314
+2025,Singrauli,Madhya Pradesh,1202568,394
+2021,Tikamgarh,Madhya Pradesh,1293598,287
+2022,Tikamgarh,Madhya Pradesh,1330558,229
+2023,Tikamgarh,Madhya Pradesh,1438618,375
+2024,Tikamgarh,Madhya Pradesh,1530854,396
+2025,Tikamgarh,Madhya Pradesh,1966939,261
+2021,Ujjain,Madhya Pradesh,2442890,433
+2022,Ujjain,Madhya Pradesh,2749281,709
+2023,Ujjain,Madhya Pradesh,3010558,354
+2024,Ujjain,Madhya Pradesh,2293740,319
+2025,Ujjain,Madhya Pradesh,2745621,382
+2021,Umaria,Madhya Pradesh,932452,304
+2022,Umaria,Madhya Pradesh,1011762,262
+2023,Umaria,Madhya Pradesh,1018016,185
+2024,Umaria,Madhya Pradesh,1120038,266
+2025,Umaria,Madhya Pradesh,1231087,355
+2021,Vidisha,Madhya Pradesh,667539,178
+2022,Vidisha,Madhya Pradesh,732579,176
+2023,Vidisha,Madhya Pradesh,731694,156
+2024,Vidisha,Madhya Pradesh,864361,202
+2025,Vidisha,Madhya Pradesh,769110,180
+2021,Ahmednagar,Maharashtra,695728,192
+2022,AHMEDNAGAR,Maharashtra,931123,239
+2023,Ahmednagar,Maharashtra,900081,202
+2024,Ahmednagar,Maharashtra,860880,286
+2025,Ahmednagar,Maharashtra,1009923,232
+2021,Akola,Maharashtra,1032969,293
+2022,Akola,Maharashtra,765563,311
+2023,Akola,Maharashtra,1146236,316
+2024,Akola,Maharashtra,1139744,234
+2025,Akola,Maharashtra,1076043,294
+2021,AMRAVATI,Maharashtra,826300,254
+2022,Amravati,Maharashtra,686779,203
+2023,Amravati,Maharashtra,752781,194
+2024,Amravati,Maharashtra,1135495,307
+2025,Amravati,Maharashtra,851432,173
+2021,Aurangabad,Maharashtra,1858760,436
+2022,Aurangabad,Maharashtra,1701791,275
+2023,Aurangabad,Maharashtra,1323528,333
+2024,Aurangabad,Maharashtra,2087928,403
+2025,Aurangabad,Maharashtra,2022092,338
+2021,Beed,Maharashtra,1199743,186
+2022,Beed,Maharashtra,954050,332
+2023,Beed,Maharashtra,1058800,212
+2024,Beed,Maharashtra,1218947,344
+2025,Beed,Maharashtra,1368291,270
+2021,Bhandara,Maharashtra,1751048,481
+2022,Bhandara,Maharashtra,2253878,437
+2023,Bhandara,Maharashtra,1783724,487
+2024,Bhandara,Maharashtra,2377913,430
+2025,Bhandara,Maharashtra,3046602,444
+2021,Buldhana,Maharashtra,843999,250
+2022,Buldhana,Maharashtra,1378152,140
+2023,Buldhana,Maharashtra,1296525,268
+2024,Buldhana,Maharashtra,1218352,235
+2025,Buldhana,Maharashtra,1695052,198
+2021,Chandrapur,Maharashtra,1214164,357
+2022,Chandrapur,Maharashtra,1423023,174
+2023,Chandrapur,Maharashtra,1554495,245
+2024,Chandrapur,Maharashtra,1381943,337
+2025,Chandrapur,Maharashtra,2122915,243
+2021,Dhule,Maharashtra,140359,49
+2022,Dhule,Maharashtra,191377,41
+2023,Dhule,Maharashtra,174636,33
+2024,Dhule,Maharashtra,190399,39
+2025,Dhule,Maharashtra,239695,41
+2021,Gadchiroli,Maharashtra,1959631,560
+2022,Gadchiroli,Maharashtra,2206776,351
+2023,Gadchiroli,Maharashtra,2585952,556
+2024,Gadchiroli,Maharashtra,2519830,321
+2025,Gadchiroli,Maharashtra,3358671,328
+2021,Gondia,Maharashtra,996192,281
+2022,Gondia,Maharashtra,1316722,352
+2023,Gondia,Maharashtra,1360404,403
+2024,Gondia,Maharashtra,1479051,193
+2025,  Gondia ,Maharashtra,1514588,279
+2021,Hingoli,Maharashtra,2572855,412
+2022,Hingoli,Maharashtra,2599711,412
+2023,Hingoli,Maharashtra,2644402,551
+2024,Hingoli,Maharashtra,2854201,579
+2025,Hingoli,Maharashtra,3263646,483
+2021,Jalgaon,Maharashtra,77264,23
+2022,Jalgaon,Maharashtra,104170,20
+2023,Jalgaon,Maharashtra,91151,34
+2024,JALGAON,Maharashtra,98020,38
+2025,Jalgaon,Maharashtra,123204,35
+2021,Jalna,Maharashtra,3594086,919
+2022,Jalna,Maharashtra,3107241,1136
+2023,Jalna,Maharashtra,5487988,1280
+2024,Jalna,Maharashtra,4426465,1036
+2025,Jalna,Maharashtra,4155002,1228
+2021,Kolhapur,Maharashtra,673851,304
+2022,Kolhapur,Maharashtra,844510,285
+2023,Kolhapur,Maharashtra,800624,300
+2024,Kolhapur,Maharashtra,865828,294
+2025,Kolhapur,Maharashtra,831299,271
+2021,LATUR,Maharashtra,1156941,492
+2022,Latur,Maharashtra,1519883,392
+2023,Latur,Maharashtra,1924929,415
+2024,Latur,Maharashtra,1634522,711
+2025,Latur,Maharashtra,1862842,471
+2021,Mumbai City,Maharashtra,273816,96
+2022,Mumbai City,Maharashtra,405429,102
+2023,Mumbai City,Maharashtra,454070,99
+2024,Mumbai City,Maharashtra,518700,71
+2025,Mumbai City,Maharashtra,549776,86
+2021,Mumbai Suburban,Maharashtra,1495783,292
+2022,MUMBAI SUBURBAN,Maharashtra,1588075,253
+2023,Mumbai Suburban,Maharashtra,1274299,496
+2024,Mumbai Suburban,Maharashtra,1652690,426
+2025,Mumbai Suburban,Maharashtra,1519323,416
+2021,Nagpur,Maharashtra,473998,95
+2022,Nagpur,Maharashtra,333628,98
+2023,Nagpur,Maharashtra,449773,93
+2024,nagpur,Maharashtra,401408,136
+2025,Nagpur,Maharashtra,480516,131
+2021,NANDED,Maharashtra,533139,178
+2022,Nanded,Maharashtra,709591,108
+2023,Nanded,Maharashtra,694047,129
+2024,Nanded,Maharashtra,691469,167
+2025,Nanded,Maharashtra,656884,208
+2021,Nandurbar,Maharashtra,4521673,690
+2022,Nandurbar,Maharashtra,6064324,1109
+2023,Nandurbar,Maharashtra,6427285,631
+2024,Nandurbar,Maharashtra,6078283,1248
+2025,Nandurbar,Maharashtra,8845097,722
+2021,NASHIK,Maharashtra,676153,129
+2022,Nashik,Maharashtra,1129083,217
+2023,Nashik,Maharashtra,1101197,283
+2024,Nashik,Maharashtra,1092488,246
+2025,Nashik,Maharashtra,1097636,248
+2021,Osmanabad,Maharashtra,864156,264
+2022,Osmanabad,Maharashtra,805316,191
+2023,Osmanabad,Maharashtra,841536,216
+2024,Dharashiv,Maharashtra,956998,185
+2025,Osmanabad,Maharashtra,1451202,241
+2021,Palghar,Maharashtra,1314838,628
+2022,Palghar,Maharashtra,1526871,616
+2023,Palghar,Maharashtra,1545085,475
+2024,Palghar,Maharashtra,1475898,282
+2025,Palghar,Maharashtra,1602922,483
+2021,Parbhani,Maharashtra,1109593,215
+2022,Parbhani,Maharashtra,1032635,371
+2023,Parbhani,Maharashtra,1369554,319
+2024,Parbhani,Maharashtra,1746902,243
+2025,PARBHANI,Maharashtra,1581795,373
+2021,Pune,Maharashtra,818253,267
+2022,Pune,Maharashtra,774982,316
+2023,Pune,Maharashtra,852754,241
+2024,Pune,Maharashtra,941203,257
+2025,PUNE,Maharashtra,926655,365
+2021,raigad,Maharashtra,1882283,430
+2022,Raigad,Maharashtra,1486762,390
+2023,  Raigad ,Maharashtra,1724102,315
+2024,Raigad,Maharashtra,2579665,303
+2025,Raigad,Maharashtra,2225429,321
+2021,Ratnagiri,Maharashtra,5636378,1986
+2022,Ratnagiri,Maharashtra,7559407,1624
+2023,Ratnagiri,Maharashtra,7691165,973
+2024,Ratnagiri,Maharashtra,8040944,1167
+2025,Ratnagiri,Maharashtra,7450882,1364
+2021,Sangli,Maharashtra,758518,254
+2022,Sangli,Maharashtra,736886,241
+2023,Sangli,Maharashtra,724005,280
+2024,Sangli,Maharashtra,837327,236
+2025,Sangli,Maharashtra,956142,297
+2021,SATARA,Maharashtra,865106,293
+2022,Satara,Maharashtra,855083,292
+2023,Satara,Maharashtra,1087039,281
+2024,Satara,Maharashtra,848338,190
+2025,Satara,Maharashtra,1078455,363
+2021,Sindhudurg,Maharashtra,2433965,559
+2022,Sindhudurg,Maharashtra,2890808,709
+2023,Sindhudurg,Maharashtra,2600299,718
+2024,Sindhudurg,Maharashtra,3188484,324
+2025,Sindhudurg,Maharashtra,4368132,376
+2021,Solapur,Maharashtra,2376374,358
+2022,SOLAPUR,Maharashtra,1931477,578
+2023,SOLAPUR,Maharashtra,1786019,523
+2024,Solapur,Maharashtra,2243066,496
+2025,Solapur,Maharashtra,2295611,778
+2021,Thane,Maharashtra,2765745,788
+2022,Thane,Maharashtra,3131370,404
+2023,Thane,Maharashtra,3287020,724
+2024,Thane,Maharashtra,3350389,547
+2025,Thane,Maharashtra,3378519,685
+2021,Wardha,Maharashtra,1095211,370
+2022,Wardha,Maharashtra,1479967,369
+2023,Wardha,Maharashtra,1206858,311
+2024,Wardha,Maharashtra,1804154,397
+2025,WARDHA,Maharashtra,1587828,275
+2021,Washim,Maharashtra,343318,105
+2022,Washim,Maharashtra,270346,117
+2023,Washim,Maharashtra,352188,137
+2024,Washim,Maharashtra,447148,132
+2025,Washim,Maharashtra,437137,96
+2021,Yavatmal,Maharashtra,2725993,805
+2022,Yavatmal,Maharashtra,2701783,752
+2023,Yavatmal,Maharashtra,3190486,1005
+2024,Yavatmal,Maharashtra,2755666,841
+2025,Yavatmal,Maharashtra,3300805,948
+2021,Bishnupur,Manipur,325687,133
+2022,Bishnupur,Manipur,315196,81
+2023,Bishnupur,Manipur,402897,120
+2024,Bishnupur,Manipur,435970,64
+2025,BISHNUPUR,Manipur,396012,86
+2021,Chandel,Manipur,912029,345
+2022,Chandel,Manipur,846366,276
+2023,CHANDEL,Manipur,1057314,372
+2024,Chandel,Manipur,1625236,217
+2025,Chandel,Manipur,1473347,406
+2021,Churachandpur,Manipur,541771,183
+2022,Churachandpur,Manipur,504482,139
+2023,CHURACHANDPUR,Manipur,658159,113
+2024,Churachandpur,Manipur,728700,189
+2025,Churachandpur,Manipur,669648,95
+2021,Imphal East,Manipur,493635,200
+2022,Imphal East,Manipur,698970,247
+2023,Imphal East,Manipur,795241,271
+2024,Imphal East,Manipur,843993,322
+2025,Imphal East,Manipur,937571,321
+2021,Imphal West,Manipur,874624,270
+2022,Imphal West,Manipur,1406748,382
+2023,Imphal West,Manipur,1205454,403
+2024,IMPHAL WEST,Manipur,1128064,314
+2025,Imphal West,Manipur,1694107,297
+2021,Jiribam,Manipur,1209049,230
+2022,Jiribam,Manipur,1163181,383
+2023,Jiribam,Manipur,1238842,371
+2024,Jiribam,Manipur,1363712,282
+2025,Jiribam,Manipur,1848883,320
+2021,Kakching,Manipur,1230678,209
+2022,Kakching,Manipur,1409917,392
+2023,Kakching,Manipur,1448480,441
+2024,Kakching,Manipur,1550279,318
+2025,Kakching,Manipur,1327154,373
+2021,Kamjong,Manipur,3014333,949
+2022,Kamjong,Manipur,2832315,838
+2023,Kamjong,Manipur,3678483,975
+2024,Kamjong,Manipur,3337921,929
+2025,Kamjong,Manipur,3849053,1005
+2021,Kangpokpi,Manipur,1169612,371
+2022,Kangpokpi,Manipur,1013971,259
+2023,Kangpokpi,Manipur,1473392,479
+2024,Kangpokpi,Manipur,1352535,459
+2025,Kangpokpi,Manipur,1484559,474
+2021,Noney,Manipur,504176,236
+2022,Noney,Manipur,587184,263
+2023,Noney,Manipur,710427,211
+2024,Noney,Manipur,933710,145
+2025,Noney,Manipur,704680,188
+2021,Pherzawl,Manipur,2037990,516
+2022,Pherzawl,Manipur,1795176,380
+2023,Pherzawl,Manipur,2556775,544
+2024,PHERZAWL,Manipur,2500337,543
+2025,Pherzawl,Manipur,2856410,621
+2021,Senapati,Manipur,2039650,451
+2022,Senapati,Manipur,2114866,690
+2023,Senapati,Manipur,2406528,801
+2024,Senapati,Manipur,2673860,493
+2025,Senapati,Manipur,2586964,631
+2021,Tamenglong,Manipur,347953,101
+2022,Tamenglong,Manipur,398997,120
+2023,Tamenglong,Manipur,364011,102
+2024,Tamenglong,Manipur,394767,134
+2025,Tamenglong,Manipur,290630,121
+2021,Tengnoupal,Manipur,1875439,433
+2022,Tengnoupal,Manipur,1778837,327
+2023,Tengnoupal,Manipur,1725148,344
+2024,Tengnoupal,Manipur,2173166,514
+2025,Tengnoupal,Manipur,2040689,310
+2021,Thoubal,Manipur,1281648,415
+2022,Thoubal,Manipur,1312096,284
+2023,THOUBAL,Manipur,1611965,327
+2024,Thoubal,Manipur,1663230,288
+2025,Thoubal,Manipur,2443829,474
+2021,Ukhrul,Manipur,831746,171
+2022,Ukhrul,Manipur,871755,125
+2023,Ukhrul,Manipur,1017732,156
+2024,Ukhrul,Manipur,962356,160
+2025,Ukhrul,Manipur,937486,269
+2021,East Garo Hills,Meghalaya,2277137,621
+2022,East Garo Hills,Meghalaya,2207013,718
+2023,East Garo Hills,Meghalaya,2635411,850
+2024,East Garo Hills,Meghalaya,2414199,426
+2025,East Garo Hills,Meghalaya,2990331,603
+2021,EAST JAINTIA HILLS,Meghalaya,988311,298
+2022,East Jaintia Hills,Meghalaya,1185950,135
+2023,East Jaintia Hills,Meghalaya,1334442,226
+2024,East Jaintia Hills,Meghalaya,1515840,245
+2025,East Jaintia Hills,Meghalaya,1603898,177
+2021,East Khasi Hills,Meghalaya,1233909,328
+2022,EAST KHASI HILLS,Meghalaya,1393537,259
+2023,East Khasi Hills,Meghalaya,1885002,207
+2024,East Khasi Hills,Meghalaya,1498765,224
+2025,East Khasi Hills,Meghalaya,1866724,197
+2021,North Garo Hills,Meghalaya,718523,258
+2022,NORTH GARO HILLS,Meghalaya,813500,265
+2023,North Garo Hills,Meghalaya,672438,289
+2024,North Garo Hills,Meghalaya,935781,204
+2025,North Garo Hills,Meghalaya,756885,239
+2021,Ri Bhoi,Meghalaya,869668,237
+2022,Ri Bhoi,Meghalaya,1159900,179
+2023,Ri Bhoi,Meghalaya,1055015,226
+2024,Ri Bhoi,Meghalaya,1146745,287
+2025,Ri Bhoi,Meghalaya,1369648,163
+2021,  South Garo Hills ,Meghalaya,396947,104
+2022,South Garo Hills,Meghalaya,402884,92
+2023,SOUTH GARO HILLS,Meghalaya,416592,118
+2024,South Garo Hills,Meghalaya,491661,128
+2025,South Garo Hills,Meghalaya,500879,67
+2021,South West Garo Hills,Meghalaya,342258,81
+2022,South West Garo Hills,Meghalaya,471570,52
+2023,South West Garo Hills,Meghalaya,499131,114
+2024,South West Garo Hills,Meghalaya,399699,75
+2025,South West Garo Hills,Meghalaya,624384,110
+2021,South West Khasi Hills,Meghalaya,2583473,583
+2022,South West Khasi Hills,Meghalaya,2400083,696
+2023,South West Khasi Hills,Meghalaya,3640070,967
+2024,South West Khasi Hills,Meghalaya,2467665,574
+2025,South West Khasi Hills,Meghalaya,2488971,680
+2021,WEST GARO HILLS,Meghalaya,400911,124
+2022,West Garo Hills,Meghalaya,560536,130
+2023,West Garo Hills,Meghalaya,730744,131
+2024,West Garo Hills,Meghalaya,657984,151
+2025,West Garo Hills,Meghalaya,863478,129
+2021,WEST JAINTIA HILLS,Meghalaya,540771,77
+2022,West Jaintia Hills,Meghalaya,552114,139
+2023,West Jaintia Hills,Meghalaya,607417,91
+2024,West Jaintia Hills,Meghalaya,671715,80
+2025,West Jaintia Hills,Meghalaya,625821,86
+2021,West Khasi Hills,Meghalaya,145301,55
+2022,West Khasi Hills,Meghalaya,166599,48
+2023,West Khasi Hills,Meghalaya,156816,50
+2024,West Khasi Hills,Meghalaya,194241,38
+2025,West Khasi Hills,Meghalaya,184798,58
+2021,aizawl,Mizoram,387923,209
+2022,Aizawl,Mizoram,446138,203
+2023,Aizawl,Mizoram,419048,195
+2024,Aizawl,Mizoram,544892,139
+2025,Aizawl,Mizoram,612294,147
+2021,Champhai,Mizoram,242120,65
+2022,CHAMPHAI,Mizoram,286360,67
+2023,Champhai,Mizoram,379065,68
+2024,  Champhai ,Mizoram,367465,81
+2025,Champhai,Mizoram,356282,64
+2021,Kolasib,Mizoram,2585004,624
+2022,Kolasib,Mizoram,3006599,545
+2023,Kolasib,Mizoram,3142360,764
+2024,Kolasib,Mizoram,3864416,1019
+2025,Kolasib,Mizoram,2711523,763
+2021,Lawngtlai,Mizoram,2053156,630
+2022,Lawngtlai,Mizoram,2222629,674
+2023,Lawngtlai,Mizoram,1782005,679
+2024,Lawngtlai,Mizoram,2586903,526
+2025,LAWNGTLAI,Mizoram,2847707,521
+2021,Lunglei,Mizoram,612117,126
+2022,Lunglei,Mizoram,618577,178
+2023,Lunglei,Mizoram,1020578,92
+2024,Lunglei,Mizoram,817827,165
+2025,LUNGLEI,Mizoram,783884,165
+2021,Mamit,Mizoram,3993198,905
+2022,MAMIT,Mizoram,4867595,1155
+2023,Mamit,Mizoram,5309783,1114
+2024,Mamit,Mizoram,6059620,1322
+2025,Mamit,Mizoram,5604263,1752
+2021,Saiha,Mizoram,1968789,549
+2022,SAIHA,Mizoram,2288695,587
+2023,Saiha,Mizoram,2390091,652
+2024,Saiha,Mizoram,3486103,494
+2025,Saiha,Mizoram,3383627,423
+2021,Serchhip,Mizoram,473646,205
+2022,Serchhip,Mizoram,619538,141
+2023,Serchhip,Mizoram,585436,179
+2024,Serchhip,Mizoram,684873,129
+2025,Serchhip,Mizoram,697174,226
+2021,Dimapur,Nagaland,90014,37
+2022,Dimapur,Nagaland,144277,47
+2023,Dimapur,Nagaland,133492,39
+2024,DIMAPUR,Nagaland,105618,44
+2025,Dimapur,Nagaland,160513,29
+2021,kiphire,Nagaland,4305607,1697
+2022,Kiphire,Nagaland,5840390,1870
+2023,KIPHIRE,Nagaland,5559476,822
+2024,Kiphire,Nagaland,4908781,1226
+2025,Kiphire,Nagaland,4779029,872
+2021,Kohima,Nagaland,349290,89
+2022,Kohima,Nagaland,333856,77
+2023,Kohima,Nagaland,456994,64
+2024,Kohima,Nagaland,457904,69
+2025,Kohima,Nagaland,458054,68
+2021,Longleng,Nagaland,262740,71
+2022,Longleng,Nagaland,248615,84
+2023,Longleng,Nagaland,278083,62
+2024,Longleng,Nagaland,288154,66
+2025,Longleng,Nagaland,304457,85
+2021,Mokokchung,Nagaland,1228760,472
+2022,Mokokchung,Nagaland,1416346,707
+2023,Mokokchung,Nagaland,1220939,497
+2024,Mokokchung,Nagaland,2000396,627
+2025,MOKOKCHUNG,Nagaland,2196035,460
+2021,Mon,Nagaland,6432205,1282
+2022,Mon,Nagaland,5736475,1043
+2023,Mon,Nagaland,5343369,1850
+2024,Mon,Nagaland,6784864,1653
+2025,Mon,Nagaland,6681646,1596
+2021,Peren,Nagaland,1915760,730
+2022,Peren,Nagaland,2935669,805
+2023,Peren,Nagaland,2458488,715
+2024,Peren,Nagaland,2539677,545
+2025,Peren,Nagaland,3015522,770
+2021,PHEK,Nagaland,1320267,307
+2022,Phek,Nagaland,1986268,522
+2023,Phek,Nagaland,1857039,375
+2024,Phek,Nagaland,1689609,415
+2025,Phek,Nagaland,2117713,461
+2021,Tuensang,Nagaland,1340364,491
+2022,Tuensang,Nagaland,1631830,389
+2023,Tuensang,Nagaland,1302496,481
+2024,TUENSANG,Nagaland,1888887,525
+2025,Tuensang,Nagaland,1642747,251
+2021,Wokha,Nagaland,1542696,300
+2022,Wokha,Nagaland,1676735,525
+2023,Wokha,Nagaland,1749073,526
+2024,Wokha,Nagaland,1676192,462
+2025,Wokha,Nagaland,2078225,369
+2021,Zunheboto,Nagaland,1183228,526
+2022,Zunheboto,Nagaland,1281580,323
+2023,Zunheboto,Nagaland,1644958,465
+2024,Zunheboto,Nagaland,1581992,356
+2025,Zunheboto,Nagaland,1509745,464
+2021,Angul,Odisha,824877,219
+2022,Angul,Odisha,704947,405
+2023,Angul,Odisha,1152761,270
+2024,Angul,Odisha,955184,254
+2025,Angul,Odisha,1417015,295
+2021,Balangir,Odisha,637532,335
+2022,Balangir,Odisha,1195351,305
+2023,Balangir,Odisha,992556,273
+2024,Balangir,Odisha,1160774,342
+2025,Balangir,Odisha,1353291,284
+2021,Baleswar,Odisha,822116,250
+2022,Balasore,Odisha,881673,314
+2023,Balasore,Odisha,947945,147
+2024,Balasore,Odisha,1560480,174
+2025,Balasore,Odisha,1357366,239
+2021,BARGARH,Odisha,390312,152
+2022,Bargarh,Odisha,503747,104
+2023,Bargarh,Odisha,481012,123
+2024,Bargarh,Odisha,493940,165
+2025,Bargarh,Odisha,546180,188
+2021,Bhadrak,Odisha,726176,160
+2022,Bhadrak,Odisha,810812,241
+2023,Bhadrak,Odisha,1047174,157
+2024,Bhadrak,Odisha,1005442,135
+2025,Bhadrak,Odisha,1117762,217
+2021,Boudh,Odisha,242208,59
+2022,Boudh,Odisha,217154,80
+2023,Boudh,Odisha,317010,48
+2024,Boudh,Odisha,324485,54
+2025,Boudh,Odisha,272944,90
+2021,Cuttack,Odisha,682807,267
+2022,Cuttack,Odisha,743279,317
+2023,Cuttack,Odisha,701708,152
+2024,CUTTACK,Odisha,842430,222
+2025,Cuttack,Odisha,896343,237
+2021,DEOGARH,Odisha,515899,142
+2022,Deogarh,Odisha,370986,75
+2023,Deogarh,Odisha,373797,130
+2024,Deogarh,Odisha,459110,132
+2025,Deogarh,Odisha,542648,162
+2021,Dhenkanal,Odisha,323416,70
+2022,Dhenkanal,Odisha,380802,80
+2023,Dhenkanal,Odisha,381689,113
+2024,DHENKANAL,Odisha,318296,97
+2025,Dhenkanal,Odisha,409717,90
+2021,Gajapati,Odisha,914574,169
+2022,Gajapati,Odisha,1022524,292
+2023,Gajapati,Odisha,1085292,272
+2024,GAJAPATI,Odisha,987381,205
+2025,Gajapati,Odisha,1103916,295
+2021,Ganjam,Odisha,1704103,859
+2022,Ganjam,Odisha,1766554,896
+2023,Ganjam,Odisha,2398171,630
+2024,Ganjam,Odisha,3140480,935
+2025,Ganjam,Odisha,2093978,553
+2021,Jagatsinghapur,Odisha,2500332,507
+2022,Jagatsinghapur,Odisha,2351962,461
+2023,Jagatsinghapur,Odisha,2867796,509
+2024,JAGATSINGHAPUR,Odisha,3346570,315
+2025,Jagatsinghapur,Odisha,3432272,650
+2021,Jajpur,Odisha,230710,94
+2022,Jajpur,Odisha,272939,91
+2023,Jajpur,Odisha,448733,45
+2024,Jajpur,Odisha,278059,74
+2025,Jajpur,Odisha,329782,91
+2021,JHARSUGUDA,Odisha,261849,113
+2022,Jharsuguda,Odisha,366546,102
+2023,Jharsuguda,Odisha,438141,88
+2024,Jharsuguda,Odisha,398044,147
+2025,Jharsuguda,Odisha,559095,82
+2021,Kalahandi,Odisha,1831313,451
+2022,Kalahandi,Odisha,1624452,660
+2023,Kalahandi,Odisha,2068652,557
+2024,Kalahandi,Odisha,2276520,492
+2025,Kalahandi,Odisha,2638508,327
+2021,Kandhamal,Odisha,399335,94
+2022,Kandhamal,Odisha,374902,161
+2023,Kandhamal,Odisha,330931,99
+2024,Kandhamal,Odisha,484188,111
+2025,Kandhamal,Odisha,447146,161
+2021,Kendrapara,Odisha,611191,141
+2022,Kendrapara,Odisha,649542,125
+2023,Kendrapara,Odisha,805377,252
+2024,Kendrapara,Odisha,818949,243
+2025,Kendrapara,Odisha,827923,236
+2021,Kendujhar,Odisha,1565166,488
+2022,Kendujhar (Keonjhar),Odisha,1407338,366
+2023,Kendujhar (Keonjhar),Odisha,1722359,317
+2024,Kendujhar,Odisha,1551778,510
+2025,Kendujhar (Keonjhar),Odisha,1799359,455
+2021,Khordha,Odisha,462985,150
+2022,Khordha,Odisha,422009,120
+2023,Khordha,Odisha,505695,142
+2024,Khordha,Odisha,585044,144
+2025,Khordha,Odisha,643500,105
+2021,Koraput,Odisha,811895,298
+2022,Koraput,Odisha,818037,265
+2023,Koraput,Odisha,580876,283
+2024,Koraput,Odisha,1204181,257
+2025,Koraput,Odisha,979416,242
+2021,MALKANGIRI,Odisha,278613,122
+2022,Malkangiri,Odisha,319135,79
+2023,Malkangiri,Odisha,321116,58
+2024,Malkangiri,Odisha,295439,118
+2025,Malkangiri,Odisha,325434,65
+2021,Mayurbhanj,Odisha,541136,172
+2022,Mayurbhanj,Odisha,525907,213
+2023,Mayurbhanj,Odisha,509821,177
+2024,Mayurbhanj,Odisha,537291,217
+2025,Mayurbhanj,Odisha,799596,116
+2021,Nabarangpur,Odisha,939811,390
+2022,Nabarangpur,Odisha,846699,328
+2023,Nabarangpur,Odisha,1246700,341
+2024,Nabarangpur,Odisha,1211101,321
+2025,Nabarangpur,Odisha,1521931,430
+2021,Nayagarh,Odisha,198434,46
+2022,Nayagarh,Odisha,232758,89
+2023,Nayagarh,Odisha,221119,103
+2024,Nayagarh,Odisha,243163,68
+2025,Nayagarh,Odisha,245374,45
+2021,Nuapda,Odisha,1793778,266
+2022,Nuapada,Odisha,1611046,281
+2023,NUAPADA,Odisha,1887620,420
+2024,Nuapada,Odisha,2322030,434
+2025,Nuapada,Odisha,2018676,466
+2021,Puri,Odisha,964316,249
+2022,Puri,Odisha,1094235,238
+2023,Puri,Odisha,1326861,284
+2024,Puri,Odisha,1546447,214
+2025,Puri,Odisha,1514371,276
+2021,Rayagada,Odisha,999921,333
+2022,Rayagada,Odisha,1017502,493
+2023,Rayagada,Odisha,1584403,236
+2024,Rayagada,Odisha,1302236,253
+2025,Rayagada,Odisha,1396853,389
+2021,Sambalpur,Odisha,1135434,332
+2022,Sambalpur,Odisha,996770,323
+2023,Sambalpur,Odisha,1206760,241
+2024,Sambalpur,Odisha,1646440,224
+2025,Sambalpur,Odisha,1544575,199
+2021,Sonepur,Odisha,2568774,922
+2022,Sonepur,Odisha,2197348,935
+2023,Sonepur,Odisha,2802565,635
+2024,Sonepur,Odisha,3995211,596
+2025,SONEPUR,Odisha,3108303,431
+2021,Sundargarh,Odisha,1148407,297
+2022,Sundargarh,Odisha,1824182,326
+2023,SUNDARGARH,Odisha,1620562,339
+2024,Sundargarh,Odisha,1657836,164
+2025,Sundargarh,Odisha,2228173,342
+2021,Karaikal,Puducherry (UT),625574,205
+2022,Karaikal,Puducherry (UT),832156,218
+2023,Karaikal,Puducherry (UT),896405,151
+2024,Karaikal,Puducherry (UT),913068,187
+2025,Karaikal,Puducherry (UT),788440,110
+2021,Mahe,Puducherry (UT),837385,195
+2022,Mahe,Puducherry (UT),1049816,205
+2023,Mahe,Puducherry (UT),867738,357
+2024,Mahe,Puducherry (UT),886041,237
+2025,Mahe,Puducherry (UT),1082569,199
+2021,Pondicherry,Puducherry (UT),872327,363
+2022,Pondicherry,Puducherry (UT),1171962,482
+2023,Pondicherry,Puducherry (UT),1278999,508
+2024,Pondicherry,Puducherry (UT),1130840,412
+2025,Pondicherry,Puducherry (UT),1365212,417
+2021,Yanam,Puducherry (UT),839031,193
+2022,Yanam,Puducherry (UT),832126,155
+2023,Yanam,Puducherry (UT),680704,158
+2024,Yanam,Puducherry (UT),877829,245
+2025,Yanam,Puducherry (UT),1008567,158
+2021,AMRITSAR,Punjab,1157376,190
+2022,Amritsar,Punjab,1129378,211
+2023,Amritsar,Punjab,963508,324
+2024,AMRITSAR,Punjab,1153388,322
+2025,Amritsar,Punjab,1379100,283
+2021,Barnala,Punjab,352769,157
+2022,BARNALA,Punjab,494976,111
+2023,Barnala,Punjab,485207,173
+2024,Barnala,Punjab,464488,114
+2025,Barnala,Punjab,513613,128
+2021,BATHINDA,Punjab,363477,174
+2022,Bathinda,Punjab,465297,150
+2023,Bathinda,Punjab,460016,160
+2024,Bathinda,Punjab,613256,104
+2025,Bathinda,Punjab,630249,151
+2021,Faridkot,Punjab,288999,105
+2022,Faridkot,Punjab,251772,77
+2023,Faridkot,Punjab,308398,86
+2024,Faridkot,Punjab,426921,96
+2025,Faridkot,Punjab,293302,93
+2021,Fatehgarh Sahib,Punjab,2732100,857
+2022,Fatehgarh Sahib,Punjab,3477704,1092
+2023,FATEHGARH SAHIB,Punjab,2939982,1068
+2024,Fatehgarh Sahib,Punjab,3085157,908
+2025,Fatehgarh Sahib,Punjab,3812766,1244
+2021,Fazilka,Punjab,454587,78
+2022,Fazilka,Punjab,413475,92
+2023,Fazilka,Punjab,567477,100
+2024,Fazilka,Punjab,590461,117
+2025,Fazilka,Punjab,658936,79
+2021,Ferozepur,Punjab,506136,118
+2022,Ferozepur,Punjab,607191,131
+2023,Ferozepur,Punjab,783578,103
+2024,Ferozepur,Punjab,768704,159
+2025,FEROZEPUR,Punjab,1058243,184
+2021,Gurdaspur,Punjab,461359,91
+2022,Gurdaspur,Punjab,516030,145
+2023,Gurdaspur,Punjab,620122,88
+2024,Gurdaspur,Punjab,625696,138
+2025,Gurdaspur,Punjab,503688,95
+2021,Hoshiarpur,Punjab,2117930,394
+2022,Hoshiarpur,Punjab,1524913,388
+2023,HOSHIARPUR,Punjab,2542955,401
+2024,HOSHIARPUR,Punjab,3038742,467
+2025,Hoshiarpur,Punjab,2501007,584
+2021,Jalandhar,Punjab,702809,270
+2022,Jalandhar,Punjab,928049,179
+2023,Jalandhar,Punjab,757613,152
+2024,Jalandhar,Punjab,969406,217
+2025,JALANDHAR,Punjab,648436,250
+2021,KAPURTHALA,Punjab,1812547,407
+2022,Kapurthala,Punjab,2358567,464
+2023,  Kapurthala ,Punjab,1868995,622
+2024,Kapurthala,Punjab,1867651,581
+2025,Kapurthala,Punjab,2102524,643
+2021,Ludhiana,Punjab,606708,162
+2022,Ludhiana,Punjab,579665,127
+2023,Ludhiana,Punjab,833527,105
+2024,LUDHIANA,Punjab,908261,188
+2025,Ludhiana,Punjab,927104,204
+2021,Mansa,Punjab,1093351,313
+2022,Mansa,Punjab,1122132,409
+2023,MANSA,Punjab,1392832,398
+2024,mansa,Punjab,1661789,273
+2025,Mansa,Punjab,1526371,326
+2021,Moga,Punjab,433498,146
+2022,Moga,Punjab,435326,180
+2023,Moga,Punjab,399002,101
+2024,Moga,Punjab,451673,161
+2025,Moga,Punjab,658914,147
+2021,Muktsar,Punjab,3359566,1073
+2022,Muktsar,Punjab,4757040,1158
+2023,Muktsar,Punjab,7410302,976
+2024,Muktsar,Punjab,4384930,1429
+2025,Muktsar,Punjab,5273328,1215
+2021,Nawanshahr (Shahid Bhagat Singh Nagar),Punjab,268689,92
+2022,Nawanshahr (Shahid Bhagat Singh Nagar),Punjab,350866,134
+2023,Nawanshahr (Shahid Bhagat Singh Nagar),Punjab,391523,92
+2024,Naanshahr (Shahid Bhagat Singh Nagar),Punjab,373890,134
+2025,Nawanshahr (Shahid Bhagat Singh Nagar),Punjab,324328,101
+2021,Pathankot,Punjab,858483,350
+2022,Pathankot,Punjab,950256,309
+2023,Pathankot,Punjab,1334755,243
+2024,Pathankot,Punjab,871794,406
+2025,Pathankot,Punjab,1043376,194
+2021,Patiala,Punjab,1573919,486
+2022,Patiala,Punjab,2062910,284
+2023,Patiala,Punjab,1748127,544
+2024,Patiala,Punjab,2200633,477
+2025,Patiala,Punjab,2417815,486
+2021,Rupnagar,Punjab,2147902,413
+2022,Rupnagar,Punjab,1862918,301
+2023,Rupnagar,Punjab,2774699,458
+2024,Rupnagar,Punjab,2615783,396
+2025,Rupnagar,Punjab,2670880,275
+2021,Sahibzada Ajit Singh Nagar (Mohali),Punjab,517039,216
+2022,Sahibzada Ajit Singh Nagar (Mohali),Punjab,719456,151
+2023,Sahibzada Ajit Singh Nagar (Mohali),Punjab,799589,190
+2024,Sahibzada Ajit Singh Nagar (Mohali),Punjab,755843,204
+2025,Sahibzada Ajit Singh Nagar (Mohali),Punjab,789229,295
+2021,Sangrur,Punjab,909910,265
+2022,Sangrur,Punjab,1014077,305
+2023,Sangrur,Punjab,1167518,223
+2024,Sangrur,Punjab,936365,236
+2025,Sangrur,Punjab,971771,172
+2021,Tarn Taran,Punjab,810460,234
+2022,Tarn Taran,Punjab,795277,311
+2023,Tarn Taran,Punjab,1242282,348
+2024,Tarn Taran,Punjab,843018,155
+2025,Tarn Taran,Punjab,1009337,253
+2021,Ajmer,Rajasthan,641018,300
+2022,Ajmer,Rajasthan,607900,245
+2023,Ajmer,Rajasthan,591240,303
+2024,Ajmer,Rajasthan,952257,267
+2025,Ajmer,Rajasthan,745283,166
+2021,Alwar,Rajasthan,1644517,616
+2022,Alwar,Rajasthan,1363894,451
+2023,Alwar,Rajasthan,1740235,497
+2024,Alwar,Rajasthan,2283479,445
+2025,Alwar,Rajasthan,1858109,586
+2021,Banswara,Rajasthan,3348615,1205
+2022,Banswara,Rajasthan,4109794,805
+2023,Banswara,Rajasthan,3353403,1297
+2024,Banswara,Rajasthan,5235131,1479
+2025,Banswara,Rajasthan,5240685,1240
+2021,Baran,Rajasthan,564945,116
+2022,Baran,Rajasthan,582419,181
+2023,BARAN,Rajasthan,564311,131
+2024,Baran,Rajasthan,842505,134
+2025,BARAN,Rajasthan,603264,146
+2021,Barmer,Rajasthan,236208,105
+2022,Barmer,Rajasthan,347989,119
+2023,BARMER,Rajasthan,328422,69
+2024,Barmer,Rajasthan,270648,99
+2025,Barmer,Rajasthan,295471,81
+2021,Bharatpur,Rajasthan,898240,304
+2022,Bharatpur,Rajasthan,692686,193
+2023,BHARATPUR,Rajasthan,832586,300
+2024,Bharatpur,Rajasthan,1279023,243
+2025,BHARATPUR,Rajasthan,1305296,232
+2021,Bhilwara,Rajasthan,5182852,1924
+2022,Bhilwara,Rajasthan,6345606,1109
+2023,Bhilwara,Rajasthan,6641559,1655
+2024,Bhilwara,Rajasthan,7916729,1162
+2025,Bhilwara,Rajasthan,7699058,1338
+2021,Bikaner,Rajasthan,424113,151
+2022,Bikaner,Rajasthan,513927,139
+2023,Bikaner,Rajasthan,492485,176
+2024,Bikaner,Rajasthan,487394,144
+2025,Bikaner,Rajasthan,638949,95
+2021,Bundi,Rajasthan,2571776,920
+2022,BUNDI,Rajasthan,2855832,1016
+2023,Bundi,Rajasthan,2614320,555
+2024,BUNDI,Rajasthan,3017554,582
+2025,Bundi,Rajasthan,3637061,660
+2021,Chittorgarh,Rajasthan,2606699,982
+2022,Chittorgarh,Rajasthan,3239593,827
+2023,Chittorgarh,Rajasthan,3181121,1205
+2024,Chittorgarh,Rajasthan,2948901,873
+2025,  Chittorgarh ,Rajasthan,3192057,687
+2021,Churu,Rajasthan,539561,219
+2022,Churu,Rajasthan,806916,150
+2023,Churu,Rajasthan,749574,159
+2024,Churu,Rajasthan,800620,176
+2025,Churu,Rajasthan,719414,114
+2021,Dausa,Rajasthan,1140990,490
+2022,Dausa,Rajasthan,1264478,396
+2023,Dausa,Rajasthan,1424023,342
+2024,Dausa,Rajasthan,2184755,318
+2025,Dausa,Rajasthan,1383458,332
+2021,Dholpur,Rajasthan,2135859,739
+2022,Dholpur,Rajasthan,2414341,940
+2023,Dholpur,Rajasthan,2590349,507
+2024,Dholpur,Rajasthan,2702560,1021
+2025,Dholpur,Rajasthan,3554333,726
+2021,Dungarpur,Rajasthan,655093,177
+2022,Dungarpur,Rajasthan,615558,136
+2023,Dungarpur,Rajasthan,902842,202
+2024,Dungarpur,Rajasthan,988906,151
+2025,Dungarpur,Rajasthan,716423,164
+2021,Hanumangarh,Rajasthan,716550,255
+2022,Hanumangarh,Rajasthan,809777,260
+2023,Hanumangarh,Rajasthan,981439,147
+2024,Hanumangarh,Rajasthan,919260,136
+2025,Hanumangarh,Rajasthan,1274417,283
+2021,Jaipur,Rajasthan,391656,111
+2022,Jaipur,Rajasthan,619535,102
+2023,Jaipur,Rajasthan,512505,206
+2024,Jaipur,Rajasthan,549124,156
+2025,Jaipur,Rajasthan,524048,135
+2021,Jaisalmer,Rajasthan,390629,143
+2022,Jaisalmer,Rajasthan,465630,86
+2023,Jaisalmer,Rajasthan,494798,83
+2024,Jaisalmer,Rajasthan,673531,101
+2025,Jaisalmer,Rajasthan,634853,126
+2021,Jalore,Rajasthan,506971,115
+2022,Jalore,Rajasthan,564011,160
+2023,Jalore,Rajasthan,732669,143
+2024,Jalore,Rajasthan,659150,159
+2025,Jalore,Rajasthan,725436,121
+2021,Jhalawar,Rajasthan,342643,66
+2022,Jhalawar,Rajasthan,423112,82
+2023,Jhalawar,Rajasthan,361897,78
+2024,Jhalawar,Rajasthan,434862,133
+2025,Jhalawar,Rajasthan,477832,85
+2021,Jhunjhunun,Rajasthan,910085,226
+2022,Jhunjhunun,Rajasthan,914322,326
+2023,  Jhunjhunu ,Rajasthan,836033,315
+2024,Jhunjhunu,Rajasthan,957628,194
+2025,Jhunjhunu,Rajasthan,1043051,306
+2021,Jodhpur,Rajasthan,366011,162
+2022,Jodhpur,Rajasthan,319198,89
+2023,JODHPUR,Rajasthan,366197,95
+2024,Jodhpur,Rajasthan,542648,150
+2025,JODHPUR,Rajasthan,552269,168
+2021,Karauli,Rajasthan,1009030,343
+2022,Karauli,Rajasthan,965008,364
+2023,Karauli,Rajasthan,1085892,291
+2024,Karauli,Rajasthan,911581,399
+2025,KARAULI,Rajasthan,1119356,334
+2021,KOTA,Rajasthan,224462,100
+2022,Kota,Rajasthan,260436,83
+2023,Kota,Rajasthan,305363,88
+2024,Kota,Rajasthan,349012,51
+2025,Kota,Rajasthan,291823,54
+2021,Nagaur,Rajasthan,910495,189
+2022,Nagaur,Rajasthan,1080971,344
+2023,Nagaur,Rajasthan,1006927,241
+2024,Nagaur,Rajasthan,1323405,337
+2025,Nagaur,Rajasthan,1411647,198
+2021,Pali,Rajasthan,1250661,554
+2022,PALI,Rajasthan,1004029,472
+2023,Pali,Rajasthan,1270324,411
+2024,Pali,Rajasthan,1590324,566
+2025,Pali,Rajasthan,1672654,493
+2021,PRATAPGARH,Rajasthan,786393,236
+2022,Pratapgarh,Rajasthan,555324,205
+2023,Pratapgarh,Rajasthan,926844,140
+2024,Pratapgarh,Rajasthan,749188,168
+2025,Pratapgarh,Rajasthan,809095,162
+2021,Rajsamand,Rajasthan,973930,263
+2022,Rajsamand,Rajasthan,962120,371
+2023,Rajsamand,Rajasthan,984347,287
+2024,Rajsamand,Rajasthan,869793,263
+2025,Rajsamand,Rajasthan,1055661,278
+2021,Sawai Madhopur,Rajasthan,2654120,730
+2022,Sawai Madhopur,Rajasthan,2871046,434
+2023,SAWAI MADHOPUR,Rajasthan,2351471,785
+2024,SAWAI MADHOPUR,Rajasthan,2758770,399
+2025,Sawai Madhopur,Rajasthan,3344518,416
+2021,Sikar,Rajasthan,247665,72
+2022,Sikar,Rajasthan,284366,90
+2023,Sikar,Rajasthan,491195,72
+2024,Sikar,Rajasthan,292237,121
+2025,Sikar,Rajasthan,510157,86
+2021,Sirohi,Rajasthan,2102654,1198
+2022,Sirohi,Rajasthan,2694165,592
+2023,Sirohi,Rajasthan,3288092,750
+2024,Sirohi,Rajasthan,2293539,763
+2025,Sirohi,Rajasthan,3409484,829
+2021,Sri Ganganagar,Rajasthan,1270038,334
+2022,Sri Ganganagar,Rajasthan,937780,450
+2023,Sri Ganganagar,Rajasthan,1589846,222
+2024,Sri Ganganagar,Rajasthan,1530455,389
+2025,Sri Ganganagar,Rajasthan,1425033,420
+2021,Tonk,Rajasthan,371843,199
+2022,Tonk,Rajasthan,596836,87
+2023,Tonk,Rajasthan,366402,152
+2024,Tonk,Rajasthan,585090,194
+2025,tonk,Rajasthan,488499,198
+2021,Udaipur,Rajasthan,724507,309
+2022,Udaipur,Rajasthan,774964,207
+2023,Udaipur,Rajasthan,858322,169
+2024,Udaipur,Rajasthan,1005701,214
+2025,Udaipur,Rajasthan,859721,204
+2021,East Sikkim,Sikkim,1252377,353
+2022,East Sikkim,Sikkim,1597203,501
+2023,East Sikkim,Sikkim,2070895,298
+2024,East Sikkim,Sikkim,1837566,473
+2025,East Sikkim,Sikkim,2024129,486
+2021,North Sikkim,Sikkim,788760,341
+2022,North Sikkim,Sikkim,863942,306
+2023,North Sikkim,Sikkim,1115702,182
+2024,North Sikkim,Sikkim,830040,206
+2025,North Sikkim,Sikkim,942487,225
+2021,South Sikkim,Sikkim,1309974,510
+2022,SOUTH SIKKIM,Sikkim,1485167,282
+2023,SOUTH SIKKIM,Sikkim,1654237,330
+2024,SOUTH SIKKIM,Sikkim,2195515,415
+2025,SOUTH SIKKIM,Sikkim,1668490,352
+2021,West Sikkim,Sikkim,323465,160
+2022,West Sikkim,Sikkim,361373,120
+2023,West Sikkim,Sikkim,451261,126
+2024,West Sikkim,Sikkim,398007,120
+2025,West Sikkim,Sikkim,441394,113
+2021,Ariyalur,Tamil Nadu,838477,249
+2022,Ariyalur,Tamil Nadu,1257956,206
+2023,Ariyaur,Tamil Nadu,1435310,227
+2024,Ariyalur,Tamil Nadu,1314285,258
+2025,ariyalur,Tamil Nadu,1263971,366
+2021,Chennai,Tamil Nadu,391888,108
+2022,Chennai,Tamil Nadu,412496,59
+2023,Chennai,Tamil Nadu,462723,97
+2024,Chennai,Tamil Nadu,456655,65
+2025,Chennai,Tamil Nadu,466385,94
+2021,Coimbatore,Tamil Nadu,478964,269
+2022,COIMBATORE,Tamil Nadu,756150,276
+2023,Coimbatore,Tamil Nadu,646974,161
+2024,Coimbatore,Tamil Nadu,756508,203
+2025,Coimbatore,Tamil Nadu,602242,235
+2021,Cuddalore,Tamil Nadu,331255,104
+2022,Cuddalore,Tamil Nadu,378398,109
+2023,Cuddalore,Tamil Nadu,425270,143
+2024,Cuddalore,Tamil Nadu,606423,135
+2025,Cuddalore,Tamil Nadu,501946,172
+2021,Dharmapuri,Tamil Nadu,478652,99
+2022,Dharmapuri,Tamil Nadu,534096,114
+2023,DHARMAPURI,Tamil Nadu,751017,88
+2024,Dharmapuri,Tamil Nadu,692657,193
+2025,Dharmapuri,Tamil Nadu,826348,160
+2021,Dindigul,Tamil Nadu,1839952,664
+2022,Dindigul,Tamil Nadu,2424866,465
+2023,Dindigul,Tamil Nadu,2217244,849
+2024,Dindigul,Tamil Nadu,2932200,620
+2025,Dindigul,Tamil Nadu,2854996,666
+2021,Erode,Tamil Nadu,2320164,733
+2022,Erode,Tamil Nadu,1860156,651
+2023,Erode,Tamil Nadu,2753154,554
+2024,Erode,Tamil Nadu,2423971,528
+2025,Erode,Tamil Nadu,2237904,544
+2021,  Kanchipuram ,Tamil Nadu,1300231,244
+2022,Kanchipuram,Tamil Nadu,1391486,294
+2023,Kanchipuram,Tamil Nadu,1156585,247
+2024,Kanchipuram,Tamil Nadu,1639774,539
+2025,Kanchipuram,Tamil Nadu,1555776,382
+2021,Kanyakumari,Tamil Nadu,284125,89
+2022,Kanyakumari,Tamil Nadu,463852,144
+2023,KANYAKUMARI,Tamil Nadu,367003,86
+2024,Kanyakumari,Tamil Nadu,507379,126
+2025,KANYAKUMARI,Tamil Nadu,482277,134
+2021,Karur,Tamil Nadu,426218,222
+2022,Karur,Tamil Nadu,710582,156
+2023,Karur,Tamil Nadu,564781,164
+2024,Karur,Tamil Nadu,708695,189
+2025,Karur,Tamil Nadu,1046382,219
+2021,Krishnagiri,Tamil Nadu,2049171,533
+2022,Krishnagiri,Tamil Nadu,2057701,585
+2023,KRISHNAGIRI,Tamil Nadu,3192322,397
+2024,Krishnagiri,Tamil Nadu,3947059,413
+2025,Krishnagiri,Tamil Nadu,4123207,622
+2021,Madurai,Tamil Nadu,1101467,303
+2022,Madurai,Tamil Nadu,974927,262
+2023,Madurai,Tamil Nadu,1160038,252
+2024,Madurai,Tamil Nadu,1089200,244
+2025,MADURAI,Tamil Nadu,1466051,205
+2021,NAGAPATTINAM,Tamil Nadu,5303169,1128
+2022,Nagapattinam,Tamil Nadu,5741776,987
+2023,NAGAPATTINAM,Tamil Nadu,5161333,1109
+2024,Nagapattinam,Tamil Nadu,8836890,1701
+2025,Nagapattinam,Tamil Nadu,6933948,1882
+2021,  Namakkal ,Tamil Nadu,973332,392
+2022,Namakkal,Tamil Nadu,925885,241
+2023,Namakkal,Tamil Nadu,1455043,255
+2024,Namakkal,Tamil Nadu,1176540,436
+2025,Namakkal,Tamil Nadu,1017665,311
+2021,Nilgiris,Tamil Nadu,843810,353
+2022,Nilgiris,Tamil Nadu,981735,313
+2023,NILGIRIS,Tamil Nadu,967098,170
+2024,Nilgiris,Tamil Nadu,1053567,246
+2025,Nilgiris,Tamil Nadu,1122561,332
+2021,Perambalur,Tamil Nadu,619115,157
+2022,Perambalur,Tamil Nadu,628323,150
+2023,Perambalur,Tamil Nadu,867235,246
+2024,Perambalur,Tamil Nadu,755215,180
+2025,Perambalur,Tamil Nadu,890541,217
+2021,Pudukkottai,Tamil Nadu,1168144,332
+2022,Pudukkottai,Tamil Nadu,1165473,335
+2023,Pudukkottai,Tamil Nadu,983066,305
+2024,Pudukkottai,Tamil Nadu,1395780,293
+2025,Pudukkottai,Tamil Nadu,1340065,283
+2021,Ramanathapuram,Tamil Nadu,709590,292
+2022,Ramanathapuram,Tamil Nadu,685967,292
+2023,Ramanathapuram,Tamil Nadu,882057,212
+2024,RAMANATHAPURAM,Tamil Nadu,758296,250
+2025,Ramanathapuram,Tamil Nadu,850122,243
+2021,Salem,Tamil Nadu,1727099,577
+2022,Salem,Tamil Nadu,1647424,293
+2023,Salem,Tamil Nadu,1829523,403
+2024,Salem,Tamil Nadu,2056808,364
+2025,Salem,Tamil Nadu,2439239,415
+2021,Sivaganga,Tamil Nadu,2882783,402
+2022,Sivaganga,Tamil Nadu,2504399,378
+2023,Sivaganga,Tamil Nadu,3163719,541
+2024,Sivaganga,Tamil Nadu,4473773,625
+2025,Sivaganga,Tamil Nadu,3001435,620
+2021,Thanjavur,Tamil Nadu,622839,116
+2022,THANJAVUR,Tamil Nadu,595188,138
+2023,Thanjavur,Tamil Nadu,553126,181
+2024,Thanjavur,Tamil Nadu,907644,188
+2025,Thanjavur,Tamil Nadu,610731,139
+2021,THENI,Tamil Nadu,258436,72
+2022,Theni,Tamil Nadu,288444,107
+2023,Theni,Tamil Nadu,310005,67
+2024,Theni,Tamil Nadu,412827,93
+2025,THENI,Tamil Nadu,385041,68
+2021,Thoothukudi (Tuticorin),Tamil Nadu,339693,62
+2022,Thoothukudi (Tuticorin),Tamil Nadu,257647,74
+2023,Thoothukudi (Tuticorin),Tamil Nadu,293819,44
+2024,Thoothukudi (Tuticorin),Tamil Nadu,297974,83
+2025,Thoothukudi (Tuticorin),Tamil Nadu,393885,46
+2021,TIRUCHIRAPPALLI,Tamil Nadu,1014822,472
+2022,Tiruchirappalli,Tamil Nadu,1153713,252
+2023,Tiruchirappalli,Tamil Nadu,1195046,307
+2024,Tiruchirappalli,Tamil Nadu,1508068,305
+2025,Tiruchirappalli,Tamil Nadu,1518418,286
+2021,Tirunelveli,Tamil Nadu,231566,91
+2022,Tirunelveli,Tamil Nadu,365141,146
+2023,Tirunelveli,Tamil Nadu,313601,141
+2024,Tirunelveli,Tamil Nadu,343676,118
+2025,Tirunelveli,Tamil Nadu,476295,98
+2021,Tiruppur,Tamil Nadu,163511,49
+2022,Tiruppur,Tamil Nadu,160050,52
+2023,Tiruppur,Tamil Nadu,207203,66
+2024,Tiruppur,Tamil Nadu,138106,33
+2025,Tiruppur,Tamil Nadu,170012,32
+2021,Tiruvallur,Tamil Nadu,669561,332
+2022,TIRUVALLUR,Tamil Nadu,872015,211
+2023,Tiruvallur,Tamil Nadu,1024112,413
+2024,Tiruvallur,Tamil Nadu,1117017,342
+2025,Tiruvallur,Tamil Nadu,1805539,339
+2021,Tiruvannamalai,Tamil Nadu,5452234,2034
+2022,Tiruvannamalai,Tamil Nadu,5333425,1741
+2023,Tiruvannamalai,Tamil Nadu,5822845,2186
+2024,Tiruvannamalai,Tamil Nadu,7118910,1223
+2025,Tiruvannamalai,Tamil Nadu,7196780,1804
+2021,Tiruvarur,Tamil Nadu,732689,221
+2022,TIRUVARUR,Tamil Nadu,907586,223
+2023,Tiruvarur,Tamil Nadu,996141,179
+2024,Tiruvarur,Tamil Nadu,1291435,213
+2025,Tiruvarur,Tamil Nadu,1080810,152
+2021,Vellore,Tamil Nadu,2134231,637
+2022,Vellore,Tamil Nadu,1766255,635
+2023,Vellore,Tamil Nadu,2304882,590
+2024,Vellore,Tamil Nadu,2420629,364
+2025,Vellore,Tamil Nadu,3746679,456
+2021,viluppuram,Tamil Nadu,824757,222
+2022,Viluppuram,Tamil Nadu,906519,179
+2023,Viluppuram,Tamil Nadu,1309526,353
+2024,Viluppuram,Tamil Nadu,1144390,243
+2025,Viluppuram,Tamil Nadu,1216211,356
+2021,Virudhunagar,Tamil Nadu,657615,181
+2022,Virudhunagar,Tamil Nadu,753219,246
+2023,Virudhunagar,Tamil Nadu,784221,286
+2024,Virudhunagar,Tamil Nadu,1293326,298
+2025,Virudhunagar,Tamil Nadu,951146,250
+2021,Ailabad,Telangana,1705203,553
+2022,ADILABAD,Telangana,2059043,505
+2023,Adilabad,Telangana,2240442,402
+2024,Adilabad,Telangana,2888433,362
+2025,Adilabad,Telangana,2394484,548
+2021,Bhadradri Kothagudem,Telangana,690008,248
+2022,BHADRADRI KOTHAGUDEM,Telangana,659240,264
+2023,Bhadradri Kothagudem,Telangana,486336,151
+2024,Bhadradri Kothagudem,Telangana,627841,174
+2025,BHADRADRI KOTHAGUDEM,Telangana,740840,185
+2021,HYDERABAD,Telangana,860168,296
+2022,Hyderabad,Telangana,1174383,405
+2023,Hyderabad,Telangana,1009820,190
+2024,Hyderabad,Telangana,1171643,348
+2025,Hyderabad,Telangana,2314842,413
+2021,Jagtial,Telangana,1272084,248
+2022,Jagtial,Telangana,1223638,300
+2023,Jagtial,Telangana,1468346,350
+2024,Jagtial,Telangana,1611356,342
+2025,Jagtial,Telangana,1810541,191
+2021,Jangaon,Telangana,303180,203
+2022,Jangaon,Telangana,509641,127
+2023,Jangaon,Telangana,426564,136
+2024,Jangaon,Telangana,667401,134
+2025,Jangaon,Telangana,572268,167
+2021,Jayashankar Bhoopalpally,Telangana,2206407,418
+2022,Jayashankar Bhoopalpally,Telangana,2115913,693
+2023,Jayashankar Bhoopalpally,Telangana,2585308,584
+2024,JAYASHANKAR BHOOPALPALLY,Telangana,2879934,438
+2025,Jayashankar Bhoopalpally,Telangana,2725384,325
+2021,Jogulamba Gadwal,Telangana,832681,240
+2022,Jogulamba Gadwal,Telangana,676616,292
+2023,Jogulamba Gadwal,Telangana,1063062,211
+2024,Jogulamba Gadwal,Telangana,870659,257
+2025,Jogulamba Gadwal,Telangana,623574,194
+2021,KAMAREDDY,Telangana,446892,87
+2022,Kamareddy,Telangana,493657,136
+2023,Kamareddy,Telangana,586802,144
+2024,Kamareddy,Telangana,649607,153
+2025,Kamareddy,Telangana,618902,114
+2021,Karimnagar,Telangana,1746548,419
+2022,Karimnagar,Telangana,1328696,353
+2023,Karimnagar,Telangana,1589993,348
+2024,Karimnagar,Telangana,1683001,311
+2025,KARIMNAGAR,Telangana,1660448,379
+2021,Khammam,Telangana,802507,92
+2022,Khammam,Telangana,677255,89
+2023,Khammam,Telangana,625825,167
+2024,Khammam,Telangana,1159386,144
+2025,Khammam,Telangana,1089063,125
+2021,Komaram Bheem Asifabad,Telangana,696486,193
+2022,Komaram Bheem Asifabad,Telangana,1020659,162
+2023,KOMARAM BHEEM ASIFABAD,Telangana,706638,330
+2024,Komaram Bheem Asifabad,Telangana,861009,176
+2025,KOMARAM BHEEM ASIFABAD,Telangana,942888,311
+2021,Mahabubabad,Telangana,924552,175
+2022,Mahabubabad,Telangana,876331,299
+2023,Mahabubabad,Telangana,893312,185
+2024,Mahabubabad,Telangana,1210749,214
+2025,Mahabubabad,Telangana,933881,271
+2021,Mahabubnagar,Telangana,1488257,529
+2022,Mahabubnagar,Telangana,2079658,446
+2023,Mahabubnagar,Telangana,2011511,362
+2024,MAHABUBNAGAR,Telangana,2806702,663
+2025,Mahabubnagar,Telangana,2093494,609
+2021,Mancherial,Telangana,1176855,474
+2022,Mancherial,Telangana,1265772,477
+2023,Mancherial,Telangana,1135796,346
+2024,MANCHERIAL,Telangana,1184452,349
+2025,Mancherial,Telangana,1306894,461
+2021,Medak,Telangana,1114126,229
+2022,Medak,Telangana,1115464,204
+2023,Medak,Telangana,1030394,304
+2024,Medak,Telangana,1063685,203
+2025,Medak,Telangana,1714866,284
+2021,Medchal,Telangana,1710801,612
+2022,Medchal,Telangana,1710553,371
+2023,Medchal,Telangana,1856287,550
+2024,Medchal,Telangana,1584063,571
+2025,Medchal,Telangana,1959377,546
+2021,Nagarkurnool,Telangana,2399037,505
+2022,Nagarkurnool,Telangana,2318137,528
+2023,Nagarkurnool,Telangana,2843793,938
+2024,Nagarkurnool,Telangana,2684143,577
+2025,Nagarkurnool,Telangana,2139180,420
+2021,NALGONDA,Telangana,1874441,315
+2022,Nalgonda,Telangana,1271266,429
+2023,NALGONDA,Telangana,1132942,520
+2024,Nalgonda,Telangana,1333088,355
+2025,NALGONDA,Telangana,1619296,421
+2021,Nirmal,Telangana,660056,158
+2022,Nirmal,Telangana,950325,228
+2023,Nirmal,Telangana,1183864,181
+2024,NIRMAL,Telangana,1054013,338
+2025,Nirmal,Telangana,1119735,154
+2021,Nizamabad,Telangana,356139,89
+2022,Nizamabad,Telangana,282168,55
+2023,Nizamabad,Telangana,435553,124
+2024,Nizamabad,Telangana,437257,78
+2025,Nizamabad,Telangana,422994,101
+2021,Peddapalli,Telangana,542503,146
+2022,Peddapalli,Telangana,511937,106
+2023,Peddapalli,Telangana,639983,77
+2024,PEDDAPALLI,Telangana,538428,88
+2025,Peddapalli,Telangana,578819,113
+2021,Rajanna Sircilla,Telangana,538186,223
+2022,Rajanna Sircilla,Telangana,741655,181
+2023,Rajanna Sircilla,Telangana,593230,232
+2024,Rajanna Sircilla,Telangana,885274,249
+2025,Rajanna Sircilla,Telangana,824790,183
+2021,Rangareddy,Telangana,515783,122
+2022,  Rangareddy ,Telangana,645137,107
+2023,Rangareddy,Telangana,480815,183
+2024,RANGAREDDY,Telangana,593935,94
+2025,Rangareddy,Telangana,649375,106
+2021,Sangareddy,Telangana,683271,129
+2022,Sangareddy,Telangana,658485,275
+2023,Sangareddy,Telangana,815441,220
+2024,Sangareddy,Telangana,816662,253
+2025,Sangareddy,Telangana,741688,217
+2021,Siddipet,Telangana,888154,172
+2022,Siddipet,Telangana,788459,262
+2023,Siddipet,Telangana,873659,234
+2024,Siddipet,Telangana,1179221,212
+2025,Siddipet,Telangana,868484,227
+2021,Suryapet,Telangana,1072106,240
+2022,Suryapet,Telangana,1472830,329
+2023,Suryapet,Telangana,1463225,490
+2024,SURYAPET,Telangana,1644519,333
+2025,Suryapet,Telangana,1657383,319
+2021,Vikarabad,Telangana,767704,274
+2022,VIKARABAD,Telangana,983490,292
+2023,Vikarabad,Telangana,875282,157
+2024,Vikarabad,Telangana,1297066,263
+2025,Vikarabad,Telangana,1053043,224
+2021,Wanaparthy,Telangana,897721,477
+2022,Wanaparthy,Telangana,873478,376
+2023,Wanaparthy,Telangana,1012402,487
+2024,Wanaparthy,Telangana,1406451,351
+2025,Wanaparthy,Telangana,1322278,433
+2021,Warangal (Rural),Telangana,893623,234
+2022,Warangal (Rural),Telangana,791962,259
+2023,Warangal (Rural),Telangana,1234039,234
+2024,Warangal (Rural),Telangana,1203644,222
+2025,Warangal (Rural),Telangana,1279170,303
+2021,Warangal (Urban),Telangana,267250,48
+2022,Warangal (Urban),Telangana,292552,59
+2023,Warangal (Urban),Telangana,431026,59
+2024,Warangal (Urban),Telangana,295441,55
+2025,Warangal,Telangana,448317,67
+2021,Yadadri Bhuvanagiri,Telangana,473548,73
+2022,Yadadri Bhuvanagiri,Telangana,420019,128
+2023,Yadadri Bhuvanagiri,Telangana,675905,119
+2024,Yadadri Bhuvanagiri,Telangana,468690,149
+2025,YADADRI BHUVANAGIRI,Telangana,531834,128
+2021,Dhalai,Tripura,988611,173
+2022,Dhalai,Tripura,1362502,245
+2023,Dhalai,Tripura,1477199,260
+2024,Dhalai,Tripura,1428702,177
+2025,Dhalai,Tripura,1422737,149
+2021,Gomati,Tripura,304741,59
+2022,Gomati,Tripura,352608,82
+2023,Gomati,Tripura,374715,70
+2024,Gomati,Tripura,284851,84
+2025,Gomati,Tripura,385561,98
+2021,Khowai,Tripura,1140331,266
+2022,Khowai,Tripura,1129170,281
+2023,Khowai,Tripura,1294380,533
+2024,Khowai,Tripura,1287434,374
+2025,Khowai,Tripura,1176691,355
+2021,North Tripura,Tripura,2010943,874
+2022,North Tripura,Tripura,2157990,1063
+2023,North Tripura,Tripura,2756004,732
+2024,North Tripura,Tripura,2948016,684
+2025,North Tripura,Tripura,3124287,739
+2021,SEPAHIJALA,Tripura,3256242,736
+2022,Sepahijala,Tripura,2176103,471
+2023,Sepahijala,Tripura,2599942,581
+2024,Sepahijala,Tripura,2995427,621
+2025,Sepahijala,Tripura,3458951,510
+2021,south tripura,Tripura,1088591,257
+2022,South Tripura,Tripura,926275,234
+2023,South Tripura,Tripura,1225792,162
+2024,South Tripura,Tripura,1039819,280
+2025,South Tripura,Tripura,1226791,161
+2021,Unakoti,Tripura,2608346,857
+2022,Unakoti,Tripura,3551960,1033
+2023,Unakoti,Tripura,2692889,973
+2024,Unakoti,Tripura,2484372,543
+2025,Unakoti,Tripura,3676222,857
+2021,West Tripura,Tripura,832766,312
+2022,West Tripura,Tripura,776436,340
+2023,West Tripura,Tripura,1308805,348
+2024,West Tripura,Tripura,1227156,285
+2025,West Tripura,Tripura,1338405,246
+2021,Almora,Uttarakhand,500653,232
+2022,Almora,Uttarakhand,579742,177
+2023,Almora,Uttarakhand,563698,142
+2024,Almora,Uttarakhand,848137,186
+2025,almora,Uttarakhand,1081982,164
+2021,BAGESHWAR,Uttarakhand,733179,211
+2022,Bageshwar,Uttarakhand,954502,133
+2023,Bageshwar,Uttarakhand,1022089,94
+2024,Bageshwar,Uttarakhand,901611,198
+2025,Bageshwar,Uttarakhand,1183293,144
+2021,Chamoli,Uttarakhand,626031,227
+2022,Chamoli,Uttarakhand,725918,168
+2023,Chamoli,Uttarakhand,645461,157
+2024,Chamoli,Uttarakhand,912904,216
+2025,Chamoli,Uttarakhand,934064,255
+2021,Champawat,Uttarakhand,770275,124
+2022,Champawat,Uttarakhand,560330,248
+2023,CHAMPAWAT,Uttarakhand,747057,236
+2024,Champawat,Uttarakhand,1019323,214
+2025,Champawat,Uttarakhand,1141309,191
+2021,Dehradun,Uttarakhand,825598,314
+2022,Dehradun,Uttarakhand,1041151,337
+2023,Dehradun,Uttarakhand,1509532,229
+2024,Dehradun,Uttarakhand,1062954,185
+2025,Dehradun,Uttarakhand,1161398,209
+2021,Haridwar,Uttarakhand,994998,214
+2022,Haridwar,Uttarakhand,1137496,250
+2023,Haridwar,Uttarakhand,944750,262
+2024,Haridwar,Uttarakhand,853575,339
+2025,Haridwar,Uttarakhand,1605732,265
+2021,NAINITAL,Uttarakhand,647894,238
+2022,Nainital,Uttarakhand,886419,172
+2023,Nainital,Uttarakhand,1045597,221
+2024,Nainital,Uttarakhand,1092726,193
+2025,Nainital,Uttarakhand,1105456,257
+2021,Pauri Garhwal,Uttarakhand,1001858,307
+2022,Pauri Garhwal,Uttarakhand,1161580,468
+2023,Pari Garhwal,Uttarakhand,1119644,463
+2024,Pauri Garhwal,Uttarakhand,1258709,433
+2025,Pauri Garhwal,Uttarakhand,1539230,243
+2021,Pithoragarh,Uttarakhand,2283402,468
+2022,Pithoragarh,Uttarakhand,2511897,589
+2023,Pithoragarh,Uttarakhand,2429627,704
+2024,Pithoragarh,Uttarakhand,2393965,576
+2025,Pithoragarh,Uttarakhand,3426813,789
+2021,RUDRAPRAYAG,Uttarakhand,2675372,462
+2022,Rudraprayag,Uttarakhand,3405390,689
+2023,Rudraprayag,Uttarakhand,3318237,596
+2024,Rudraprayag,Uttarakhand,3278371,357
+2025,Rudraprayag,Uttarakhand,3140277,435
+2021,Tehri Garhwal,Uttarakhand,417357,79
+2022,Tehri Garhwal,Uttarakhand,390869,74
+2023,TEHRI GARHWAL,Uttarakhand,442186,90
+2024,Tehri Garhwal,Uttarakhand,456700,74
+2025,Tehri arhwal,Uttarakhand,420192,78
+2021,Udham Singh Nagar,Uttarakhand,158477,40
+2022,Udham Singh Nagar,Uttarakhand,179926,38
+2023,Udham Singh Nagar,Uttarakhand,178632,43
+2024,Udham Singh Nagar,Uttarakhand,219908,31
+2025,Udham Singh Nagar,Uttarakhand,237192,41
+2021,Uttarkashi,Uttarakhand,1625610,526
+2022,Uttarkashi,Uttarakhand,1208161,358
+2023,Uttarkashi,Uttarakhand,1611357,539
+2024,Uttarkashi,Uttarakhand,2130504,665
+2025,Uttarkashi,Uttarakhand,1866770,685
+2021,Agra,Uttar Pradesh,255577,112
+2022,Agra,Uttar Pradesh,327509,57
+2023,Agra,Uttar Pradesh,233054,92
+2024,Agra,Uttar Pradesh,375647,74
+2025,Agra,Uttar Pradesh,361246,73
+2021,Aligarh,Uttar Pradesh,582583,228
+2022,Aligarh,Uttar Pradesh,841414,244
+2023,Aligarh,Uttar Pradesh,757416,165
+2024,Aligarh,Uttar Pradesh,814346,228
+2025,Aligarh,Uttar Pradesh,822959,281
+2021,Allahabad,Uttar Pradesh,391570,63
+2022,Allahabad,Uttar Pradesh,301847,119
+2023,Allahabad,Uttar Pradesh,395573,109
+2024,ALLAHABAD,Uttar Pradesh,537142,118
+2025,Allahabad,Uttar Pradesh,446184,98
+2021,AMBEDKAR NAGAR,Uttar Pradesh,346849,52
+2022,Ambedkar Nagar,Uttar Pradesh,292938,79
+2023,Ambedkar Nagar,Uttar Pradesh,295747,81
+2024,Ambedkar Nagar,Uttar Pradesh,327609,60
+2025,Ambedkar Nagar,Uttar Pradesh,365717,84
+2021,Amethi (Chatrapati Sahuji Mahraj Nagar),Uttar Pradesh,1065179,422
+2022,  Amethi (Chatrapati Sahuji Mahraj Nagar) ,Uttar Pradesh,897501,440
+2023,Amethi (Chatrapati Sahuji Mahraj Nagar),Uttar Pradesh,1084836,396
+2024,Amethi (Chatrapati Sahuji Mahraj Nagar),Uttar Pradesh,1403553,495
+2025,Amethi (Chatrapati Sahuji Mahraj Nagar),Uttar Pradesh,1404074,300
+2021,Amroha (J.P. Nagar),Uttar Pradesh,2292077,442
+2022,amroha (j.p. nagar),Uttar Pradesh,2670026,460
+2023,Amroha (J.P. Nagar),Uttar Pradesh,1994429,312
+2024,amroha (j.p. nagar),Uttar Pradesh,2753296,533
+2025,Amroha (J.P. Nagar),Uttar Pradesh,2689327,403
+2021,Auraiya,Uttar Pradesh,506884,157
+2022,AURAIYA,Uttar Pradesh,653457,199
+2023,AURAIYA,Uttar Pradesh,437688,127
+2024,Auraiya,Uttar Pradesh,846236,220
+2025,Auraiya,Uttar Pradesh,744475,96
+2021,Azamgarh,Uttar Pradesh,107841,29
+2022,Azamgarh,Uttar Pradesh,115697,41
+2023,Azamgarh,Uttar Pradesh,124888,28
+2024,AZAMGARH,Uttar Pradesh,172281,43
+2025,Azamgarh,Uttar Pradesh,116511,29
+2021,Baghpat,Uttar Pradesh,479559,189
+2022,Baghpat,Uttar Pradesh,614076,187
+2023,Baghpat,Uttar Pradesh,579005,113
+2024,Baghpat,Uttar Pradesh,666629,117
+2025,Baghpat,Uttar Pradesh,682953,101
+2021,Bahraich,Uttar Pradesh,1062801,239
+2022,Bahraich,Uttar Pradesh,994990,226
+2023,Bahraich,Uttar Pradesh,1220125,211
+2024,Bahraich,Uttar Pradesh,934526,397
+2025,Bahraich,Uttar Pradesh,1459736,435
+2021,Ballia,Uttar Pradesh,358313,67
+2022,BALLIA,Uttar Pradesh,335026,92
+2023,Ballia,Uttar Pradesh,338703,101
+2024,Ballia,Uttar Pradesh,355742,108
+2025,BALLIA,Uttar Pradesh,380196,50
+2021,Balrampur,Uttar Pradesh,1009284,187
+2022,Balrampur,Uttar Pradesh,847397,178
+2023,Balrampur,Uttar Pradesh,910290,390
+2024,Balrampur,Uttar Pradesh,1075288,320
+2025,Barampur,Uttar Pradesh,1290443,363
+2021,Banda,Uttar Pradesh,767135,316
+2022,Banda,Uttar Pradesh,668333,171
+2023,Banda,Uttar Pradesh,701061,149
+2024,Banda,Uttar Pradesh,835800,293
+2025,Banda,Uttar Pradesh,940626,239
+2021,Barabanki,Uttar Pradesh,940165,373
+2022,BARABANKI,Uttar Pradesh,1183280,516
+2023,Barabanki,Uttar Pradesh,1422526,449
+2024,Barabanki,Uttar Pradesh,1140466,404
+2025,Barabanki,Uttar Pradesh,1433584,436
+2021,Bareilly,Uttar Pradesh,828431,374
+2022,Bareilly,Uttar Pradesh,935110,173
+2023,Bareilly,Uttar Pradesh,1010899,372
+2024,Bareilly,Uttar Pradesh,1051841,224
+2025,Bareilly,Uttar Pradesh,918240,337
+2021,Basti,Uttar Pradesh,561159,83
+2022,Basti,Uttar Pradesh,658347,144
+2023,Basti,Uttar Pradesh,622877,145
+2024,Basti,Uttar Pradesh,797330,108
+2025,Basti,Uttar Pradesh,678985,132
+2021,Bhadohi,Uttar Pradesh,2368654,570
+2022,Bhadohi,Uttar Pradesh,2224711,769
+2023,Bhadohi,Uttar Pradesh,1770062,832
+2024,  Bhadohi ,Uttar Pradesh,2115991,595
+2025,Bhadohi,Uttar Pradesh,2922203,756
+2021,BIJNOR,Uttar Pradesh,447155,220
+2022,BIJNOR,Uttar Pradesh,940069,215
+2023,Bijnor,Uttar Pradesh,972365,251
+2024,Bijnor,Uttar Pradesh,803980,186
+2025,Bijnor,Uttar Pradesh,964070,270
+2021,Budaun,Uttar Pradesh,733987,302
+2022,Budaun,Uttar Pradesh,726539,281
+2023,Budaun,Uttar Pradesh,876581,266
+2024,Budaun,Uttar Pradesh,1013037,296
+2025,BUDAUN,Uttar Pradesh,780685,166
+2021,Bulandshahr,Uttar Pradesh,389390,94
+2022,Bulandshahr,Uttar Pradesh,393579,130
+2023,Bulandshahr,Uttar Pradesh,317604,152
+2024,Bulandshahr,Uttar Pradesh,619576,93
+2025,Bulandshahr,Uttar Pradesh,416577,93
+2021,Chandauli,Uttar Pradesh,457971,184
+2022,Chandauli,Uttar Pradesh,457031,177
+2023,Chandauli,Uttar Pradesh,525501,218
+2024,Chandauli,Uttar Pradesh,636483,157
+2025,Chandauli,Uttar Pradesh,679712,111
+2021,Chitrakoot,Uttar Pradesh,447199,87
+2022,Chitrakoot,Uttar Pradesh,442057,151
+2023,Chitrakoot,Uttar Pradesh,560707,137
+2024,Chitrakoot,Uttar Pradesh,449621,78
+2025,Chitrkoot,Uttar Pradesh,579771,136
+2021,Deoria,Uttar Pradesh,711688,254
+2022,Deoria,Uttar Pradesh,825098,278
+2023,DEORIA,Uttar Pradesh,702955,226
+2024,Deoria,Uttar Pradesh,912791,159
+2025,Deoria,Uttar Pradesh,865714,146
+2021,Etah,Uttar Pradesh,3946493,862
+2022,Etah,Uttar Pradesh,3992080,592
+2023,Etah,Uttar Pradesh,3872674,704
+2024,Etah,Uttar Pradesh,3845097,1185
+2025,Etah,Uttar Pradesh,5090411,776
+2021,Etawah,Uttar Pradesh,479169,71
+2022,Etawah,Uttar Pradesh,560317,88
+2023,Etawah,Uttar Pradesh,582706,118
+2024,Etawah,Uttar Pradesh,543907,122
+2025,Etawah,Uttar Pradesh,581348,95
+2021,Faizabad,Uttar Pradesh,426349,93
+2022,Faizabad,Uttar Pradesh,315735,75
+2023,Faizabad,Uttar Pradesh,363612,67
+2024,Faizabad,Uttar Pradesh,337350,64
+2025,Faizabad,Uttar Pradesh,337869,53
+2021,Farrukhabad,Uttar Pradesh,2483604,608
+2022,Farrukhabad,Uttar Pradesh,2527535,565
+2023,Farrukhabad,Uttar Pradesh,2270897,866
+2024,FARRUKHABAD,Uttar Pradesh,3298452,809
+2025,Farrukhabad,Uttar Pradesh,3132532,948
+2021,Fatehpur,Uttar Pradesh,613498,244
+2022,Fatehpur,Uttar Pradesh,496331,165
+2023,Fatehpur,Uttar Pradesh,647627,199
+2024,Fatehpur,Uttar Pradesh,891865,193
+2025,Fatehpur,Uttar Pradesh,639752,163
+2021,Firozabad,Uttar Pradesh,726089,150
+2022,Firozabad,Uttar Pradesh,1004953,169
+2023,Firozabad,Uttar Pradesh,794840,114
+2024,Firozabad,Uttar Pradesh,797129,165
+2025,Firozabad,Uttar Pradesh,986094,110
+2021,Gautam Buddha Nagar,Uttar Pradesh,2088527,643
+2022,Gautam Buddha Nagar,Uttar Pradesh,2141372,475
+2023,Gautam Buddha Nagar,Uttar Pradesh,1872379,640
+2024,Gautam Buddha Nagar,Uttar Pradesh,2678535,627
+2025,Gautam Buddha Nagar,Uttar Pradesh,2142248,666
+2021,Ghaziabad,Uttar Pradesh,463210,186
+2022,Ghaziabad,Uttar Pradesh,734761,210
+2023,Ghaziabad,Uttar Pradesh,488152,168
+2024,Ghaziabad,Uttar Pradesh,616734,109
+2025,Ghaziabad,Uttar Pradesh,731929,191
+2021,Ghazipur,Uttar Pradesh,2711373,954
+2022,Ghazipur,Uttar Pradesh,3699493,1346
+2023,Ghazipur,Uttar Pradesh,4713174,639
+2024,Ghazipur,Uttar Pradesh,4230390,972
+2025,Ghazipur,Uttar Pradesh,3447815,649
+2021,Gonda,Uttar Pradesh,1201339,469
+2022,Gonda,Uttar Pradesh,1527746,456
+2023,GONDA,Uttar Pradesh,1606791,475
+2024,Gonda,Uttar Pradesh,1565179,504
+2025,Gonda,Uttar Pradesh,1879642,565
+2021,GORAKHPUR,Uttar Pradesh,505040,153
+2022,Gorakhpur,Uttar Pradesh,446865,109
+2023,Gorakhpur,Uttar Pradesh,669907,224
+2024,Gorakhpur,Uttar Pradesh,732331,212
+2025,Gorakhpur,Uttar Pradesh,1046291,121
+2021,Hamirpur,Uttar Pradesh,3917785,1440
+2022,Hamirpur,Uttar Pradesh,4692457,1353
+2023,HAMIRPUR,Uttar Pradesh,4713328,1305
+2024,Hamirpur,Uttar Pradesh,5129875,1570
+2025,Hamirpur,Uttar Pradesh,5116238,833
+2021,Hapur  (Panchsheel  Nagar),Uttar Pradesh,593096,201
+2022,Hapur (Panchsheel Nagar),Uttar Pradesh,607558,189
+2023,Hapur (Panchsheel Nagar),Uttar Pradesh,516807,103
+2024,Hapur (Panchsheel Nagar),Uttar Pradesh,670964,165
+2025,Hapur (Panchsheel Nagar),Uttar Pradesh,594204,133
+2021,Hardoi,Uttar Pradesh,1354143,470
+2022,Hardoi,Uttar Pradesh,1268433,376
+2023,HARDOI,Uttar Pradesh,1967423,348
+2024,Hardoi,Uttar Pradesh,1875234,286
+2025,Hardoi,Uttar Pradesh,1756319,300
+2021,HATHRAS,Uttar Pradesh,845021,283
+2022,HATHRAS,Uttar Pradesh,863303,272
+2023,Hathras,Uttar Pradesh,863567,244
+2024,HATHRAS,Uttar Pradesh,971548,412
+2025,Hathras,Uttar Pradesh,1411557,261
+2021,Jalaun,Uttar Pradesh,1868311,557
+2022,Jalaun,Uttar Pradesh,1930935,810
+2023,Jalaun,Uttar Pradesh,2055013,869
+2024,JALAUN,Uttar Pradesh,2659896,574
+2025,Jalaun,Uttar Pradesh,2498657,829
+2021,Jaunpur,Uttar Pradesh,2052050,664
+2022,Jaunpur,Uttar Pradesh,2337388,787
+2023,Jaunpur,Uttar Pradesh,2991536,646
+2024,Jaunpur,Uttar Pradesh,3517735,699
+2025,Jaunpur,Uttar Pradesh,3253891,809
+2021,Jhansi,Uttar Pradesh,1096929,305
+2022,Jhansi,Uttar Pradesh,1040798,294
+2023,Jhansi,Uttar Pradesh,1031046,229
+2024,Jhansi,Uttar Pradesh,1093895,309
+2025,Jhansi,Uttar Pradesh,920684,331
+2021,Kannauj,Uttar Pradesh,489510,158
+2022,Kannauj,Uttar Pradesh,781135,100
+2023,Kannauj,Uttar Pradesh,626887,112
+2024,Kannauj,Uttar Pradesh,828668,189
+2025,Kannauj,Uttar Pradesh,825524,187
+2021,Kanpur Dehat,Uttar Pradesh,836480,440
+2022,Kanpur Dehat,Uttar Pradesh,1023298,208
+2023,Kanpur Dehat,Uttar Pradesh,1080058,255
+2024,Kanpur Dehat,Uttar Pradesh,1211353,363
+2025,Kanpur Dehat,Uttar Pradesh,984719,442
+2021,Kanpur Nagar,Uttar Pradesh,682735,148
+2022,Kanpur Nagar,Uttar Pradesh,760843,165
+2023,kanpur nagar,Uttar Pradesh,727357,157
+2024,Kanpur Nagar,Uttar Pradesh,780282,196
+2025,Kanpur Nagar,Uttar Pradesh,706281,159
+2021,Kanshiram Nagar (Kasganj),Uttar Pradesh,5390577,1050
+2022,Kanshiram Nagar (Kasganj),Uttar Pradesh,4749037,735
+2023,Kanshiram Nagar (Kasganj),Uttar Pradesh,7071933,1479
+2024,Kanshiram Nagar (Kasganj),Uttar Pradesh,5912185,1254
+2025,Kanshiram Nagar (Kasganj),Uttar Pradesh,6982049,826
+2021,Kaushambi,Uttar Pradesh,797316,376
+2022,Kaushambi,Uttar Pradesh,771995,328
+2023,KAUSHAMBI,Uttar Pradesh,826591,191
+2024,Kaushambi,Uttar Pradesh,1219356,311
+2025,KAUSHAMBI,Uttar Pradesh,1143567,197
+2021,Padrauna,Uttar Pradesh,553564,137
+2022,Kushinagar (Padrauna),Uttar Pradesh,604795,235
+2023,Kushinagar (Padrauna),Uttar Pradesh,656564,113
+2024,Kushinagar (Padrauna),Uttar Pradesh,639655,225
+2025,Kushinagar (Padrauna),Uttar Pradesh,789736,157
+2021,Kheri,Uttar Pradesh,886468,297
+2022,Lakhimpur - Kheri,Uttar Pradesh,987521,292
+2023,Lakhimpur - Kheri,Uttar Pradesh,881235,258
+2024,Lakhimpur - Kheri,Uttar Pradesh,1173551,358
+2025,Lakhimpur - Kheri,Uttar Pradesh,1573664,332
+2021,LALITPUR,Uttar Pradesh,190927,55
+2022,Lalitpur,Uttar Pradesh,301185,79
+2023,LALITPUR,Uttar Pradesh,305563,114
+2024,Lalitpur,Uttar Pradesh,324743,79
+2025,Lalitpur,Uttar Pradesh,326938,108
+2021,LUCKNOW,Uttar Pradesh,471496,79
+2022,LUCKNOW,Uttar Pradesh,392752,77
+2023,Lucknow,Uttar Pradesh,378814,75
+2024,Lucknow,Uttar Pradesh,509705,109
+2025,Lucknow,Uttar Pradesh,543558,107
+2021,Maharajganj,Uttar Pradesh,1268617,576
+2022,Maharajganj,Uttar Pradesh,1625562,450
+2023,Maharajganj,Uttar Pradesh,2176684,682
+2024,Maharajganj,Uttar Pradesh,3209064,449
+2025,MAHARAJGANJ,Uttar Pradesh,2983412,614
+2021,Mahoba,Uttar Pradesh,680352,157
+2022,Mahoba,Uttar Pradesh,711243,204
+2023,Mahoba,Uttar Pradesh,825050,178
+2024,Mahoba,Uttar Pradesh,1117497,136
+2025,Mahoba,Uttar Pradesh,874540,113
+2021,Mainpuri,Uttar Pradesh,390212,77
+2022,Mainpuri,Uttar Pradesh,620273,96
+2023,Mainpuri,Uttar Pradesh,410635,118
+2024,MAINPURI,Uttar Pradesh,447019,106
+2025,Mainpuri,Uttar Pradesh,672604,113
+2021,Mathura,Uttar Pradesh,1955052,442
+2022,Mathura,Uttar Pradesh,1628993,385
+2023,Mathura,Uttar Pradesh,2279638,460
+2024,Mathura,Uttar Pradesh,1642274,505
+2025,Mathura,Uttar Pradesh,2232147,465
+2021,Mau,Uttar Pradesh,2127619,434
+2022,Mau,Uttar Pradesh,1762958,571
+2023,Mau,Uttar Pradesh,2060765,427
+2024,MAU,Uttar Pradesh,2694164,433
+2025,MAU,Uttar Pradesh,3289353,366
+2021,Meerut,Uttar Pradesh,1295890,324
+2022,Meerut,Uttar Pradesh,1310464,371
+2023,Meerut,Uttar Pradesh,1372878,487
+2024,Meerut,Uttar Pradesh,1186148,418
+2025,Meerut,Uttar Pradesh,1692259,329
+2021,Mirzapur,Uttar Pradesh,1784947,647
+2022,Mirzapur,Uttar Pradesh,1622427,491
+2023,Mirzapur,Uttar Pradesh,1756746,578
+2024,Mirzapur,Uttar Pradesh,1899500,514
+2025,Mirzapur,Uttar Pradesh,1906136,466
+2021,Moradabad,Uttar Pradesh,505472,124
+2022,Moradabad,Uttar Pradesh,619377,98
+2023,Moradabad,Uttar Pradesh,516406,170
+2024,Moradabad,Uttar Pradesh,924253,190
+2025,Moradabad,Uttar Pradesh,774604,150
+2021,Muzaffarnagar,Uttar Pradesh,195943,56
+2022,Muzaffarnagar,Uttar Pradesh,268430,103
+2023,Muzaffarnagar,Uttar Pradesh,262039,55
+2024,Muzaffarnagar,Uttar Pradesh,373666,82
+2025,Muzaffarnagar,Uttar Pradesh,407393,89
+2021,Pilibhit,Uttar Pradesh,2593870,538
+2022,PILIBHIT,Uttar Pradesh,2936365,655
+2023,Pilibhit,Uttar Pradesh,3184227,621
+2024,Pilibhit,Uttar Pradesh,3412004,953
+2025,Pilibhit,Uttar Pradesh,3033516,642
+2021,Pratapgarh,Uttar Pradesh,583306,163
+2022,Pratapgarh,Uttar Pradesh,500572,209
+2023,Pratapgarh,Uttar Pradesh,776125,179
+2024,Pratapgarh,Uttar Pradesh,816015,151
+2025,Pratapgarh,Uttar Pradesh,975022,210
+2021,RaeBareli,Uttar Pradesh,588493,173
+2022,RaeBareli,Uttar Pradesh,640881,144
+2023,RaeBareli,Uttar Pradesh,913370,147
+2024,RaeBareli,Uttar Pradesh,808041,179
+2025,RaeBareli,Uttar Pradesh,877240,179
+2021,Rampur,Uttar Pradesh,2104218,461
+2022,Rampur,Uttar Pradesh,3503325,905
+2023,RAMPUR,Uttar Pradesh,2340156,442
+2024,Rampur,Uttar Pradesh,2848954,683
+2025,Rampur,Uttar Pradesh,3769417,410
+2021,Saharanpur,Uttar Pradesh,1304957,506
+2022,Saharanpur,Uttar Pradesh,1396249,350
+2023,SAHARANPUR,Uttar Pradesh,1793141,340
+2024,Saharanpur,Uttar Pradesh,1976500,434
+2025,Saharanpur,Uttar Pradesh,1554045,298
+2021,Sambhal (Bhim Nagar),Uttar Pradesh,903009,436
+2022,  Sambhal (Bhim Nagar) ,Uttar Pradesh,1110135,279
+2023,Sambhal (Bhim Nagar),Uttar Pradesh,1405962,296
+2024,Sambhal (Bhim Nagar),Uttar Pradesh,1419154,400
+2025,Sambhal (Bhim Nagar),Uttar Pradesh,1352037,427
+2021,Sant Kabir Nagar,Uttar Pradesh,7251525,1466
+2022,Sant Kabir Nagar,Uttar Pradesh,6437750,963
+2023,Sant Kabir Nagar,Uttar Pradesh,7496817,1659
+2024,Sant Kabir Nagar,Uttar Pradesh,7716061,1389
+2025,Sant Kabir Nagar,Uttar Pradesh,6608847,1058
+2021,Shahjahanpur,Uttar Pradesh,559482,177
+2022,Shahjahanpur,Uttar Pradesh,550012,161
+2023,Shahjahanpur,Uttar Pradesh,538934,177
+2024,SHAHJAHANPUR,Uttar Pradesh,455889,193
+2025,Shahjahanpur,Uttar Pradesh,571340,160
+2021,Shamali (Prabuddh Nagar),Uttar Pradesh,1851432,564
+2022,Shamali (Prabuddh Nagar),Uttar Pradesh,2239180,528
+2023,Shamali (Prabuddh Nagar),Uttar Pradesh,1932001,416
+2024,Prabuddh Nagar,Uttar Pradesh,1928881,366
+2025,Shamali (Prabuddh Nagar),Uttar Pradesh,2867121,335
+2021,Shravasti,Uttar Pradesh,744088,287
+2022,Shravasti,Uttar Pradesh,1116612,302
+2023,Shravasti,Uttar Pradesh,1080879,187
+2024,Shravasti,Uttar Pradesh,1445072,190
+2025,Shravasti,Uttar Pradesh,1568297,338
+2021,Siddharth Nagar,Uttar Pradesh,790585,404
+2022,Siddharth Nagar,Uttar Pradesh,927813,385
+2023,Siddharth Nagar,Uttar Pradesh,1028176,344
+2024,Siddharth Nagar,Uttar Pradesh,1030266,269
+2025,SIDDHARTH NAGAR,Uttar Pradesh,1243899,182
+2021,Sitapur,Uttar Pradesh,2821864,786
+2022,Sitapur,Uttar Pradesh,3113366,794
+2023,Sitapur,Uttar Pradesh,2943887,962
+2024,Sitapur,Uttar Pradesh,3250752,871
+2025,Sitapur,Uttar Pradesh,3886552,865
+2021,Sonbhadra,Uttar Pradesh,1057094,458
+2022,Sonbhadra,Uttar Pradesh,995262,444
+2023,SONBHADRA,Uttar Pradesh,1220995,421
+2024,Sonbhadra,Uttar Pradesh,1309723,232
+2025,Sonbhadra,Uttar Pradesh,1595017,444
+2021,Sultanpur,Uttar Pradesh,1437551,328
+2022,Sultanpur,Uttar Pradesh,1280422,364
+2023,Sultanpur,Uttar Pradesh,1816410,339
+2024,Sultanpur,Uttar Pradesh,1597845,332
+2025,Sultanpur,Uttar Pradesh,2109056,413
+2021,Unnao,Uttar Pradesh,1477535,363
+2022,Unnao,Uttar Pradesh,1645032,512
+2023,UNNAO,Uttar Pradesh,2129285,704
+2024,Unnao,Uttar Pradesh,2250434,695
+2025,Unnao,Uttar Pradesh,3125394,691
+2021,Varanasi,Uttar Pradesh,791860,246
+2022,Varanasi,Uttar Pradesh,624245,192
+2023,Varanasi,Uttar Pradesh,630650,188
+2024,Varanasi,Uttar Pradesh,612952,182
+2025,Varanasi,Uttar Pradesh,690337,196
+2021,Alipurduar,West Bengal,513300,108
+2022,Alipurduar,West Bengal,696828,132
+2023,ALIPURDUAR,West Bengal,812583,166
+2024,Alipurduar,West Bengal,850720,122
+2025,Alipurduar,West Bengal,686464,178
+2021,Bankura,West Bengal,360154,72
+2022,BANKURA,West Bengal,324122,81
+2023,Bankura,West Bengal,267716,152
+2024,Bankura,West Bengal,534411,67
+2025,Bankura,West Bengal,354574,110
+2021,Birbhum,West Bengal,178253,58
+2022,Birbhum,West Bengal,183518,77
+2023,Birhum,West Bengal,183442,56
+2024,Birbhum,West Bengal,248289,56
+2025,Birbhum,West Bengal,191698,66
+2021,Burdwan (Bardhaman),West Bengal,2850207,761
+2022,Burdwan (Bardhaman),West Bengal,2417105,1287
+2023,Bardhaman,West Bengal,3441079,1557
+2024,Burdwan (Bardhaman),West Bengal,4238636,1585
+2025,Burdwan (Bardhaman),West Bengal,3816987,1414
+2021,Cooch Behar,West Bengal,403815,104
+2022,Coochbehar,West Bengal,444544,114
+2023,Cooch Behar,West Bengal,483563,67
+2024,Cooch Behar,West Bengal,618797,120
+2025,Cooch Behar,West Bengal,580618,120
+2021,Dakshin Dinajpur (South Dinajpur),West Bengal,599591,251
+2022,Dakshin Dinajpur (South Dinajpur),West Bengal,798515,161
+2023,Dakshin Dinajpur (South Dinajpur),West Bengal,882754,151
+2024,Dakshin Dinajpur (South Dinajpur),West Bengal,632530,251
+2025,Dakshin Dinajpur (South Dinajpur),West Bengal,1006955,267
+2021,Darjeeling,West Bengal,1081266,273
+2022,Darjeeling,West Bengal,1228925,176
+2023,Darjeeling,West Bengal,1046049,196
+2024,Darjeeling,West Bengal,1014748,153
+2025,Darjeeling,West Bengal,1471050,213
+2021,Hooghly,West Bengal,836441,325
+2022,Hooghly,West Bengal,893015,330
+2023,Hooghly,West Bengal,1176246,366
+2024,Hooghly,West Bengal,969667,231
+2025,Hugli,West Bengal,961527,211
+2021,Howrah,West Bengal,2106354,607
+2022,Howrah,West Bengal,2658427,477
+2023,Howrah,West Bengal,2694220,363
+2024,Howrah,West Bengal,2440483,384
+2025,Howrah,West Bengal,2658697,344
+2021,Jalpaiguri,West Bengal,1289352,493
+2022,Jalpaiguri,West Bengal,1825212,372
+2023,Jalpaiguri,West Bengal,2074728,341
+2024,Jalpaiguri,West Bengal,2117422,485
+2025,Jalpaiguri,West Bengal,2564907,298
+2021,Kalimpong,West Bengal,480576,182
+2022,KALIMPONG,West Bengal,664738,164
+2023,Kalimpong,West Bengal,657934,151
+2024,Kalimpong,West Bengal,701433,207
+2025,Kalimpong,West Bengal,663228,157
+2021,Kolkata,West Bengal,698030,271
+2022,Kolkata,West Bengal,759194,241
+2023,KOLKATA,West Bengal,921852,262
+2024,Kolkata,West Bengal,860772,291
+2025,Kolkata,West Bengal,827615,155
+2021,Malda,West Bengal,1246585,220
+2022,MALDA,West Bengal,1235984,420
+2023,Malda,West Bengal,1379295,398
+2024,Malda,West Bengal,1395884,251
+2025,Malda,West Bengal,1575126,297
+2021,Murshidabad,West Bengal,674929,159
+2022,Murshidabad,West Bengal,689674,272
+2023,Murshidabad,West Bengal,749291,192
+2024,Murshidabad,West Bengal,609169,198
+2025,MURSHIDABAD,West Bengal,912952,228
+2021,Nadia,West Bengal,3860974,964
+2022,Nadia,West Bengal,3402917,521
+2023,Nadia,West Bengal,4191840,709
+2024,Nadia,West Bengal,4439786,1049
+2025,Nadia,West Bengal,4301922,876
+2021,North 24 Parganas,West Bengal,980729,358
+2022,North 24 Parganas,West Bengal,1102195,460
+2023,North 24 Parganas,West Bengal,1473646,276
+2024,North 24 Parganas,West Bengal,1398884,274
+2025,North 24 Parganas,West Bengal,1531138,234
+2021,Paschim Medinipur (West Medinipur),West Bengal,1367551,556
+2022,Paschim Medinipur,West Bengal,1491865,520
+2023,  Paschim Medinipur (West Medinipur) ,West Bengal,1580198,284
+2024,Paschim Medinipur (West Medinipur),West Bengal,1660997,475
+2025,Paschim Medinipur,West Bengal,1770645,510
+2021,Purba Medinipur (East Medinipur),West Bengal,1277872,562
+2022,Purba Medinipur (East Medinipur),West Bengal,1841127,467
+2023,Purba Medinipur (East Medinipur),West Bengal,1627106,414
+2024,Purba Medinipur (East Medinipur),West Bengal,1483414,508
+2025,Purba Medinipur (East Medinipur),West Bengal,2134347,473
+2021,Purulia,West Bengal,2121405,421
+2022,Purulia,West Bengal,1628763,630
+2023,Purulia,West Bengal,2153153,704
+2024,Purulia,West Bengal,1848485,473
+2025,Purulia,West Bengal,3065105,392
+2021,South 24 Parganas,West Bengal,945720,169
+2022,South 24 Parganas,West Bengal,837857,299
+2023,South 24 Parganas,West Bengal,1169123,252
+2024,South Twenty Four Parganas,West Bengal,1072527,341
+2025,South 24 Parganas,West Bengal,1466800,241
+2021,North Dinajpur,West Bengal,248564,95
+2022,Uttar Dinajpur (North Dinajpur),West Bengal,238980,56
+2023,Uttar Dinajpur (North Dinajpur),West Bengal,327205,113
+2024,Uttar Dinajpur (North Dinajpur),West Bengal,280906,99
+2025,Uttar Dinajpur (North Dinajpur),West Bengal,318291,83

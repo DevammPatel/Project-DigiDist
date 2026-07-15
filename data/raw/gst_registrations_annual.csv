@@ -1,0 +1,3611 @@
+fin_year,district,state,gst_registrations,gst_returns_filed_pct
+2021-22,Anantapur,Andhra Pradesh,2816,75.4
+2022-23,Anantapur,Andhra Pradesh,2535,92.8
+2023,Anantapur,Andhra Pradesh,3088,85.5
+2024-25,Anantapur,Andhra Pradesh,3030,58.9
+2025-26,Anantapur,Andhra Pradesh,4013,58.3
+2021,Chittoor,Andhra Pradesh,10980,70.0
+2022,Chittoor,Andhra Pradesh,10915,63.6
+2023-24,Chittoor,Andhra Pradesh,13993,61.4
+2024-25,Chittoor,Andhra Pradesh,11329,61.8
+2025-26,Chittoor,Andhra Pradesh,14492,59.6
+2021-22,East Godavari,Andhra Pradesh,9120,84.5
+2022-23,East Godavari,Andhra Pradesh,10443,94.9
+2023-24,East Godavari,Andhra Pradesh,10428,58.2
+2024-25,East Godavari,Andhra Pradesh,10118,87.3
+2025,East Godavari,Andhra Pradesh,12626,55.1
+2021-22,Guntur,Andhra Pradesh,10197,63.3
+2022-23,Guntur,Andhra Pradesh,9606,92.5
+2023-24,GUNTUR,Andhra Pradesh,10457,60.8
+2024,Guntur,Andhra Pradesh,9040,94.7
+2025,Guntur,Andhra Pradesh,11622,86.4
+2021,Krishna,Andhra Pradesh,6115,61.5
+2022-23,Krishna,Andhra Pradesh,6371,82.6
+2023-24,Krishna,Andhra Pradesh,8573,86.8
+2024,Krishna,Andhra Pradesh,7774,86.8
+2025-26,Krishna,Andhra Pradesh,8438,65.8
+2021,Kurnool,Andhra Pradesh,7848,71.9
+2022,Kurnool,Andhra Pradesh,9137,68.8
+2023,Kurnool,Andhra Pradesh,9217,69.2
+2024-25,Kurnool,Andhra Pradesh,7696,68.8
+2025,Kurnool,Andhra Pradesh,9493,80.8
+2021,SPSR Nellore,Andhra Pradesh,7056,94.5
+2022-23,Nellore,Andhra Pradesh,6375,92.5
+2023-24,Nellore,Andhra Pradesh,6800,95.6
+2024,Nellore,Andhra Pradesh,7783,63.9
+2025-26,Nellore,Andhra Pradesh,10588,71.3
+2021-22,Prakasam,Andhra Pradesh,4047,64.7
+2022-23,Prakasam,Andhra Pradesh,4409,64.6
+2023-24,Prakasam,Andhra Pradesh,4806,62.6
+2024-25,Prakasam,Andhra Pradesh,5436,82.8
+2025-26,PRAKASAM,Andhra Pradesh,5519,62.8
+2021-22,Srikakulam,Andhra Pradesh,8187,69.8
+2022,Srikakulam,Andhra Pradesh,7250,87.7
+2023-24,Srikakulam,Andhra Pradesh,7434,68.9
+2024-25,Srikakulam,Andhra Pradesh,6994,55.4
+2025-26,Srikakulam,Andhra Pradesh,6523,62.4
+2021-22,Visakhapatnam,Andhra Pradesh,3272,70.6
+2022-23,Visakhapatnam,Andhra Pradesh,3651,72.3
+2023-24,Visakhapatnam,Andhra Pradesh,3496,80.2
+2024-25,Visakhapatnam,Andhra Pradesh,3848,84.3
+2025-26,Visakhapatnam,Andhra Pradesh,4170,
+2021-22,Vizianagaram,Andhra Pradesh,6168,73.0
+2022-23,Vizianagaram,Andhra Pradesh,10497,55.9
+2023-24,Vizianagaram,Andhra Pradesh,10712,88.7
+2024,VIZIANAGARAM,Andhra Pradesh,9800,86.8
+2025-26,Vizianagaram,Andhra Pradesh,9826,64.1
+2021-22,West Godavari,Andhra Pradesh,1457,83.0
+2022-23,West Godavari,Andhra Pradesh,1760,
+2023-24,West Godavari,Andhra Pradesh,1866,66.0
+2024,West Godavari,Andhra Pradesh,1581,58.7
+2025,WEST GODAVARI,Andhra Pradesh,1778,87.8
+2021-22,YSR Kadapa,Andhra Pradesh,13234,82.9
+2022,YSR Kadapa,Andhra Pradesh,12859,80.7
+2023,YSR Kadapa,Andhra Pradesh,16012,91.4
+2024,YSR Kadapa,Andhra Pradesh,19580,95.5
+2025-26,YSR Kadapa,Andhra Pradesh,16602,61.9
+2021-22,Tawang,Arunachal Pradesh,6149,70.9
+2022-23,Tawang,Arunachal Pradesh,7155,90.1
+2023,Tawang,Arunachal Pradesh,7159,95.0
+2024-25,Tawang,Arunachal Pradesh,7288,68.8
+2025,Tawang,Arunachal Pradesh,8184,90.3
+2021-22,West Kameng,Arunachal Pradesh,6992,80.3
+2022-23,West Kameng,Arunachal Pradesh,6350,94.9
+2023,West Kameng,Arunachal Pradesh,7570,59.0
+2024-25,West Kameng,Arunachal Pradesh,6872,73.3
+2025-26,West Kameng,Arunachal Pradesh,7285,74.3
+2021-22,East Kameng,Arunachal Pradesh,12301,85.1
+2022,East Kameng,Arunachal Pradesh,12604,88.0
+2023,East Kameng,Arunachal Pradesh,12683,87.0
+2024-25,East Kameng,Arunachal Pradesh,13122,88.2
+2025-26,East Kameng,Arunachal Pradesh,14746,57.1
+2021-22,Papum Pare,Arunachal Pradesh,18006,55.7
+2022-23,Papum Pare,Arunachal Pradesh,19521,59.4
+2023-24,Papum Pare,Arunachal Pradesh,22228,90.6
+2024-25,Papum Pare,Arunachal Pradesh,24714,90.4
+2025,PAPUM PARE,Arunachal Pradesh,19501,83.3
+2021-22,Kurung Kumey,Arunachal Pradesh,16143,62.6
+2022-23,Kurung Kumey,Arunachal Pradesh,16056,72.4
+2023-24,Kurung Kumey,Arunachal Pradesh,15501,85.9
+2024-25,Kurung Kumey,Arunachal Pradesh,19303,74.7
+2025-26,Kurung Kumey,Arunachal Pradesh,18613,65.1
+2021,Kra Daadi,Arunachal Pradesh,1400,83.7
+2022-23,Kra Daadi,Arunachal Pradesh,1345,62.9
+2023-24,Kra Daadi,Arunachal Pradesh,1431,81.3
+2024-25,Kra Daadi,Arunachal Pradesh,1545,70.3
+2025-26,Kra Daadi,Arunachal Pradesh,1934,79.6
+2021-22,Lower Subansiri,Arunachal Pradesh,1762,74.3
+2022-23,Lower Subansiri,Arunachal Pradesh,2003,77.8
+2023,Lower Subansiri,Arunachal Pradesh,1906,95.5
+2024-25,Lower Subansiri,Arunachal Pradesh,2467,93.6
+2025,Lower Subansiri,Arunachal Pradesh,2927,74.7
+2021,Upper Subansiri,Arunachal Pradesh,6011,66.9
+2022-23,Upper Subansiri,Arunachal Pradesh,5874,75.8
+2023-24,Upper Subansiri,Arunachal Pradesh,9106,66.5
+2024,Upper Subansii,Arunachal Pradesh,8310,77.1
+2025-26,Upper Subansiri,Arunachal Pradesh,8018,85.0
+2021-22,West Siang,Arunachal Pradesh,5294,94.0
+2022,West Siang,Arunachal Pradesh,6987,65.0
+2023-24,West Siang,Arunachal Pradesh,7734,75.8
+2024,West Siang,Arunachal Pradesh,6228,65.3
+2025-26,West Siang,Arunachal Pradesh,6533,68.7
+2021-22,East Siang,Arunachal Pradesh,8909,57.6
+2022-23,EAST SIANG,Arunachal Pradesh,11635,57.0
+2023,EAST SIANG,Arunachal Pradesh,10003,93.6
+2024,East Siang,Arunachal Pradesh,10551,78.8
+2025-26,East Siang,Arunachal Pradesh,13360,70.8
+2021,Siang,Arunachal Pradesh,3353,58.2
+2022-23,Siang,Arunachal Pradesh,2414,59.1
+2023,Siang,Arunachal Pradesh,2775,69.4
+2024,Siang,Arunachal Pradesh,3047,66.7
+2025-26,Siang,Arunachal Pradesh,3186,80.7
+2021-22,Upper Siang,Arunachal Pradesh,7450,55.3
+2022-23,Upper Siang,Arunachal Pradesh,6092,80.3
+2023,Upper Siang,Arunachal Pradesh,8408,92.6
+2024-25,Upper Siang,Arunachal Pradesh,6655,94.5
+2025-26,Upper Siang,Arunachal Pradesh,7124,93.0
+2021-22,LOWER SIANG,Arunachal Pradesh,3762,74.7
+2022-23,Lower Siang,Arunachal Pradesh,3550,92.5
+2023,Lower Siang,Arunachal Pradesh,3991,94.6
+2024-25,Lower Siang,Arunachal Pradesh,4373,89.9
+2025-26,Lower Siang,Arunachal Pradesh,4912,83.8
+2021,Lower Dibang Valley,Arunachal Pradesh,3589,74.3
+2022,Lower Dibang Valley,Arunachal Pradesh,3307,87.3
+2023-24,Lower Dibang Valley,Arunachal Pradesh,3595,93.3
+2024-25,Lower Dibang Valley,Arunachal Pradesh,3900,76.9
+2025-26,Lower Dibang Valley,Arunachal Pradesh,4131,77.4
+2021-22,Dibang Valley,Arunachal Pradesh,2096,65.8
+2022-23,DIBANG VALLEY,Arunachal Pradesh,2363,74.9
+2023-24,Dibang Valley,Arunachal Pradesh,2863,65.1
+2024-25,Dibang Valley,Arunachal Pradesh,2693,81.2
+2025,Dibang Valley,Arunachal Pradesh,3224,63.2
+2021-22,Anjaw,Arunachal Pradesh,3070,90.7
+2022,Anjaw,Arunachal Pradesh,3061,80.4
+2023,Anjaw,Arunachal Pradesh,3369,82.5
+2024,Anjaw,Arunachal Pradesh,2728,80.4
+2025-26,Anjaw,Arunachal Pradesh,3693,72.0
+2021,Lohit,Arunachal Pradesh,1862,73.6
+2022-23,Lohit,Arunachal Pradesh,2515,63.2
+2023-24,LOHIT,Arunachal Pradesh,2734,
+2024,Lohit,Arunachal Pradesh,2713,66.0
+2025,Lohit,Arunachal Pradesh,2787,95.5
+2021-22,NAMSAI,Arunachal Pradesh,2877,81.3
+2022-23,Namsai,Arunachal Pradesh,2775,66.3
+2023-24,Namsai,Arunachal Pradesh,3347,82.9
+2024-25,NAMSAI,Arunachal Pradesh,2736,77.6
+2025-26,Namsai,Arunachal Pradesh,3399,61.8
+2021-22,Changlang,Arunachal Pradesh,26957,57.2
+2022,Changlang,Arunachal Pradesh,25908,95.0
+2023-24,Changlang,Arunachal Pradesh,31560,85.1
+2024,Changlang,Arunachal Pradesh,31218,57.5
+2025,Changlang,Arunachal Pradesh,32335,75.5
+2021,Tirap,Arunachal Pradesh,2961,84.9
+2022-23,Tirap,Arunachal Pradesh,3506,58.6
+2023-24,Tirap,Arunachal Pradesh,3222,91.6
+2024-25,Tirap,Arunachal Pradesh,3337,67.0
+2025-26,Tirap,Arunachal Pradesh,3227,84.3
+2021-22,Longding,Arunachal Pradesh,37093,94.8
+2022-23,Longding,Arunachal Pradesh,39487,78.4
+2023-24,Longding,Arunachal Pradesh,40055,77.2
+2024,LONGDING,Arunachal Pradesh,48815,84.0
+2025-26,Longding,Arunachal Pradesh,48147,75.7
+2021-22,Baksa,Assam,11494,91.8
+2022-23,Baksa,Assam,11819,78.7
+2023-24,Baksa,Assam,12220,94.7
+2024-25,Baksa,Assam,13565,64.5
+2025-26,Baksa,Assam,16108,61.8
+2021,BARPETA,Assam,6740,63.6
+2022,BARPETA,Assam,6022,76.3
+2023-24,Barpeta,Assam,5068,60.2
+2024-25,Barpeta,Assam,7476,83.8
+2025,BARPETA,Assam,7054,67.1
+2021-22,BISWANATH,Assam,3143,74.7
+2022-23,Biswanath,Assam,3008,57.7
+2023-24,Biswanath,Assam,3981,61.6
+2024,Biswanath,Assam,3999,81.9
+2025-26,Biswanath,Assam,4495,66.2
+2021-22,Bongaigaon,Assam,6752,63.3
+2022-23,Bongaigaon,Assam,7750,77.2
+2023-24,BONGAIGAON,Assam,7385,88.8
+2024-25,Bongaigaon,Assam,8281,72.8
+2025-26,Bongaigaon,Assam,10263,56.3
+2021,Cachar,Assam,3756,85.4
+2022-23,Cachar,Assam,3553,60.1
+2023-24,Cachar,Assam,3935,62.6
+2024-25,Cachar,Assam,3761,58.0
+2025-26,Cachar,Assam,3803,57.4
+2021,Charaideo,Assam,7078,64.2
+2022-23,Charaideo,Assam,8837,58.0
+2023-24,Charaideo,Assam,7606,94.9
+2024,Charaideo,Assam,8581,69.0
+2025,Charaideo,Assam,9883,81.9
+2021-22,Chirang,Assam,53899,92.4
+2022-23,Chirang,Assam,56841,83.6
+2023-24,Chirang,Assam,59160,67.4
+2024-25,Chirang,Assam,61913,68.2
+2025-26,CHIRANG,Assam,70191,55.1
+2021,DARRANG,Assam,5314,91.4
+2022,Darrang,Assam,6638,57.1
+2023,Darrang,Assam,7412,95.2
+2024-25,Darrang,Assam,7761,74.6
+2025-26,Darrang,Assam,9757,60.4
+2021-22,Dhemaji,Assam,14504,55.8
+2022,Dhemaji,Assam,17794,61.3
+2023-24,Dhemaji,Assam,17116,73.8
+2024-25,Dhemaji,Assam,16898,93.6
+2025-26,Dhemaji,Assam,17148,94.3
+2021-22,Dhubri,Assam,3267,71.8
+2022,Dhubri,Assam,3160,65.4
+2023,DHUBRI,Assam,4168,72.2
+2024,Dhubri,Assam,4620,80.5
+2025,Dhubri,Assam,4039,83.4
+2021-22,Dibrugarh,Assam,5082,57.6
+2022-23,Dibrugarh,Assam,4960,85.7
+2023-24,Dibrugarh,Assam,5553,93.0
+2024-25,Dibrugarh,Assam,4829,67.7
+2025-26,Dibrugarh,Assam,6611,89.6
+2021,Goalpara,Assam,18308,61.9
+2022-23,Goalpara,Assam,22682,58.4
+2023,Goalpara,Assam,23568,
+2024-25,Goalpara,Assam,24058,67.1
+2025-26,Goalpara,Assam,27788,55.3
+2021,Golaghat,Assam,3312,55.5
+2022-23,Golaghat,Assam,3802,72.1
+2023-24,Golaghat,Assam,4018,76.7
+2024-25,Golaghat,Assam,3985,78.0
+2025-26,Golaghat,Assam,5035,89.8
+2021-22,Hailakandi,Assam,35909,91.7
+2022,Hailakandi,Assam,39336,61.1
+2023-24,Hailakandi,Assam,41629,61.9
+2024,Hailakandi,Assam,37117,77.7
+2025,Hailakandi,Assam,45690,66.1
+2021-22,Hojai,Assam,11388,61.8
+2022-23,Hojai,Assam,10593,89.7
+2023,Hojai,Assam,13773,74.2
+2024,Hojai,Assam,13312,63.5
+2025,Hojai,Assam,13620,66.4
+2021-22,Jorhat,Assam,2498,88.2
+2022-23,jorhat,Assam,3146,56.2
+2023-24,JORHAT,Assam,2712,64.2
+2024-25,JORHAT,Assam,3436,75.0
+2025-26,  Jorhat ,Assam,4076,68.3
+2021-22,Kamrup (Metro),Assam,10302,88.3
+2022,Kamrup Metropolitan,Assam,12618,62.4
+2023-24,Kamrup Metropolitan,Assam,13229,66.7
+2024-25,Kamrup Metropolitan,Assam,12740,92.3
+2025-26,KAMRUP METROPOLITAN,Assam,14451,66.4
+2021-22,Kamrup,Assam,10884,68.2
+2022-23,Kamrup,Assam,13024,64.0
+2023-24,Kamrup,Assam,15171,93.8
+2024-25,KAMRUP,Assam,15691,92.4
+2025-26,Kamrup,Assam,14749,72.2
+2021-22,Karbi Anglong,Assam,9882,81.1
+2022-23,KARBI ANGLONG,Assam,7400,57.2
+2023-24,Karbi Anglong,Assam,9692,72.7
+2024-25,Karbi Anglong,Assam,10242,81.8
+2025-26,Karbi Anglong,Assam,10281,71.7
+2021-22,Karimganj,Assam,2094,66.5
+2022-23,KARIMGANJ,Assam,2222,55.6
+2023-24,Karimganj,Assam,2516,63.1
+2024-25,Karimganj,Assam,2996,85.8
+2025-26,Karimganj,Assam,2719,84.8
+2021-22,Kokrajhar,Assam,4925,59.3
+2022,Kokrajhar,Assam,5539,88.6
+2023,Kokrajhar,Assam,6073,90.3
+2024-25,Kokrajhar,Assam,5715,95.3
+2025-26,Kokrajhar,Assam,6147,73.1
+2021,Lakhimpur,Assam,7146,94.8
+2022,Lakhimpur,Assam,7874,86.0
+2023-24,Lakhimpur,Assam,7601,90.5
+2024-25,Lakhimpur,Assam,7705,66.2
+2025,Lakhimpur,Assam,9975,83.8
+2021-22,Majuli,Assam,5328,86.2
+2022-23,Majuli,Assam,5117,83.1
+2023-24,Majuli,Assam,5915,65.7
+2024-25,Majuli,Assam,6679,94.2
+2025-26,Majuli,Assam,6660,73.2
+2021,Morigaon,Assam,8966,71.2
+2022-23,Morigaon,Assam,9330,69.3
+2023,Morigaon,Assam,11026,69.8
+2024-25,Morigaon,Assam,10649,89.4
+2025-26,Morigaon,Assam,11419,76.3
+2021-22,Nagaon,Assam,7473,65.3
+2022-23,Nagaon,Assam,8208,84.7
+2023-24,NAGAON,Assam,9916,61.0
+2024,Nagaon,Assam,8479,66.7
+2025-26,Nagaon,Assam,11603,92.3
+2021-22,Nalbari,Assam,3120,93.6
+2022-23,Nalbari,Assam,3210,82.7
+2023-24,Nalbari,Assam,3078,85.9
+2024-25,Nalbari,Assam,3435,87.9
+2025-26,Nalbari,Assam,3907,90.3
+2021-22,Dima Hasao,Assam,7155,62.4
+2022-23,Dima Hasao,Assam,9264,
+2023-24,Dima Hasao,Assam,8797,86.9
+2024,Dima Hasao,Assam,8343,81.7
+2025-26,Dima Hasao,Assam,11459,57.7
+2021-22,Sivasagar,Assam,11117,66.6
+2022-23,Sivasagar,Assam,9941,58.2
+2023-24,Sivasagar,Assam,9449,68.6
+2024,Sivasagar,Assam,9665,70.2
+2025-26,Sivasagar,Assam,12597,67.3
+2021-22,Sonitpur,Assam,8634,93.2
+2022,Sonitpur,Assam,8034,64.3
+2023-24,Sonitpur,Assam,8760,58.5
+2024-25,Sonitpur,Assam,10298,58.2
+2025-26,Sonitpur,Assam,10524,89.4
+2021-22,South Salmara-Mankachar,Assam,12972,74.9
+2022-23,South Salmara-Mankachar,Assam,10610,76.4
+2023-24,South Salmara-Mankachar,Assam,12863,67.9
+2024,South Salmara-Mankachar,Assam,15029,82.5
+2025-26,South Salmara-Mankachar,Assam,13842,57.5
+2021-22,Tinsukia,Assam,12439,81.6
+2022-23,Tinsukia,Assam,12407,89.6
+2023-24,Tinsukia,Assam,15184,64.1
+2024-25,Tinsukia,Assam,15998,86.2
+2025-26,TINSUKIA,Assam,16683,73.3
+2021,Udalguri,Assam,14393,71.6
+2022-23,Udalguri,Assam,16436,91.6
+2023-24,Udalguri,Assam,15516,63.9
+2024-25,Udalguri,Assam,18385,60.6
+2025,Udalguri,Assam,17927,69.0
+2021-22,West Karbi Anglong,Assam,5660,56.7
+2022-23,West Karbi Anglong,Assam,5603,75.3
+2023-24,West Karbi Anglong,Assam,8600,86.5
+2024-25,West Karbi Anglong,Assam,7199,64.5
+2025-26,West Karbi Anglong,Assam,6748,70.8
+2021-22,Araria,Bihar,3250,73.7
+2022-23,Araria,Bihar,2444,92.7
+2023-24,Araria,Bihar,3138,91.8
+2024-25,Araria,Bihar,2560,58.3
+2025-26,Araria,Bihar,3236,76.1
+2021,Arwal,Bihar,9434,71.3
+2022,Arwal,Bihar,10560,83.0
+2023-24,Arwal,Bihar,9337,86.9
+2024,Arwal,Bihar,12045,65.9
+2025-26,Arwal,Bihar,13316,95.0
+2021-22,Aurangabad,Bihar,12120,75.3
+2022-23,Aurangabad,Bihar,12134,85.6
+2023,Aurangabad,Bihar,11727,89.9
+2024,Aurangabad,Bihar,15879,94.5
+2025-26,Aurangabad,Bihar,14879,55.7
+2021-22,Banka,Bihar,8133,71.9
+2022-23,  Banka ,Bihar,11049,67.2
+2023,Banka,Bihar,9040,64.4
+2024-25,Banka,Bihar,10509,68.2
+2025-26,Banka,Bihar,10314,74.9
+2021,Begusarai,Bihar,3823,59.8
+2022-23,Begusarai,Bihar,4452,77.4
+2023,Begusarai,Bihar,4331,76.3
+2024,Begusarai,Bihar,5005,69.9
+2025,Begusarai,Bihar,5505,60.5
+2021-22,Bhagalpur,Bihar,2657,67.5
+2022,Bhagalpur,Bihar,3038,
+2023-24,BHAGALPUR,Bihar,3361,89.7
+2024-25,BHAGALPUR,Bihar,3655,79.8
+2025-26,Bhagalpur,Bihar,3490,67.5
+2021-22,Bhojpur,Bihar,29073,75.0
+2022-23,Bhojpur,Bihar,26694,92.3
+2023-24,Bhojpur,Bihar,24805,56.1
+2024-25,Bhojpur,Bihar,30476,72.9
+2025-26,Bhojpur,Bihar,29878,57.5
+2021-22,Buxar,Bihar,3540,91.4
+2022,Buxar,Bihar,4024,82.3
+2023,Buxar,Bihar,4983,75.9
+2024-25,Buxar,Bihar,4586,90.9
+2025,Buxar,Bihar,5487,59.7
+2021-22,Darbhanga,Bihar,14852,79.7
+2022,Darbhanga,Bihar,15912,62.5
+2023-24,Darbhanga,Bihar,15655,80.0
+2024,Darbhanga,Bihar,17903,73.5
+2025-26,Darbhanga,Bihar,17577,62.8
+2021,East Champaran (Motihari),Bihar,6545,76.9
+2022-23,East Champaran,Bihar,7030,55.3
+2023-24,East Champaran (Motihari),Bihar,8153,93.1
+2024-25,East Champaran (Motihari),Bihar,7803,61.7
+2025-26,East Champaran (Motihari),Bihar,7878,82.9
+2021-22,Gaya,Bihar,6105,86.4
+2022,Gaya,Bihar,5057,77.5
+2023-24,Gaya,Bihar,5932,67.0
+2024-25,Gaya,Bihar,7989,59.6
+2025,Gaya,Bihar,7551,77.6
+2021,Gopalganj,Bihar,14587,68.8
+2022-23,Gopalganj,Bihar,12825,87.6
+2023-24,Gopalganj,Bihar,17272,83.7
+2024-25,Gopalganj,Bihar,13517,68.2
+2025-26,Gopalganj,Bihar,18512,73.1
+2021-22,Jamui,Bihar,2957,74.2
+2022,Jamui,Bihar,3703,57.9
+2023-24,JAMUI,Bihar,3559,79.5
+2024,Jamui,Bihar,3481,83.0
+2025-26,Jamui,Bihar,4182,65.6
+2021-22,Jehanabad,Bihar,6867,63.0
+2022,Jehanabad,Bihar,7998,56.5
+2023-24,Jehanabad,Bihar,7631,73.5
+2024,Jehanabad,Bihar,8367,63.5
+2025-26,Jehanabad,Bihar,8047,93.0
+2021,Kaimur (Bhabua),Bihar,5100,64.1
+2022-23,Kaimur (Bhabua),Bihar,5266,93.7
+2023,Kaimur (Bhabua),Bihar,6102,60.1
+2024,Kaimur (Bhabua),Bihar,5932,82.9
+2025-26,Kaimur (Bhabua),Bihar,5684,70.5
+2021-22,KATIHAR,Bihar,7494,87.6
+2022-23,Katihar,Bihar,7818,91.3
+2023-24,Katihar,Bihar,7937,84.0
+2024-25,Katihar,Bihar,9216,85.6
+2025-26,Katihar,Bihar,9155,81.9
+2021-22,Khagaria,Bihar,4003,66.9
+2022-23,Khagaria,Bihar,4492,79.2
+2023-24,Khagaria,Bihar,5074,59.1
+2024-25,Khagaria,Bihar,5923,80.6
+2025-26,Khagaria,Bihar,6395,65.5
+2021-22,Kishanganj,Bihar,5727,77.0
+2022-23,Kishanganj,Bihar,7912,83.0
+2023-24,Kishanganj,Bihar,7104,64.9
+2024,Kishanganj,Bihar,7316,95.3
+2025-26,Kishanganj,Bihar,9168,63.3
+2021-22,Lakhisarai,Bihar,3993,
+2022-23,Lakhisarai,Bihar,4684,82.5
+2023-24,Lakhisarai,Bihar,4474,65.0
+2024-25,LAKHISARAI,Bihar,4549,73.6
+2025-26,Lakhisarai,Bihar,5384,66.8
+2021,Madhepura,Bihar,18737,84.8
+2022-23,Madhepura,Bihar,20632,70.5
+2023,Madhepura,Bihar,25985,77.8
+2024-25,Madhepura,Bihar,28358,82.5
+2025-26,Madhepura,Bihar,31766,68.4
+2021-22,Madhubani,Bihar,3675,87.0
+2022-23,Madhubani,Bihar,3964,81.0
+2023-24,Madhubani,Bihar,3941,59.2
+2024-25,MADHUBANI,Bihar,4144,64.2
+2025,Madhubani,Bihar,4040,79.8
+2021-22,Munger (Monghyr),Bihar,4756,95.0
+2022-23,Munger (Monghyr),Bihar,5400,67.6
+2023,Munger (Monghyr),Bihar,5948,82.0
+2024-25,Munger (Monghyr),Bihar,5953,
+2025-26,Munger (Monghyr),Bihar,5969,62.5
+2021-22,Muzaffarpur,Bihar,5030,92.0
+2022-23,Muzaffarpur,Bihar,6340,62.1
+2023-24,muzaffarpur,Bihar,4385,63.8
+2024-25,Muaffarpur,Bihar,6623,68.5
+2025-26,Muzaffarpur,Bihar,7304,87.6
+2021-22,NALANDA,Bihar,19669,79.4
+2022-23,Nalanda,Bihar,19278,90.3
+2023-24,Nalanda,Bihar,21394,80.8
+2024-25,Nalanda,Bihar,23271,90.7
+2025-26,Nalanda,Bihar,23489,95.3
+2021-22,Nawada,Bihar,9545,91.9
+2022-23,Nawada,Bihar,11101,69.8
+2023,Nawada,Bihar,9872,78.3
+2024-25,Nawada,Bihar,11678,60.9
+2025-26,Nawada,Bihar,11498,59.3
+2021-22,Patna,Bihar,15590,91.9
+2022-23,Patna,Bihar,9849,95.5
+2023-24,Patna,Bihar,12752,85.2
+2024-25,PATNA,Bihar,13033,82.0
+2025-26,Patna,Bihar,14653,78.5
+2021-22,Purnia (Purnea),Bihar,1470,81.2
+2022,Purnia (Purnea),Bihar,2436,59.8
+2023-24,Purnia (Purnea),Bihar,2122,85.4
+2024,Purnia (Purnea),Bihar,1842,65.4
+2025,Purnia (Purnea),Bihar,2323,57.3
+2021-22,Rohtas,Bihar,6435,87.7
+2022,Rohtas,Bihar,7393,56.0
+2023-24,Rohtas,Bihar,6749,69.2
+2024-25,Rohtas,Bihar,8937,76.5
+2025-26,Rohtas,Bihar,6964,80.7
+2021-22,Saharsa,Bihar,8539,77.5
+2022-23,Saharsa,Bihar,8889,61.4
+2023-24,Saharsa,Bihar,9878,56.5
+2024,Saharsa,Bihar,9751,91.2
+2025-26,Saharsa,Bihar,11488,72.3
+2021-22,Samastipur,Bihar,6268,65.6
+2022-23,Samastipur,Bihar,8503,88.5
+2023-24,Samastipur,Bihar,7560,68.3
+2024,Samastipur,Bihar,8441,59.9
+2025-26,Samastipur,Bihar,7637,88.6
+2021-22,Saran,Bihar,14561,57.7
+2022,Saran,Bihar,15307,95.2
+2023-24,Saran,Bihar,17158,86.2
+2024-25,Saran,Bihar,20329,68.9
+2025,Saran,Bihar,18638,71.7
+2021-22,  Sheikhpura ,Bihar,4539,92.7
+2022-23,Sheikhpura,Bihar,4653,64.7
+2023-24,Sheikhpura,Bihar,5241,59.3
+2024-25,SHEIKHPURA,Bihar,5270,62.6
+2025-26,Sheikhpura,Bihar,5587,57.3
+2021-22,Sheohar,Bihar,19815,76.9
+2022-23,Sheohar,Bihar,20746,
+2023-24,Sheohar,Bihar,18235,79.9
+2024-25,Sheohar,Bihar,19408,85.4
+2025-26,SHEOHAR,Bihar,20520,81.0
+2021-22,Sitamarhi,Bihar,26926,92.7
+2022-23,Sitamarhi,Bihar,27575,76.8
+2023-24,Siamarhi,Bihar,30231,56.9
+2024-25,sitamarhi,Bihar,30581,73.6
+2025-26,Sitamarhi,Bihar,31997,69.0
+2021,Siwan,Bihar,4536,63.2
+2022-23,Siwan,Bihar,4155,66.1
+2023-24,Siwan,Bihar,4744,
+2024-25,SIWAN,Bihar,5067,74.3
+2025-26,SIWAN,Bihar,4963,79.1
+2021-22,SUPAUL,Bihar,4005,90.6
+2022-23,Supaul,Bihar,4537,83.7
+2023-24,Supaul,Bihar,4564,70.5
+2024-25,Supaul,Bihar,4561,83.9
+2025,Supaul,Bihar,5152,93.4
+2021-22,Vaishali,Bihar,15866,59.4
+2022,Vaishali,Bihar,17799,81.6
+2023-24,Vaishali,Bihar,18520,57.9
+2024-25,Vaishali,Bihar,16094,86.1
+2025-26,Vaishali,Bihar,24825,66.0
+2021-22,WEST CHAMPARAN,Bihar,18010,84.1
+2022,West Champaran,Bihar,22437,65.8
+2023-24,West Champaran,Bihar,26986,88.4
+2024-25,West Champaran,Bihar,23818,83.0
+2025-26,West Champran,Bihar,23656,60.0
+2021-22,Chandigarh,Chandigarh (UT),5230,60.1
+2022,CHANDIGARH,Chandigarh (UT),4818,88.6
+2023-24,Chandigarh,Chandigarh (UT),6636,57.4
+2024-25,CHANDIGARH,Chandigarh (UT),5019,83.9
+2025-26,CHANDIGARH,Chandigarh (UT),6103,68.3
+2021-22,Balod,Chhattisgarh,11114,83.6
+2022-23,Balod,Chhattisgarh,9445,95.5
+2023-24,Balod,Chhattisgarh,11805,79.3
+2024-25,Balod,Chhattisgarh,11209,83.2
+2025-26,BALOD,Chhattisgarh,13039,89.0
+2021,baloda bazar,Chhattisgarh,6287,55.6
+2022,Baloda Bazar,Chhattisgarh,5400,58.0
+2023-24,Baloda Bazar,Chhattisgarh,5740,69.8
+2024-25,BALODA BAZAR,Chhattisgarh,6735,66.0
+2025,Baloda Bazar,Chhattisgarh,7823,91.6
+2021,Balrampur,Chhattisgarh,7565,56.8
+2022-23,Balrampur,Chhattisgarh,6435,89.5
+2023,Balrampur,Chhattisgarh,7409,67.4
+2024-25,Balrampur,Chhattisgarh,8533,92.6
+2025-26,Balrampur,Chhattisgarh,9513,62.0
+2021,Bastar,Chhattisgarh,3041,70.9
+2022,Bastar,Chhattisgarh,3449,57.5
+2023-24,Bastar,Chhattisgarh,3342,79.4
+2024-25,Bastar,Chhattisgarh,3933,59.1
+2025-26,Bastar,Chhattisgarh,3974,81.3
+2021-22,Bemetara,Chhattisgarh,1956,80.8
+2022-23,Bemetara,Chhattisgarh,2322,66.8
+2023-24,Bemetara,Chhattisgarh,2359,80.6
+2024,Bemetara,Chhattisgarh,2293,68.0
+2025-26,Bemetara,Chhattisgarh,2140,93.5
+2021-22,BIJAPUR,Chhattisgarh,3697,79.4
+2022,Bijapur,Chhattisgarh,3354,78.7
+2023-24,Bijapur,Chhattisgarh,3705,95.2
+2024,Bijapur,Chhattisgarh,4586,76.7
+2025-26,Bijapur,Chhattisgarh,4433,88.0
+2021-22,Bilaspur,Chhattisgarh,3735,72.3
+2022,Bilaspur,Chhattisgarh,3997,83.2
+2023,Bilaspur,Chhattisgarh,4030,92.8
+2024-25,Bilaspur,Chhattisgarh,3773,75.1
+2025,Bilaspur,Chhattisgarh,3869,83.9
+2021,Dantewada (South Bastar),Chhattisgarh,14377,75.6
+2022-23,Dantewada (South Bastar),Chhattisgarh,17386,62.5
+2023-24,South Bastar Dantewada,Chhattisgarh,18937,89.5
+2024-25,Dantewada (South Bastar),Chhattisgarh,19828,59.4
+2025,Dantewada (South Bastar),Chhattisgarh,21715,93.3
+2021,Dhamtari,Chhattisgarh,18502,94.9
+2022-23,Dhamtari,Chhattisgarh,23302,94.9
+2023-24,DHAMTARI,Chhattisgarh,26777,88.6
+2024-25,Dhamtari,Chhattisgarh,24049,63.0
+2025-26,Dhamtari,Chhattisgarh,21720,89.2
+2021,Durg,Chhattisgarh,2817,74.6
+2022-23,Durg,Chhattisgarh,3948,81.1
+2023,Durg,Chhattisgarh,3781,92.5
+2024-25,Durg,Chhattisgarh,3815,70.9
+2025-26,Durg,Chhattisgarh,3621,88.5
+2021-22,Gariyaband,Chhattisgarh,14227,66.5
+2022-23,Gariyaband,Chhattisgarh,13839,65.1
+2023-24,Gariyaband,Chhattisgarh,13893,82.1
+2024-25,Gariyaband,Chhattisgarh,15777,86.4
+2025-26,Garyaband,Chhattisgarh,15277,82.3
+2021,Janjgir-Champa,Chhattisgarh,3721,77.9
+2022-23,Janjgir-Champa,Chhattisgarh,4952,75.4
+2023-24,Janjgir-Champa,Chhattisgarh,5845,56.2
+2024-25,Janjgir-Champa,Chhattisgarh,5774,87.8
+2025,Janjgir-Champa,Chhattisgarh,4549,90.4
+2021-22,Jashpur,Chhattisgarh,9885,58.4
+2022,Jashpur,Chhattisgarh,8270,69.8
+2023-24,Jashpur,Chhattisgarh,9554,81.3
+2024-25,Jashpur,Chhattisgarh,9055,93.6
+2025,Jashpur,Chhattisgarh,10558,86.3
+2021-22,Kabirham (Kawardha),Chhattisgarh,13348,78.7
+2022-23,Kabirdham (Kawardha),Chhattisgarh,13624,63.3
+2023-24,Kabirdham (Kawardha),Chhattisgarh,16659,58.2
+2024-25,Kabirdham (Kawardha),Chhattisgarh,14250,80.0
+2025-26,Kabirdham (Kawardha),Chhattisgarh,15397,81.4
+2021,Kanker (North Bastar),Chhattisgarh,2880,90.5
+2022-23,Kanker (North Bastar),Chhattisgarh,2906,60.9
+2023-24,Kanker (North Bastar),Chhattisgarh,4459,82.5
+2024-25,Kanker (North Bastar),Chhattisgarh,4012,58.6
+2025-26,Kanker (North Bastar),Chhattisgarh,4064,60.2
+2021-22,Kondagaon,Chhattisgarh,6936,63.6
+2022-23,Kondagaon,Chhattisgarh,6061,82.9
+2023-24,Kondagaon,Chhattisgarh,7027,86.2
+2024-25,Kondagaon,Chhattisgarh,8433,65.6
+2025-26,Kondagaon,Chhattisgarh,9483,75.9
+2021-22,Korba,Chhattisgarh,9941,72.1
+2022-23,Korba,Chhattisgarh,12368,68.1
+2023-24,Korba,Chhattisgarh,11624,88.7
+2024-25,Korba,Chhattisgarh,13574,58.9
+2025-26,Korba,Chhattisgarh,13745,86.8
+2021-22,Korea (Koriya),Chhattisgarh,7093,90.5
+2022-23,Korea (Koriya),Chhattisgarh,8044,67.0
+2023-24,Korea (Koriya),Chhattisgarh,7954,68.7
+2024-25,Korea (Koriya),Chhattisgarh,8632,57.9
+2025-26,Korea (Koriya),Chhattisgarh,8695,55.3
+2021-22,Mahasamund,Chhattisgarh,9217,64.0
+2022-23,MAHASAMUND,Chhattisgarh,9159,75.0
+2023-24,Mahasamund,Chhattisgarh,9012,73.4
+2024-25,Mahasamund,Chhattisgarh,14737,71.1
+2025-26,Mahasamund,Chhattisgarh,10361,63.6
+2021-22,Mungeli,Chhattisgarh,75748,71.3
+2022,Mungeli,Chhattisgarh,96840,84.7
+2023-24,MUNGELI,Chhattisgarh,96485,92.3
+2024-25,Mungeli,Chhattisgarh,94567,67.5
+2025-26,Mungeli,Chhattisgarh,99402,94.7
+2021,Narayanpur,Chhattisgarh,3627,88.4
+2022,Narayanpur,Chhattisgarh,3409,91.3
+2023-24,Narayanpur,Chhattisgarh,3605,79.3
+2024-25,Narayanpur,Chhattisgarh,3276,76.1
+2025,Narayanpur,Chhattisgarh,4043,93.5
+2021-22,Raigarh,Chhattisgarh,4434,84.1
+2022-23,Rigarh,Chhattisgarh,4083,91.8
+2023-24,Raigarh,Chhattisgarh,3451,89.8
+2024-25,Raigarh,Chhattisgarh,3818,59.4
+2025-26,Raigarh,Chhattisgarh,4625,62.0
+2021-22,Raipur,Chhattisgarh,4827,62.0
+2022-23,Raipur,Chhattisgarh,4109,83.0
+2023,RAIPUR,Chhattisgarh,5015,74.9
+2024-25,Raipur,Chhattisgarh,4173,90.8
+2025-26,Raipur,Chhattisgarh,5030,70.1
+2021-22,Rajnandgaon,Chhattisgarh,3974,80.1
+2022-23,Rajnandgaon,Chhattisgarh,4211,71.9
+2023-24,Rajnandgaon,Chhattisgarh,3531,74.5
+2024,Rajnandgaon,Chhattisgarh,4300,61.1
+2025-26,Rajnandgaon,Chhattisgarh,4778,59.7
+2021-22,Sukma,Chhattisgarh,3217,92.0
+2022-23,Sukma,Chhattisgarh,3198,76.4
+2023-24,Sukma,Chhattisgarh,3757,73.9
+2024-25,Sukma,Chhattisgarh,3866,81.7
+2025-26,Sukma,Chhattisgarh,4194,75.3
+2021-22,SURAJPUR,Chhattisgarh,13539,61.6
+2022-23,Surajpur,Chhattisgarh,15842,59.3
+2023-24,Surajpur,Chhattisgarh,18903,
+2024-25,Surajpur,Chhattisgarh,19018,
+2025-26,Surajpur,Chhattisgarh,20125,57.0
+2021,Surguja,Chhattisgarh,15401,87.3
+2022-23,Srguja,Chhattisgarh,18258,89.1
+2023-24,Surguja,Chhattisgarh,14755,55.1
+2024-25,Surguja,Chhattisgarh,17084,91.4
+2025,Surguja,Chhattisgarh,20378,85.4
+2021,Dadra & Nagar Haveli,Dadra and Nagar Haveli (UT),6282,68.4
+2022-23,Dadra & Nagar Haveli,Dadra and Nagar Haveli (UT),4972,57.9
+2023-24,Dadra & Nagar Haveli,Dadra and Nagar Haveli (UT),5324,62.1
+2024,Dadra & Nagar Haveli,Dadra and Nagar Haveli (UT),5138,92.2
+2025-26,Dadra & Nagar Haveli,Dadra and Nagar Haveli (UT),5636,73.8
+2021-22,Daman,Daman and Diu (UT),3235,88.8
+2022,Daman,Daman and Diu (UT),2810,65.8
+2023-24,Daman,Daman and Diu (UT),3050,64.2
+2024,Daman,Daman and Diu (UT),3688,95.5
+2025-26,Daman,Daman and Diu (UT),3744,96.0
+2021-22,Diu,Daman and Diu (UT),13924,60.8
+2022-23,Diu,Daman and Diu (UT),17174,92.7
+2023-24,Diu,Daman and Diu (UT),17446,67.1
+2024-25,Diu,Daman and Diu (UT),15935,69.9
+2025-26,Diu,Daman and Diu (UT),17909,91.8
+2021-22,Central Delhi,Delhi (NCT),3681,95.1
+2022-23,Central Delhi,Delhi (NCT),3225,70.6
+2023,Central Delhi,Delhi (NCT),3715,60.3
+2024,Central Delhi,Delhi (NCT),4238,78.8
+2025-26,Central Delhi,Delhi (NCT),3345,77.4
+2021-22,East Delhi,Delhi (NCT),8589,69.9
+2022-23,East Delhi,Delhi (NCT),11166,70.5
+2023-24,East Delhi,Delhi (NCT),9399,61.4
+2024-25,East Delhi,Delhi (NCT),10479,75.2
+2025-26,East Delhi,Delhi (NCT),11015,65.7
+2021-22,New Delhi,Delhi (NCT),8474,80.5
+2022-23,New Delhi,Delhi (NCT),8413,56.9
+2023,New Delhi,Delhi (NCT),10207,75.3
+2024-25,New Delhi,Delhi (NCT),11636,83.5
+2025-26,New Delhi,Delhi (NCT),13496,75.2
+2021-22,North Delhi,Delhi (NCT),1373,74.4
+2022,North Delhi,Delhi (NCT),1611,63.5
+2023-24,North Delhi,Delhi (NCT),1577,87.4
+2024-25,North Delhi,Delhi (NCT),1853,69.7
+2025-26,North Delhi,Delhi (NCT),1991,87.0
+2021-22,North East Delhi,Delhi (NCT),20362,80.4
+2022-23,North East Delhi,Delhi (NCT),25640,80.4
+2023-24,North East Delhi,Delhi (NCT),27693,80.6
+2024,North East Delhi,Delhi (NCT),20176,73.1
+2025-26,North East Delhi,Delhi (NCT),28584,83.3
+2021-22,North West Delhi,Delhi (NCT),43410,89.0
+2022-23,North West Delhi,Delhi (NCT),40787,60.6
+2023-24,North West Delhi,Delhi (NCT),40275,76.0
+2024-25,North West Delhi,Delhi (NCT),41025,90.9
+2025-26,North West Delhi,Delhi (NCT),43987,83.4
+2021,Shahdara,Delhi (NCT),3248,84.5
+2022-23,Shahdara,Delhi (NCT),3790,86.3
+2023-24,Shahdara,Delhi (NCT),2907,63.1
+2024-25,Shahdara,Delhi (NCT),2996,90.4
+2025-26,Shahdara,Delhi (NCT),3786,56.2
+2021-22,South Delhi,Delhi (NCT),4440,75.9
+2022-23,South Delhi,Delhi (NCT),5499,61.5
+2023-24,SOUTH DELHI,Delhi (NCT),5911,79.5
+2024-25,South Delhi,Delhi (NCT),5819,61.8
+2025-26,South Delhi,Delhi (NCT),7407,65.2
+2021,South East Delhi,Delhi (NCT),9053,66.5
+2022-23,South East Delhi,Delhi (NCT),8398,63.7
+2023,South East Delhi,Delhi (NCT),10373,85.6
+2024-25,South East Delhi,Delhi (NCT),9790,82.4
+2025-26,South East Delhi,Delhi (NCT),10129,59.0
+2021-22,South West Delhi,Delhi (NCT),9990,70.6
+2022-23,South West Delhi,Delhi (NCT),11894,95.3
+2023,South West Delhi,Delhi (NCT),10933,94.3
+2024,South West Delhi,Delhi (NCT),10898,70.2
+2025,South West Delhi,Delhi (NCT),15202,56.0
+2021-22,West Delhi,Delhi (NCT),7628,80.4
+2022-23,West Delhi,Delhi (NCT),7634,67.1
+2023,West Delhi,Delhi (NCT),8579,69.9
+2024-25,West Delhi,Delhi (NCT),7792,59.5
+2025-26,West Delhi,Delhi (NCT),9471,90.1
+2021,North Goa,Goa,23111,68.3
+2022-23,North Goa,Goa,25414,86.7
+2023,North Goa,Goa,22349,67.8
+2024,North Goa,Goa,26946,60.3
+2025-26,NORTH GOA,Goa,29764,60.9
+2021,South Goa,Goa,6844,93.4
+2022-23,South Goa,Goa,6320,86.7
+2023-24,South Goa,Goa,9204,89.4
+2024-25,South Goa,Goa,8388,69.8
+2025-26,South Goa,Goa,7966,63.0
+2021-22,Ahmedabad,Gujarat,3799,66.7
+2022-23,Ahmedabad,Gujarat,4299,69.0
+2023-24,Ahmadabad,Gujarat,3934,59.6
+2024-25,Ahmedabad,Gujarat,4014,
+2025,Ahmedabad,Gujarat,4763,88.8
+2021-22,Amreli,Gujarat,2380,91.2
+2022-23,amreli,Gujarat,2061,71.5
+2023-24,Amreli,Gujarat,2804,73.1
+2024,Amreli,Gujarat,2694,86.6
+2025-26,Amreli,Gujarat,3112,79.9
+2021-22,Anand,Gujarat,3824,64.2
+2022-23,Anand,Gujarat,4738,77.1
+2023-24,Anand,Gujarat,4408,60.5
+2024-25,anand,Gujarat,4532,69.4
+2025-26,ANAND,Gujarat,5232,59.3
+2021-22,Aravalli,Gujarat,5882,86.9
+2022-23,Aravalli,Gujarat,5446,92.3
+2023,Aravalli,Gujarat,7316,80.9
+2024-25,Aravalli,Gujarat,6652,57.0
+2025-26,Aravalli,Gujarat,6267,69.8
+2021,Banaskantha (Palanpur),Gujarat,32691,61.5
+2022,Banaskantha (Palanpur),Gujarat,27386,61.9
+2023-24,Banaskantha (Palanpur),Gujarat,26022,85.7
+2024-25,Banaskantha (Palanpur),Gujarat,28499,
+2025-26,Banaskantha (Palanpur),Gujarat,35835,80.3
+2021,Bharuch,Gujarat,3994,77.6
+2022-23,Bharuch,Gujarat,5579,69.3
+2023-24,Bharuch,Gujarat,5102,55.4
+2024-25,Bharuch,Gujarat,5331,86.7
+2025-26,Bharuch,Gujarat,5959,55.9
+2021-22,Bhavnagar,Gujarat,7645,95.0
+2022,Bhavnagar,Gujarat,6246,67.9
+2023-24,Bhavnagar,Gujarat,6886,85.2
+2024,Bhavnagar,Gujarat,8271,55.8
+2025-26,Bhavnagar,Gujarat,8018,94.4
+2021-22,Botad,Gujarat,9292,94.2
+2022-23,  Botad ,Gujarat,12467,83.3
+2023-24,Botad,Gujarat,14000,90.3
+2024-25,Botad,Gujarat,14695,75.6
+2025-26,Botad,Gujarat,14142,70.1
+2021,Chhota  Udepur,Gujarat,18036,73.2
+2022,Chhota Udepur,Gujarat,17174,71.2
+2023-24,Chhota Udepur,Gujarat,19882,67.8
+2024,Chhota Udepur,Gujarat,24793,61.2
+2025-26,Chhota Udepur,Gujarat,21496,83.0
+2021-22,Dahod,Gujarat,28795,71.5
+2022-23,Dahod,Gujarat,31640,90.1
+2023-24,Dahod,Gujarat,37583,85.1
+2024-25,Dahod,Gujarat,36653,80.6
+2025-26,Dahod,Gujarat,52228,69.5
+2021-22,Dangs (Ahwa),Gujarat,5441,72.4
+2022-23,Dangs (Ahwa),Gujarat,6167,91.3
+2023,  Dangs (Ahwa) ,Gujarat,4762,74.4
+2024-25,Dang,Gujarat,7185,63.1
+2025-26,Dangs (Ahwa),Gujarat,5884,91.6
+2021,Devbhoomi Dwarka,Gujarat,3314,63.5
+2022-23,Devbhoomi Dwarka,Gujarat,4278,81.2
+2023-24,Devbhoomi Dwarka,Gujarat,3926,83.2
+2024-25,DEVBHOOMI DWARKA,Gujarat,4087,77.3
+2025-26,Devbhoomi Dwarka,Gujarat,4653,94.6
+2021-22,Gandhinagar,Gujarat,16835,70.9
+2022-23,Gandhinagar,Gujarat,15433,63.5
+2023-24,Gandhinagar,Gujarat,21742,91.8
+2024-25,Gandhinagar,Gujarat,19794,68.2
+2025-26,Gandhinagar,Gujarat,21710,71.2
+2021-22,Gir Somnath,Gujarat,15776,62.3
+2022-23,Gir Somnath,Gujarat,14717,90.5
+2023-24,Gir Somnath,Gujarat,19128,82.9
+2024-25,Gir Somnath,Gujarat,18683,86.3
+2025-26,Gir Somnath,Gujarat,22525,70.6
+2021,Jamnagar,Gujarat,18064,84.5
+2022-23,Jamnagar,Gujarat,20080,88.9
+2023-24,Jamnagar,Gujarat,20947,62.4
+2024-25,Jamnagar,Gujarat,28894,60.5
+2025-26,Jamnagar,Gujarat,22038,80.1
+2021-22,Junagadh,Gujarat,11460,57.3
+2022-23,Junagadh,Gujarat,13030,78.1
+2023-24,Junagadh,Gujarat,12903,85.8
+2024-25,Junagadh,Gujarat,14848,90.4
+2025-26,Junagadh,Gujarat,15583,80.4
+2021-22,Kachchh,Gujarat,5294,58.8
+2022-23,Kachchh,Gujarat,6232,88.6
+2023,Kachchh,Gujarat,5597,93.9
+2024-25,Kachchh,Gujarat,6105,76.5
+2025,Kachchh,Gujarat,7202,79.1
+2021,Kheda (Nadiad),Gujarat,12238,67.5
+2022-23,Kheda (Nadiad),Gujarat,11902,85.9
+2023-24,Kheda (Nadiad),Gujarat,13715,59.3
+2024,Kheda (Nadiad),Gujarat,14276,74.0
+2025-26,Kheda (Nadiad),Gujarat,17306,63.3
+2021,Mahisagar,Gujarat,28610,60.0
+2022-23,Mahisagar,Gujarat,28059,64.8
+2023-24,Mahisagar,Gujarat,31139,67.5
+2024-25,Mahisagar,Gujarat,31882,76.8
+2025-26,Mahisagar,Gujarat,36866,86.7
+2021-22,Mehsana,Gujarat,11949,91.0
+2022-23,Mehsana,Gujarat,12668,86.4
+2023-24,MEHSANA,Gujarat,11901,72.4
+2024,Mehsana,Gujarat,12196,59.6
+2025-26,Mehsana,Gujarat,14282,62.0
+2021-22,Morbi,Gujarat,7564,92.1
+2022-23,Morbi,Gujarat,8263,63.7
+2023-24,Morbi,Gujarat,7585,93.6
+2024-25,Morbi,Gujarat,11700,90.7
+2025-26,Morbi,Gujarat,11607,61.1
+2021-22,Narmada,Gujarat,11426,79.3
+2022-23,Narmada (Rajpipla),Gujarat,12681,83.4
+2023,narmada (rajpipla),Gujarat,12335,77.9
+2024-25,Narmada (Rajpipla),Gujarat,14570,63.2
+2025-26,Narmada (Rajpipla),Gujarat,15110,68.1
+2021-22,Navsari,Gujarat,10555,95.9
+2022,NAVSARI,Gujarat,14941,63.1
+2023-24,Navsari,Gujarat,14938,60.3
+2024-25,NAVSARI,Gujarat,16485,63.1
+2025,Navsari,Gujarat,15141,65.1
+2021,Panchmahal (Godhra),Gujarat,18904,77.4
+2022-23,Panchmahal (Godhra),Gujarat,19738,60.9
+2023-24,Panchmahal (Godhra),Gujarat,20210,93.2
+2024-25,Panchmahal (Godhra),Gujarat,23427,63.5
+2025-26,Panchmahal (Godhra),Gujarat,21178,62.8
+2021-22,Patan,Gujarat,10675,88.0
+2022-23,Patan,Gujarat,12746,74.1
+2023,PATAN,Gujarat,12939,66.1
+2024-25,Patan,Gujarat,13686,61.6
+2025-26,Patan,Gujarat,15245,67.0
+2021-22,Porbandar,Gujarat,5502,57.4
+2022-23,Porbandar,Gujarat,6475,76.3
+2023-24,Porbandar,Gujarat,7041,88.9
+2024,Porbandar,Gujarat,7286,57.6
+2025-26,Porbandar,Gujarat,7138,73.1
+2021-22,Rajkot,Gujarat,8444,77.4
+2022-23,Rajkot,Gujarat,8138,92.5
+2023-24,Rajkot,Gujarat,9845,56.5
+2024-25,Rajkot,Gujarat,11758,67.3
+2025-26,Rajkot,Gujarat,10356,78.2
+2021-22,Sabar Kantha,Gujarat,15265,84.4
+2022-23,Sabarkantha (Himmatnagar),Gujarat,17108,88.3
+2023-24,Sabarkantha (Himmatnagar),Gujarat,14577,72.9
+2024-25,Sabarkantha (Himmatnagar),Gujarat,18673,57.7
+2025-26,Sabarkantha (Himmatnagar),Gujarat,19160,95.5
+2021-22,Surat,Gujarat,5805,73.1
+2022-23,Surat,Gujarat,5777,60.7
+2023-24,Surat,Gujarat,4875,89.7
+2024-25,Surat,Gujarat,6773,72.0
+2025-26,Surat,Gujarat,7163,69.7
+2021,Surendranagar,Gujarat,7878,91.4
+2022-23,Surendranagar,Gujarat,8746,65.6
+2023-24,Surendranagar,Gujarat,10681,59.0
+2024-25,Surendranagar,Gujarat,9787,91.2
+2025,Surendranagar,Gujarat,11340,87.8
+2021-22,Tapi (Vyara),Gujarat,10321,82.9
+2022-23,Tapi (Vyara),Gujarat,12480,88.1
+2023-24,Tapi,Gujarat,9722,59.2
+2024-25,Tapi,Gujarat,11925,70.5
+2025-26,Tapi (Vyara),Gujarat,14594,66.6
+2021-22,Vadodara,Gujarat,8142,82.5
+2022-23,Vadodara,Gujarat,7565,69.6
+2023-24,VADODARA,Gujarat,8215,94.6
+2024,Vadodara,Gujarat,8187,67.4
+2025-26,Vadodara,Gujarat,8690,88.0
+2021-22,Valsad,Gujarat,15532,78.6
+2022-23,Valsad,Gujarat,14162,85.2
+2023-24,Valsad,Gujarat,15537,66.0
+2024-25,Valsad,Gujarat,14720,68.1
+2025,Valsad,Gujarat,20786,69.4
+2021-22,Ambala,Haryana,6048,66.5
+2022-23,Ambala,Haryana,5740,94.4
+2023-24,Ambala,Haryana,6240,76.2
+2024-25,Ambala,Haryana,7729,87.2
+2025-26,Ambala,Haryana,7158,70.5
+2021-22,Bhiwani,Haryana,7213,76.4
+2022-23,BHIWANI,Haryana,7831,63.0
+2023-24,BHIWANI,Haryana,7529,91.0
+2024-25,Bhiwani,Haryana,8970,60.6
+2025,Bhiwani,Haryana,9586,83.2
+2021-22,Charkhi Dadri,Haryana,2428,70.6
+2022-23,Charkhi Dadri,Haryana,2318,95.2
+2023-24,Charkhi Dadri,Haryana,2289,82.5
+2024-25,Charkhi Dadri,Haryana,2723,76.3
+2025-26,Charkhi Dadri,Haryana,2529,55.6
+2021-22,FARIDABAD,Haryana,15567,70.9
+2022-23,Faridabad,Haryana,13140,93.5
+2023-24,Faridabad,Haryana,15786,68.8
+2024,Faridabad,Haryana,14692,56.0
+2025-26,Faridabad,Haryana,17447,76.5
+2021-22,Fatehabad,Haryana,11785,88.8
+2022,Fatehabad,Haryana,12350,83.8
+2023-24,Fatehabad,Haryana,13772,91.6
+2024,Fatehabad,Haryana,14106,59.1
+2025,Fatehabad,Haryana,13264,82.5
+2021-22,Gurgaon,Haryana,29370,90.0
+2022-23,Gurgaon,Haryana,32037,63.3
+2023-24,Gurgaon,Haryana,38563,66.2
+2024-25,Gurgaon,Haryana,41369,89.4
+2025-26,Gurgaon,Haryana,45386,66.0
+2021-22,Hisar,Haryana,4558,57.9
+2022-23,Hisar,Haryana,4490,69.8
+2023-24,Hisar,Haryana,4766,57.2
+2024-25,Hisar,Haryana,4850,93.8
+2025,Hisar,Haryana,5864,94.5
+2021-22,Jhajjar,Haryana,6227,73.7
+2022-23,Jhajjar,Haryana,6167,95.2
+2023-24,Jhajjar,Haryana,7336,75.6
+2024-25,Jhajjar,Haryana,6562,62.7
+2025-26,Jhajjar,Haryana,7509,70.5
+2021-22,Jind,Haryana,8381,80.3
+2022,Jind,Haryana,6804,62.6
+2023-24,Jind,Haryana,7756,57.4
+2024-25,Jind,Haryana,7343,
+2025-26,Jind,Haryana,10049,63.2
+2021-22,Kaithal,Haryana,30743,93.7
+2022,Kaithal,Haryana,28362,59.3
+2023,Kaithal,Haryana,25071,61.2
+2024-25,Kaithal,Haryana,35010,88.8
+2025-26,Kaithal,Haryana,31107,62.4
+2021-22,Karnal,Haryana,5799,58.3
+2022,  Karnal ,Haryana,6878,70.8
+2023-24,Karnal,Haryana,7226,62.5
+2024,Karnal,Haryana,6958,75.2
+2025-26,Karnal,Haryana,8992,93.0
+2021,Kurukshetra,Haryana,5229,72.2
+2022,Kurukshetra,Haryana,7193,80.9
+2023,Kurukshetra,Haryana,6776,57.2
+2024-25,Kurukshetra,Haryana,6223,95.7
+2025-26,Kurukshetra,Haryana,6096,76.1
+2021-22,Mahendragarh,Haryana,10490,86.6
+2022-23,Mahendragarh,Haryana,11300,57.7
+2023-24,Mahendragarh,Haryana,13514,62.3
+2024,MAHENDRAGARH,Haryana,12451,88.5
+2025,Mahendragarh,Haryana,11664,92.3
+2021-22,Mewat,Haryana,8732,94.8
+2022,Nuh,Haryana,6841,78.4
+2023-24,Mewat,Haryana,7535,84.3
+2024,Mewat,Haryana,9885,92.7
+2025-26,Mewat,Haryana,12264,61.7
+2021-22,Palwal,Haryana,3987,85.4
+2022,Palwal,Haryana,3634,71.1
+2023-24,Palwal,Haryana,4139,70.9
+2024,Palwal,Haryana,4424,65.2
+2025,Palwal,Haryana,4703,78.2
+2021-22,Panchkula,Haryana,8629,85.5
+2022,Panchkula,Haryana,8596,71.2
+2023-24,Panchkula,Haryana,8258,59.4
+2024-25,Panchkula,Haryana,9646,83.2
+2025-26,Panchkula,Haryana,8534,65.0
+2021-22,PANIPAT,Haryana,11826,80.7
+2022-23,Panipat,Haryana,13280,75.0
+2023-24,Panipat,Haryana,15131,66.8
+2024-25,Panipat,Haryana,17548,57.2
+2025-26,Panipat,Haryana,14622,94.7
+2021-22,Rewari,Haryana,2673,67.5
+2022-23,Rewari,Haryana,2252,74.7
+2023-24,Rewari,Haryana,2280,80.1
+2024-25,Rewari,Haryana,3170,84.5
+2025-26,Rewari,Haryana,2605,85.4
+2021,Rohtak,Haryana,7520,85.6
+2022-23,Rohtak,Haryana,8308,67.1
+2023-24,Rohtak,Haryana,8544,79.3
+2024-25,Rohtak,Haryana,7881,93.8
+2025-26,Rohtak,Haryana,9856,75.2
+2021-22,Sirsa,Haryana,3704,83.4
+2022-23,Sirsa,Haryana,4653,95.8
+2023-24,Sirsa,Haryana,4881,91.3
+2024,Sirsa,Haryana,5752,
+2025-26,Sirsa,Haryana,6211,85.8
+2021-22,Sonipat,Haryana,18371,91.5
+2022-23,Sonipat,Haryana,23483,81.9
+2023,Sonipat,Haryana,24039,73.4
+2024-25,SONIPAT,Haryana,23467,58.9
+2025,Sonipat,Haryana,23952,56.8
+2021-22,Yamunanagar,Haryana,2610,55.9
+2022-23,Yamunanagar,Haryana,2788,89.5
+2023-24,Yamunanagar,Haryana,3020,95.0
+2024,YAMUNANAGAR,Haryana,4167,93.9
+2025-26,Yamunanagar,Haryana,3165,85.8
+2021-22,Bilaspur,Himachal Pradesh,2415,85.6
+2022-23,Bilaspur,Himachal Pradesh,3482,68.2
+2023-24,Bilaspur,Himachal Pradesh,3510,76.1
+2024-25,bilaspur,Himachal Pradesh,3818,62.4
+2025,Bilaspur,Himachal Pradesh,4556,61.7
+2021-22,CHAMBA,Himachal Pradesh,7506,77.5
+2022,Chamba,Himachal Pradesh,7651,95.0
+2023-24,Chamba,Himachal Pradesh,8023,85.6
+2024-25,Chamba,Himachal Pradesh,9308,65.6
+2025-26,Chamba,Himachal Pradesh,8940,90.8
+2021-22,Hamirpur,Himachal Pradesh,26432,89.9
+2022,  Hamirpur ,Himachal Pradesh,31096,89.1
+2023-24,Hamirpur,Himachal Pradesh,31860,88.0
+2024-25,Hamirpur,Himachal Pradesh,27104,86.6
+2025,Hamirpur,Himachal Pradesh,33270,87.5
+2021,Kangra,Himachal Pradesh,7411,59.2
+2022-23,Kangra,Himachal Pradesh,6849,73.6
+2023,Kangra,Himachal Pradesh,7756,65.1
+2024-25,Kangra,Himachal Pradesh,9903,56.3
+2025-26,Kangra,Himachal Pradesh,8882,65.8
+2021-22,Kinnaur,Himachal Pradesh,4644,78.9
+2022,KINNAUR,Himachal Pradesh,4906,57.6
+2023-24,Kinnaur,Himachal Pradesh,4879,94.4
+2024-25,Kinnaur,Himachal Pradesh,6167,93.3
+2025-26,KINNAUR,Himachal Pradesh,6596,84.5
+2021-22,Kullu,Himachal Pradesh,62589,
+2022-23,Kullu,Himachal Pradesh,57121,93.0
+2023-24,Kullu,Himachal Pradesh,69481,87.9
+2024-25,KULLU,Himachal Pradesh,61665,86.8
+2025-26,Kullu,Himachal Pradesh,75706,92.2
+2021-22,Lahaul & Spiti,Himachal Pradesh,2290,94.7
+2022-23,Lahul and Spiti,Himachal Pradesh,2631,62.0
+2023-24,Lahaul & Spiti,Himachal Pradesh,2650,88.2
+2024-25,Lahaul and Spiti,Himachal Pradesh,2887,57.8
+2025,Lahaul and Spiti,Himachal Pradesh,3750,81.3
+2021,MANDI,Himachal Pradesh,1747,78.2
+2022-23,Mandi,Himachal Pradesh,1670,69.7
+2023,Mandi,Himachal Pradesh,1719,81.9
+2024-25,Mandi,Himachal Pradesh,1851,55.9
+2025-26,Mandi,Himachal Pradesh,2276,58.0
+2021-22,Shimla,Himachal Pradesh,10923,67.8
+2022-23,Shimla,Himachal Pradesh,12677,
+2023-24,Shimla,Himachal Pradesh,15931,77.0
+2024-25,Shimla,Himachal Pradesh,16827,92.7
+2025,Shimla,Himachal Pradesh,12978,57.2
+2021-22,Sirmaur (Sirmour),Himachal Pradesh,5095,76.1
+2022,Sirmaur (Sirmour),Himachal Pradesh,6323,62.9
+2023,Sirmaur (Sirmour),Himachal Pradesh,7043,56.8
+2024-25,Sirmaur (Sirmour),Himachal Pradesh,6102,59.3
+2025,Sirmaur (Sirmour),Himachal Pradesh,7282,82.1
+2021-22,Solan,Himachal Pradesh,3062,64.5
+2022,Solan,Himachal Pradesh,3383,89.9
+2023-24,Solan,Himachal Pradesh,3324,88.7
+2024-25,Solan,Himachal Pradesh,3168,92.3
+2025-26,Solan,Himachal Pradesh,3764,87.1
+2021-22,UNA,Himachal Pradesh,15477,63.2
+2022-23,Una,Himachal Pradesh,13756,86.9
+2023,Una,Himachal Pradesh,16862,75.9
+2024-25,UNA,Himachal Pradesh,20388,88.7
+2025-26,Una,Himachal Pradesh,15569,79.2
+2021-22,Anantnag,Jammu and Kashmir,6291,64.9
+2022-23,Anantnag,Jammu and Kashmir,7251,73.0
+2023-24,Anantnag,Jammu and Kashmir,7758,68.7
+2024-25,Anantnag,Jammu and Kashmir,8235,59.8
+2025-26,Anantnag,Jammu and Kashmir,7957,95.5
+2021-22,Bandipore,Jammu and Kashmir,4194,65.2
+2022-23,Bandipore,Jammu and Kashmir,4580,71.6
+2023-24,Bandipora,Jammu and Kashmir,4630,61.0
+2024-25,Bandipore,Jammu and Kashmir,4570,57.3
+2025,Badipore,Jammu and Kashmir,4803,90.6
+2021-22,Baramulla,Jammu and Kashmir,2385,83.5
+2022-23,Baramulla,Jammu and Kashmir,2614,81.1
+2023-24,Baramulla,Jammu and Kashmir,2448,71.9
+2024,Baramulla,Jammu and Kashmir,2452,
+2025-26,Baramulla,Jammu and Kashmir,2857,72.5
+2021-22,Budgam,Jammu and Kashmir,11292,65.5
+2022-23,Budgam,Jammu and Kashmir,12979,70.0
+2023-24,Budgam,Jammu and Kashmir,14038,66.4
+2024-25,Budgam,Jammu and Kashmir,15218,90.1
+2025-26,Badgam,Jammu and Kashmir,20202,87.6
+2021-22,Doda,Jammu and Kashmir,20411,74.2
+2022,Doda,Jammu and Kashmir,24601,62.5
+2023-24,Doda,Jammu and Kashmir,31242,59.6
+2024,DODA,Jammu and Kashmir,25853,78.6
+2025-26,Doda,Jammu and Kashmir,30934,75.0
+2021-22,Ganderbal,Jammu and Kashmir,4100,65.1
+2022-23,Ganderbal,Jammu and Kashmir,5382,58.4
+2023,Ganderbal,Jammu and Kashmir,4974,83.4
+2024-25,Ganderbal,Jammu and Kashmir,4811,91.7
+2025-26,Ganderbal,Jammu and Kashmir,6194,64.1
+2021-22,Jammu,Jammu and Kashmir,32115,73.8
+2022-23,Jammu,Jammu and Kashmir,28854,72.1
+2023-24,Jammu,Jammu and Kashmir,29746,94.3
+2024,Jammu,Jammu and Kashmir,41800,92.0
+2025-26,Jammu,Jammu and Kashmir,35078,62.3
+2021-22,Kargil,Jammu and Kashmir,1974,86.9
+2022-23,Kargil,Jammu and Kashmir,2428,81.9
+2023-24,Kargil,Jammu and Kashmir,2956,85.3
+2024-25,Kargil,Jammu and Kashmir,2342,89.2
+2025-26,Kargil,Jammu and Kashmir,2588,76.8
+2021,Kathua,Jammu and Kashmir,1812,80.4
+2022-23,Kathua,Jammu and Kashmir,1871,82.7
+2023-24,Kathua,Jammu and Kashmir,1739,96.0
+2024-25,Kathua,Jammu and Kashmir,2287,74.2
+2025-26,Kathua,Jammu and Kashmir,2170,93.8
+2021-22,Kishtwar,Jammu and Kashmir,6868,68.1
+2022-23,Kishtwar,Jammu and Kashmir,6139,87.4
+2023-24,Kishtwar,Jammu and Kashmir,6773,87.6
+2024-25,Kishtwar,Jammu and Kashmir,6919,92.6
+2025-26,Kishtwar,Jammu and Kashmir,6623,73.6
+2021-22,Kulgam,Jammu and Kashmir,6680,86.7
+2022-23,Kulgam,Jammu and Kashmir,6681,80.5
+2023-24,Kulgam,Jammu and Kashmir,6842,90.2
+2024-25,Kulgam,Jammu and Kashmir,6282,67.7
+2025-26,Kulgam,Jammu and Kashmir,7726,86.7
+2021-22,Kupwara,Jammu and Kashmir,5985,61.8
+2022-23,Kupwara,Jammu and Kashmir,6922,61.3
+2023-24,KUPWARA,Jammu and Kashmir,6657,95.7
+2024,Kupwara,Jammu and Kashmir,7685,71.4
+2025,Kupwara,Jammu and Kashmir,8877,58.2
+2021-22,Leh,Jammu and Kashmir,4552,61.8
+2022-23,Leh,Jammu and Kashmir,4680,94.5
+2023,Leh,Jammu and Kashmir,4876,90.3
+2024-25,Leh,Jammu and Kashmir,5676,74.3
+2025,Leh,Jammu and Kashmir,5717,84.6
+2021,Poonch,Jammu and Kashmir,9303,76.9
+2022-23,Poonch,Jammu and Kashmir,10820,60.1
+2023-24,Poonch,Jammu and Kashmir,11637,56.9
+2024-25,Poonch,Jammu and Kashmir,13631,90.1
+2025,Poonch,Jammu and Kashmir,11439,90.3
+2021-22,Pulwama,Jammu and Kashmir,2200,75.4
+2022,PULWAMA,Jammu and Kashmir,2179,61.2
+2023-24,Pulwama,Jammu and Kashmir,2416,56.1
+2024,Pulwama,Jammu and Kashmir,2101,88.9
+2025-26,Pulwama,Jammu and Kashmir,2163,73.0
+2021-22,Rajouri,Jammu and Kashmir,18471,94.7
+2022-23,Rajouri,Jammu and Kashmir,24670,55.6
+2023,rajouri,Jammu and Kashmir,22065,86.0
+2024-25,Rajouri,Jammu and Kashmir,23273,66.4
+2025,Rajouri,Jammu and Kashmir,25303,88.1
+2021,Ramban,Jammu and Kashmir,6407,88.1
+2022-23,Ramban,Jammu and Kashmir,6779,69.2
+2023-24,Ramban,Jammu and Kashmir,7328,84.7
+2024-25,Ramban,Jammu and Kashmir,8085,80.3
+2025,Ramban,Jammu and Kashmir,8136,76.8
+2021-22,REASI,Jammu and Kashmir,10759,67.6
+2022-23,Reasi,Jammu and Kashmir,15223,89.3
+2023-24,Reasi,Jammu and Kashmir,12413,79.4
+2024-25,Reasi,Jammu and Kashmir,13575,55.7
+2025,Reasi,Jammu and Kashmir,15669,58.6
+2021,Samba,Jammu and Kashmir,17911,77.1
+2022-23,Samba,Jammu and Kashmir,16059,89.3
+2023-24,Samba,Jammu and Kashmir,19056,
+2024-25,SAMBA,Jammu and Kashmir,17442,59.5
+2025,Samba,Jammu and Kashmir,25738,89.8
+2021,Sopian,Jammu and Kashmir,12322,68.5
+2022-23,Shopian,Jammu and Kashmir,11456,73.5
+2023,Shopian,Jammu and Kashmir,11839,66.9
+2024-25,Shopian,Jammu and Kashmir,11398,70.8
+2025-26,Shopian,Jammu and Kashmir,13829,73.8
+2021-22,Srinagar,Jammu and Kashmir,7073,71.0
+2022-23,Srinagar,Jammu and Kashmir,7679,74.1
+2023-24,Srinagar,Jammu and Kashmir,7440,74.0
+2024,Srinagar,Jammu and Kashmir,7476,63.3
+2025,Srinagar,Jammu and Kashmir,8300,82.1
+2021-22,Udhampur,Jammu and Kashmir,8576,94.3
+2022-23,Udhampur,Jammu and Kashmir,9436,55.7
+2023-24,Udhampur,Jammu and Kashmir,10634,56.0
+2024-25,Udhampur,Jammu and Kashmir,10952,55.8
+2025,Udhampur,Jammu and Kashmir,10667,69.6
+2021-22,Bokaro,Jharkhand,8897,79.8
+2022,Bokaro,Jharkhand,9934,75.1
+2023-24,Bokaro,Jharkhand,9885,92.9
+2024-25,Bokaro,Jharkhand,10979,81.3
+2025-26,Bokaro,Jharkhand,11818,60.5
+2021-22,Chatra,Jharkhand,20638,88.3
+2022-23,Chatra,Jharkhand,21928,88.6
+2023-24,Chatra,Jharkhand,24156,73.5
+2024,Chatra,Jharkhand,24025,55.3
+2025-26,Chatra,Jharkhand,28332,95.2
+2021-22,Deoghar,Jharkhand,6306,81.3
+2022-23,Deoghar,Jharkhand,6365,88.0
+2023-24,Deoghar,Jharkhand,5892,76.7
+2024-25,Deoghar,Jharkhand,8510,76.9
+2025,Deoghar,Jharkhand,8153,62.2
+2021-22,Dhanbad,Jharkhand,9366,77.2
+2022-23,DHANBAD,Jharkhand,12267,
+2023-24,Dhanbad,Jharkhand,12423,77.3
+2024-25,Dhanbad,Jharkhand,14413,69.9
+2025,Dhanbad,Jharkhand,14205,56.9
+2021-22,Dumka,Jharkhand,6340,86.2
+2022-23,dumka,Jharkhand,6933,88.4
+2023-24,Dumka,Jharkhand,7683,74.5
+2024,Dumka,Jharkhand,8403,93.6
+2025-26,Dumka,Jharkhand,8752,86.7
+2021-22,East Singhbhum,Jharkhand,25535,63.1
+2022-23,East Singhbhum,Jharkhand,20486,88.8
+2023-24,  East Singhbhum ,Jharkhand,27396,91.5
+2024-25,East Singhbhum,Jharkhand,26997,64.5
+2025-26,East Singhbhum,Jharkhand,23565,91.0
+2021-22,Garhwa,Jharkhand,2600,72.5
+2022-23,Garhwa,Jharkhand,3372,59.2
+2023-24,Garhwa,Jharkhand,3809,81.7
+2024-25,Garhwa,Jharkhand,3698,61.8
+2025,Garhwa,Jharkhand,4277,90.3
+2021-22,  Giridih ,Jharkhand,22982,85.5
+2022-23,Giridih,Jharkhand,24163,
+2023-24,GIRIDIH,Jharkhand,25224,88.5
+2024-25,Giridih,Jharkhand,27400,85.0
+2025-26,Giridih,Jharkhand,29028,75.7
+2021-22,Godda,Jharkhand,6415,74.9
+2022-23,Godda,Jharkhand,5638,91.9
+2023,Godda,Jharkhand,6629,64.8
+2024-25,Godda,Jharkhand,6102,74.2
+2025-26,Godda,Jharkhand,6928,76.6
+2021-22,Gumla,Jharkhand,1711,62.4
+2022-23,Gumla,Jharkhand,1777,72.6
+2023,Gumla,Jharkhand,1964,81.2
+2024-25,Gumla,Jharkhand,2156,77.4
+2025-26,Gumla,Jharkhand,2124,87.7
+2021-22,Hazaribag,Jharkhand,13931,57.9
+2022-23,Hazaribag,Jharkhand,13761,62.6
+2023-24,Hazaribag,Jharkhand,14282,71.9
+2024-25,Hazaribag,Jharkhand,15683,69.9
+2025,Hazaribagh,Jharkhand,16488,76.9
+2021,Jamtara,Jharkhand,4360,60.4
+2022-23,JAMTARA,Jharkhand,4361,91.6
+2023-24,Jamtara,Jharkhand,5253,86.5
+2024-25,Jamtara,Jharkhand,4679,75.9
+2025-26,Jamtara,Jharkhand,5162,58.3
+2021-22,khunti,Jharkhand,9224,74.8
+2022-23,Khunti,Jharkhand,10489,89.6
+2023-24,KHUNTI,Jharkhand,8292,63.4
+2024,Khunti,Jharkhand,12586,84.9
+2025-26,Khunti,Jharkhand,17736,65.4
+2021-22,Koderma,Jharkhand,5104,60.9
+2022,KODERMA,Jharkhand,5928,80.7
+2023-24,  Koderma ,Jharkhand,5356,69.4
+2024-25,Koderma,Jharkhand,6016,65.5
+2025,KODERMA,Jharkhand,6078,93.4
+2021,Latehar,Jharkhand,10274,63.3
+2022-23,Latehar,Jharkhand,10079,60.0
+2023-24,Latehar,Jharkhand,10946,84.1
+2024-25,Latehar,Jharkhand,12519,77.6
+2025-26,Latehar,Jharkhand,10343,58.9
+2021-22,Lohardaga,Jharkhand,1898,58.3
+2022-23,Lohardaga,Jharkhand,1843,78.7
+2023-24,Lohardaga,Jharkhand,2239,84.1
+2024-25,Lohardaga,Jharkhand,2687,
+2025-26,Lohardaga,Jharkhand,2714,85.1
+2021-22,Pakur,Jharkhand,2864,57.5
+2022,Pakur,Jharkhand,3158,77.6
+2023,Pakur,Jharkhand,3370,89.7
+2024-25,Pakur,Jharkhand,4506,69.8
+2025,Pakur,Jharkhand,3708,58.9
+2021-22,Palamu,Jharkhand,823,95.7
+2022,Palamu,Jharkhand,1044,78.6
+2023-24,Palamau,Jharkhand,1027,90.6
+2024-25,Palamu,Jharkhand,1290,94.0
+2025-26,Palamu,Jharkhand,1299,86.2
+2021-22,Ramgarh,Jharkhand,2991,68.9
+2022-23,Ramgarh,Jharkhand,2717,71.7
+2023-24,Ramgarh,Jharkhand,3430,74.4
+2024,Ramgarh,Jharkhand,3300,66.7
+2025-26,Ramgarh,Jharkhand,3559,86.4
+2021-22,Ranchi,Jharkhand,9365,74.7
+2022-23,Ranchi,Jharkhand,10005,92.3
+2023-24,Ranchi,Jharkhand,9247,
+2024-25,Ranchi,Jharkhand,12605,60.4
+2025,RANCHI,Jharkhand,10770,90.8
+2021,Sahibganj,Jharkhand,10687,90.0
+2022-23,Sahibganj,Jharkhand,13714,60.8
+2023-24,Sahibganj,Jharkhand,13006,90.7
+2024-25,Sahibganj,Jharkhand,14604,73.0
+2025-26,Sahibganj,Jharkhand,17499,92.0
+2021,Seraikela-Kharsawan,Jharkhand,10372,59.0
+2022-23,Seraikela-Kharsawan,Jharkhand,12892,89.2
+2023,Seraikela-Kharsawan,Jharkhand,15070,75.7
+2024-25,Seraikela-Kharsawan,Jharkhand,15941,57.1
+2025-26,Seraikela-Kharsawan,Jharkhand,14733,87.8
+2021,Simdega,Jharkhand,2442,66.8
+2022-23,Simdega,Jharkhand,2811,63.4
+2023-24,Simdega,Jharkhand,2713,
+2024,Simdega,Jharkhand,3003,60.2
+2025-26,Simdega,Jharkhand,3071,85.5
+2021,West Singhbhum,Jharkhand,7647,85.4
+2022-23,West Singhbhum,Jharkhand,7663,90.3
+2023-24,WEST SINGHBHUM,Jharkhand,6294,79.5
+2024-25,West Singhbhum,Jharkhand,6026,87.3
+2025,West Singhbhum,Jharkhand,7652,62.1
+2021,BAGALKOT,Karnataka,3935,86.9
+2022-23,Bagalkot,Karnataka,4993,67.2
+2023-24,Bagalkot,Karnataka,5158,68.9
+2024,Bagalkot,Karnataka,4752,71.7
+2025,Bagalkot,Karnataka,6184,62.7
+2021,Ballari (Bellary),Karnataka,2364,80.1
+2022-23,Ballari (Bellary),Karnataka,2627,81.7
+2023-24,Ballari (Bellary),Karnataka,2382,75.5
+2024,Ballari (Bellary),Karnataka,2624,74.2
+2025-26,Ballari (Bellary),Karnataka,2998,63.0
+2021-22,Belagavi (Belgaum),Karnataka,17542,88.7
+2022-23,Belagavi (Belgaum),Karnataka,18734,56.5
+2023,Belgaum,Karnataka,20795,59.6
+2024,Belagavi (Belgaum),Karnataka,22808,88.3
+2025,Belagavi (Belgaum),Karnataka,22453,69.9
+2021-22,Bengaluru (Bangalore) Rural,Karnataka,10401,89.7
+2022-23,Bengaluru (Bangalore) Rural,Karnataka,12676,91.5
+2023-24,Bengaluru (Bangalore) Rural,Karnataka,8080,60.3
+2024-25,Bengaluru (Bangalore) Rural,Karnataka,11908,81.6
+2025,Bengaluru (Bangalore) Rural,Karnataka,10120,78.9
+2021-22,BANGALORE,Karnataka,9646,85.4
+2022,Bengaluru (Bangalore) Urban,Karnataka,11612,77.0
+2023,Bengaluru (Bangalore) Urban,Karnataka,9621,81.7
+2024,Bengaluru (Bangalore) Urban,Karnataka,10206,75.8
+2025-26,Bengaluru (Bangalore) Urban,Karnataka,12570,95.5
+2021-22,Bidar,Karnataka,4026,80.8
+2022,BIDAR,Karnataka,5771,83.5
+2023-24,Bidar,Karnataka,6213,63.0
+2024-25,Bidar,Karnataka,6023,64.9
+2025-26,Bidar,Karnataka,5908,55.4
+2021,Chamarajanagar,Karnataka,6449,66.0
+2022-23,Chamarajanagar,Karnataka,5866,58.8
+2023-24,Chamrajanagar,Karnataka,7291,77.0
+2024,Chamarajanagar,Karnataka,7814,83.1
+2025-26,Chamarajanagar,Karnataka,9232,57.1
+2021-22,CHIKBALLAPUR,Karnataka,1511,85.5
+2022-23,Chikballapur,Karnataka,1505,79.6
+2023-24,Chikballapur,Karnataka,1877,82.7
+2024,Chikballapur,Karnataka,1727,57.0
+2025,Chikballapur,Karnataka,1783,59.7
+2021-22,Chikkamagaluru (Chikmagalur),Karnataka,8718,92.8
+2022-23,Chikkamagaluru (Chikmagalur),Karnataka,7430,94.5
+2023-24,Chikkamagaluru  (Chikmagalur),Karnataka,9384,
+2024,Chikkamagaluru (Chikmagalur),Karnataka,11017,82.6
+2025,Chikkamagaluru (Chikmagalur),Karnataka,10100,70.4
+2021-22,Chitradurga,Karnataka,3146,62.9
+2022-23,Chitradurga,Karnataka,3325,90.4
+2023-24,CHITRADURGA,Karnataka,2916,70.4
+2024-25,Chitradurga,Karnataka,3867,76.2
+2025-26,chitradurga,Karnataka,3954,71.4
+2021,Dakshina Kannada,Karnataka,4807,68.1
+2022,Dakshina Kannada,Karnataka,5503,68.8
+2023,Dakshina Kannada,Karnataka,4911,93.4
+2024-25,Dakshina Kannada,Karnataka,4408,69.0
+2025-26,Dakshina Kannada,Karnataka,5907,94.6
+2021-22,DAVANGERE,Karnataka,5404,88.0
+2022-23,Davangere,Karnataka,6002,91.0
+2023-24,Davangere,Karnataka,6323,87.4
+2024-25,Davangere,Karnataka,7202,80.1
+2025-26,Davangere,Karnataka,6976,92.0
+2021-22,DHARWAD,Karnataka,17363,
+2022-23,Dharwad,Karnataka,20561,62.6
+2023,Dharwad,Karnataka,20061,85.5
+2024-25,Dharwad,Karnataka,29956,68.0
+2025-26,Dharwad,Karnataka,26744,80.3
+2021-22,Gadag,Karnataka,12096,94.8
+2022-23,Gadag,Karnataka,11756,80.6
+2023-24,Gadag,Karnataka,15340,59.9
+2024-25,Gadag,Karnataka,14136,71.8
+2025-26,Gadag,Karnataka,15642,90.0
+2021,Hassan,Karnataka,4356,85.5
+2022-23,Hassan,Karnataka,4277,83.9
+2023,Hassan,Karnataka,4669,74.6
+2024-25,Hassan,Karnataka,5497,95.5
+2025,Hassan,Karnataka,6191,78.7
+2021-22,Haveri,Karnataka,10461,62.4
+2022-23,Haveri,Karnataka,7979,58.1
+2023-24,Haveri,Karnataka,8536,68.8
+2024,HAVERI,Karnataka,8569,55.9
+2025-26,Haveri,Karnataka,12268,80.7
+2021,Kalaburagi (Gulbarga),Karnataka,18309,70.1
+2022,Gulbarga,Karnataka,21394,57.9
+2023-24,kalaburagi (gulbarga),Karnataka,16874,78.4
+2024,Kalaburagi (Gulbarga),Karnataka,21687,67.5
+2025-26,Kalaburagi (Gulbarga),Karnataka,21672,73.1
+2021-22,Kodagu,Karnataka,11333,60.8
+2022-23,KODAGU,Karnataka,14159,64.7
+2023-24,Kodagu,Karnataka,12502,64.4
+2024-25,Kodagu,Karnataka,14194,72.2
+2025-26,KODAGU,Karnataka,17472,57.0
+2021,Kolar,Karnataka,5326,61.6
+2022,Kolar,Karnataka,6658,
+2023,Kolar,Karnataka,7526,55.0
+2024-25,Kolar,Karnataka,8682,94.7
+2025,Kolar,Karnataka,10757,70.8
+2021,Koppal,Karnataka,4400,87.1
+2022-23,Koppal,Karnataka,4738,72.4
+2023-24,Koppal,Karnataka,4358,72.8
+2024-25,Koppal,Karnataka,6314,71.1
+2025-26,Koppal,Karnataka,6246,80.8
+2021-22,Mandya,Karnataka,17340,62.3
+2022-23,Mandya,Karnataka,18184,74.6
+2023-24,Mandya,Karnataka,21828,87.0
+2024-25,Mandya,Karnataka,18916,71.5
+2025-26,Mandya,Karnataka,22899,90.9
+2021,Mysuru (Mysore),Karnataka,7284,74.1
+2022-23,Mysuru (Mysore),Karnataka,7354,70.8
+2023-24,Mysuru (Mysore),Karnataka,6045,68.1
+2024,Mysuru (Mysore),Karnataka,7833,81.2
+2025,Mysuru (Mysore),Karnataka,7586,87.6
+2021-22,Raichur,Karnataka,25443,70.8
+2022,Raichur,Karnataka,27758,80.1
+2023-24,Raichur,Karnataka,31758,76.2
+2024,Raichur,Karnataka,31767,77.3
+2025-26,Raichur,Karnataka,33901,63.8
+2021-22,Ramanagara,Karnataka,7143,84.8
+2022-23,Ramanagara,Karnataka,6446,63.1
+2023,Ramanagara,Karnataka,8267,79.0
+2024-25,Ramanagara,Karnataka,7178,64.4
+2025-26,RAMANAGARA,Karnataka,9667,86.4
+2021-22,Shivamogga (Shimoga),Karnataka,11582,78.4
+2022-23,Shivamogga (Shimoga),Karnataka,16062,
+2023,Shivamogga (Shimoga),Karnataka,15061,79.1
+2024-25,Shivamogga (Shimoga),Karnataka,17165,62.5
+2025-26,Shivamogga (Shimoga),Karnataka,14578,72.9
+2021,Tumakuru (Tumkur),Karnataka,4936,83.2
+2022-23,Tumakuru (Tumkur),Karnataka,5686,81.2
+2023,Tumakuru (Tumkur),Karnataka,5516,78.3
+2024-25,Tumakuru (Tumkur),Karnataka,4886,91.7
+2025-26,Tumakuru (Tumkur),Karnataka,5782,72.2
+2021-22,Udupi,Karnataka,17802,79.7
+2022-23,Udupi,Karnataka,25343,63.8
+2023-24,Udupi,Karnataka,20449,65.9
+2024-25,Udupi,Karnataka,22098,56.5
+2025-26,Udupi,Karnataka,24084,67.2
+2021-22,Uttara Kannada (Karwar),Karnataka,7026,70.3
+2022-23,Uttara Kannada (Karwar),Karnataka,5226,72.4
+2023-24,Uttara Kannada (Karwar),Karnataka,6627,80.6
+2024-25,Uttara Kannada (Karwar),Karnataka,7314,62.4
+2025-26,Uttara Kannada (Karwar),Karnataka,8917,56.3
+2021-22,Vijayapura (Bijapur),Karnataka,24640,63.9
+2022-23,Vijayapura (Bijapur),Karnataka,29415,58.6
+2023-24,Vijayapura (Bijapur),Karnataka,31441,83.1
+2024-25,Vijayapura (Bijapur),Karnataka,30140,73.4
+2025-26,Vijayapura (Bijapur),Karnataka,39468,82.1
+2021-22,Yadgir,Karnataka,3624,56.0
+2022-23,Yadgir,Karnataka,2986,90.5
+2023-24,Yadgir,Karnataka,3944,92.1
+2024-25,Yadgir,Karnataka,4668,70.6
+2025,Yadgir,Karnataka,4044,74.9
+2021-22,Alappuzha,Kerala,23951,89.6
+2022,Alappuzha,Kerala,24400,61.1
+2023-24,Alappuzha,Kerala,23493,95.7
+2024-25,Alappuzha,Kerala,25805,76.9
+2025-26,Alappuzha,Kerala,22823,71.5
+2021-22,Ernakulam,Kerala,9831,87.2
+2022,Ernakulam,Kerala,10224,85.9
+2023-24,Ernakulam,Kerala,10386,64.1
+2024-25,Ernakulam,Kerala,11086,77.3
+2025-26,Ernakulam,Kerala,11938,79.5
+2021-22,Idukki,Kerala,3682,57.5
+2022-23,Idukki,Kerala,4209,90.0
+2023-24,Idukki,Kerala,4550,89.1
+2024-25,Idukki,Kerala,4746,68.7
+2025-26,Idukki,Kerala,6000,87.3
+2021-22,Kannur,Kerala,4520,81.6
+2022-23,Kannur,Kerala,4447,81.4
+2023-24,Kannur,Kerala,4085,73.5
+2024-25,Kannur,Kerala,5107,55.8
+2025,Kannur,Kerala,4046,85.8
+2021-22,Kasaragod,Kerala,6313,70.8
+2022-23,Kasaragod,Kerala,8121,87.9
+2023-24,Kasaragod,Kerala,7611,56.1
+2024-25,Kasaragod,Kerala,7176,92.2
+2025,Kasaragod,Kerala,7583,91.0
+2021-22,Kollam,Kerala,10761,67.5
+2022-23,Quilon,Kerala,11723,79.0
+2023-24,Kollam,Kerala,11069,75.2
+2024-25,Kollam,Kerala,12009,86.1
+2025,Kollam,Kerala,10558,78.3
+2021-22,Kottayam,Kerala,12264,85.7
+2022-23,Kottayam,Kerala,14134,93.2
+2023-24,Kottayam,Kerala,12764,92.2
+2024,Kottayam,Kerala,11864,74.9
+2025-26,Kottayam,Kerala,14611,70.6
+2021-22,Kozhikode,Kerala,4489,80.4
+2022-23,Kozhikode,Kerala,4997,83.3
+2023-24,kozhikode,Kerala,4791,95.6
+2024-25,Kozhikode,Kerala,5756,80.3
+2025,Kozhikode,Kerala,6178,76.3
+2021,Malappuram,Kerala,4530,84.8
+2022-23,Malappuram,Kerala,4874,68.2
+2023-24,Malappuram,Kerala,5455,59.0
+2024-25,Malappuram,Kerala,4741,69.7
+2025-26,Malappuram,Kerala,6011,83.7
+2021-22,Palakkad,Kerala,28104,81.6
+2022,Palakkad,Kerala,24416,70.6
+2023-24,Palakkad,Kerala,35069,90.7
+2024-25,Palakkad,Kerala,34996,75.0
+2025,PALAKKAD,Kerala,32771,69.8
+2021-22,PATHANAMTHITTA,Kerala,28161,84.1
+2022-23,PATHANAMTHITTA,Kerala,25196,77.7
+2023-24,PATHANAMTHITTA,Kerala,33950,80.5
+2024,Pathanamthitta,Kerala,34619,79.1
+2025-26,Pathanamthitta,Kerala,31013,76.7
+2021-22,Thiruvananthapuram,Kerala,9339,55.5
+2022,Thiruvananthapuram,Kerala,9172,86.8
+2023-24,Thiruvananthapuram,Kerala,12680,60.6
+2024-25,Trivandrum,Kerala,11865,72.3
+2025,Thiruvananthapuram,Kerala,15565,56.9
+2021-22,Thrissur,Kerala,6826,55.5
+2022,Thrissur,Kerala,6719,60.9
+2023-24,Thrissur,Kerala,6948,
+2024-25,Thrissur,Kerala,8816,61.0
+2025-26,Thrissur,Kerala,6857,76.3
+2021-22,Wayanad,Kerala,7056,70.2
+2022,Wayanad,Kerala,7850,
+2023,Wayanad,Kerala,9047,89.0
+2024-25,Wayanad,Kerala,8691,65.8
+2025-26,Wayanad,Kerala,7690,65.3
+2021-22,Agatti,Lakshadweep (UT),14288,83.6
+2022-23,Agatti,Lakshadweep (UT),13927,75.8
+2023-24,Agatti,Lakshadweep (UT),15119,69.3
+2024-25,Agatti,Lakshadweep (UT),20488,72.7
+2025-26,Agatti,Lakshadweep (UT),16254,79.1
+2021-22,Amini,Lakshadweep (UT),2386,61.7
+2022,Amini,Lakshadweep (UT),2553,
+2023-24,Amini,Lakshadweep (UT),3366,76.4
+2024-25,Amini,Lakshadweep (UT),2985,79.1
+2025,Amini,Lakshadweep (UT),3311,56.4
+2021-22,Androth,Lakshadweep (UT),6734,84.7
+2022,Androth,Lakshadweep (UT),6224,87.2
+2023-24,ANDROTH,Lakshadweep (UT),6318,89.4
+2024-25,Androth,Lakshadweep (UT),5574,75.8
+2025-26,Androth,Lakshadweep (UT),8557,88.4
+2021-22,Bithra,Lakshadweep (UT),1774,65.0
+2022-23,Bithra,Lakshadweep (UT),1595,56.7
+2023-24,Bithra,Lakshadweep (UT),2011,59.3
+2024,Bithra,Lakshadweep (UT),2263,74.6
+2025-26,Bithra,Lakshadweep (UT),2154,60.2
+2021-22,Chethlath,Lakshadweep (UT),8363,90.2
+2022-23,Chethlath,Lakshadweep (UT),7749,68.1
+2023-24,Chethlath,Lakshadweep (UT),9999,60.4
+2024,Chethlath,Lakshadweep (UT),9746,61.4
+2025-26,Chethlath,Lakshadweep (UT),9402,64.4
+2021-22,Kavaratti,Lakshadweep (UT),11497,77.5
+2022,Kavaratti,Lakshadweep (UT),15355,63.8
+2023,Kavaratti,Lakshadweep (UT),15056,82.2
+2024-25,Kavaratti,Lakshadweep (UT),14693,93.6
+2025-26,Kavaratti,Lakshadweep (UT),18681,74.4
+2021,Kadmath,Lakshadweep (UT),6344,67.2
+2022-23,Kadmath,Lakshadweep (UT),5633,79.3
+2023,Kadmath,Lakshadweep (UT),5525,69.8
+2024,  Kadmath ,Lakshadweep (UT),6636,74.5
+2025-26,Kadmath,Lakshadweep (UT),8393,89.5
+2021,Kalpeni,Lakshadweep (UT),20929,68.4
+2022,Kalpeni,Lakshadweep (UT),26921,78.1
+2023-24,Kalpeni,Lakshadweep (UT),30958,58.2
+2024,Kalpeni,Lakshadweep (UT),35498,67.2
+2025-26,Kalpeni,Lakshadweep (UT),31251,55.5
+2021-22,Kilthan,Lakshadweep (UT),3951,60.6
+2022-23,Kilthan,Lakshadweep (UT),3891,90.2
+2023-24,Kilthan,Lakshadweep (UT),4291,68.6
+2024-25,Kilthan,Lakshadweep (UT),4704,67.6
+2025-26,Kilthan,Lakshadweep (UT),4469,82.4
+2021-22,Minicoy,Lakshadweep (UT),2264,79.3
+2022,Minicoy,Lakshadweep (UT),2155,60.5
+2023,Minicoy,Lakshadweep (UT),2250,77.1
+2024-25,Minicoy,Lakshadweep (UT),2774,68.4
+2025-26,Minicoy,Lakshadweep (UT),2428,69.7
+2021-22,Agar Malwa,Madhya Pradesh,8466,93.0
+2022,Agar Malwa,Madhya Pradesh,9292,86.9
+2023-24,Agar Malwa,Madhya Pradesh,9418,73.1
+2024,AGAR MALWA,Madhya Pradesh,9705,86.8
+2025-26,Agar Malwa,Madhya Pradesh,11811,94.0
+2021-22,Alirajpur,Madhya Pradesh,13470,86.2
+2022,Alirajpur,Madhya Pradesh,12879,85.4
+2023,Alirajpur,Madhya Pradesh,12692,60.2
+2024,Alirajpur,Madhya Pradesh,13847,58.8
+2025-26,Alirajpur,Madhya Pradesh,17110,94.5
+2021,Anuppur,Madhya Pradesh,18551,87.7
+2022,ANUPPUR,Madhya Pradesh,25689,82.4
+2023-24,Anuppur,Madhya Pradesh,23534,77.8
+2024-25,Anuppur,Madhya Pradesh,29936,77.2
+2025-26,Anuppur,Madhya Pradesh,30737,79.7
+2021-22,Ashoknagar,Madhya Pradesh,3942,85.0
+2022,Ashoknagar,Madhya Pradesh,5602,78.2
+2023-24,Ashoknagar,Madhya Pradesh,5846,66.1
+2024-25,Ashoknagar,Madhya Pradesh,5317,83.0
+2025,Ashoknagar,Madhya Pradesh,6009,75.6
+2021-22,Balaghat,Madhya Pradesh,14262,73.9
+2022-23,Balaghat,Madhya Pradesh,15106,90.7
+2023-24,Balaghat,Madhya Pradesh,16349,56.6
+2024-25,Balaghat,Madhya Pradesh,15585,90.7
+2025-26,Balaghat,Madhya Pradesh,16939,61.7
+2021,Barwani,Madhya Pradesh,6363,67.9
+2022-23,Barwani,Madhya Pradesh,6867,66.6
+2023-24,BARWANI,Madhya Pradesh,7854,83.1
+2024-25,Barwani,Madhya Pradesh,8938,94.5
+2025-26,BARWANI,Madhya Pradesh,9995,65.1
+2021-22,Betul,Madhya Pradesh,4037,76.7
+2022-23,Betul,Madhya Pradesh,4395,84.2
+2023-24,Betul,Madhya Pradesh,5524,68.9
+2024,BETUL,Madhya Pradesh,5265,74.0
+2025-26,Betul,Madhya Pradesh,5591,82.5
+2021-22,Bhind,Madhya Pradesh,27611,74.0
+2022-23,Bhind,Madhya Pradesh,25608,86.1
+2023-24,Bhind,Madhya Pradesh,23804,82.4
+2024-25,Bhind,Madhya Pradesh,27621,86.6
+2025-26,Bhind,Madhya Pradesh,35391,71.6
+2021-22,Bhopal,Madhya Pradesh,9263,84.4
+2022-23,Bhopal,Madhya Pradesh,8938,84.3
+2023,Bhopal,Madhya Pradesh,12297,85.9
+2024-25,Bhopal,Madhya Pradesh,9924,55.2
+2025,BHOPAL,Madhya Pradesh,8917,65.5
+2021,Burhanpur,Madhya Pradesh,1411,89.0
+2022-23,Burhanpur,Madhya Pradesh,1507,95.0
+2023-24,Burhanpur,Madhya Pradesh,1698,61.0
+2024-25,BURHANPUR,Madhya Pradesh,2200,78.1
+2025-26,Burhanpur,Madhya Pradesh,1733,72.8
+2021,Chhatarpur,Madhya Pradesh,28895,90.1
+2022-23,Chhatarpur,Madhya Pradesh,24106,64.8
+2023-24,Chhatarpur,Madhya Pradesh,29956,85.6
+2024,Chhatarpur,Madhya Pradesh,30593,95.6
+2025-26,Chhatarpur,Madhya Pradesh,34735,58.1
+2021-22,Chhindwara,Madhya Pradesh,27749,69.0
+2022-23,Chhindwara,Madhya Pradesh,23377,75.1
+2023-24,Chhindwara,Madhya Pradesh,23520,66.3
+2024-25,Chhindwara,Madhya Pradesh,26242,94.8
+2025-26,Chhindwara,Madhya Pradesh,26184,68.2
+2021,Damoh,Madhya Pradesh,4320,77.8
+2022-23,Damoh,Madhya Pradesh,4766,77.0
+2023,Damoh,Madhya Pradesh,5755,58.9
+2024-25,Damoh,Madhya Pradesh,5463,92.8
+2025-26,DAMOH,Madhya Pradesh,5347,78.1
+2021-22,Datia,Madhya Pradesh,9874,82.9
+2022-23,Datia,Madhya Pradesh,11604,55.5
+2023,Datia,Madhya Pradesh,10815,69.3
+2024-25,Datia,Madhya Pradesh,12506,64.2
+2025-26,Datia,Madhya Pradesh,13807,73.6
+2021-22,Dewas,Madhya Pradesh,8942,89.3
+2022,Dewas,Madhya Pradesh,8128,57.1
+2023-24,Dewas,Madhya Pradesh,11027,76.0
+2024,Dewas,Madhya Pradesh,10381,93.7
+2025-26,Dewas,Madhya Pradesh,13498,80.3
+2021-22,Dhar,Madhya Pradesh,6764,85.2
+2022-23,Dhar,Madhya Pradesh,6157,79.7
+2023,Dhar,Madhya Pradesh,6312,90.3
+2024-25,Dhar,Madhya Pradesh,6771,90.7
+2025-26,Dhar,Madhya Pradesh,7881,93.0
+2021,Dindori,Madhya Pradesh,4154,93.7
+2022,Dindori,Madhya Pradesh,5127,68.6
+2023-24,Dindori,Madhya Pradesh,4668,70.0
+2024,Dindori,Madhya Pradesh,4747,87.8
+2025-26,Dindori,Madhya Pradesh,5842,62.9
+2021-22,Guna,Madhya Pradesh,3800,87.8
+2022,Guna,Madhya Pradesh,3052,83.3
+2023-24,Guna,Madhya Pradesh,4819,87.5
+2024-25,Guna,Madhya Pradesh,4842,78.0
+2025-26,Guna,Madhya Pradesh,4775,91.7
+2021-22,Gwalior,Madhya Pradesh,8246,83.1
+2022-23,Gwalior,Madhya Pradesh,10230,67.5
+2023-24,Gwalior,Madhya Pradesh,7745,86.1
+2024,Gwalior,Madhya Pradesh,8717,75.6
+2025-26,Gwalior,Madhya Pradesh,10530,86.7
+2021-22,Harda,Madhya Pradesh,14440,69.6
+2022-23,HARDA,Madhya Pradesh,16252,60.0
+2023-24,Harda,Madhya Pradesh,16508,61.3
+2024-25,HARDA,Madhya Pradesh,20718,71.1
+2025,Harda,Madhya Pradesh,16121,80.7
+2021-22,Hoshangabad,Madhya Pradesh,7444,85.9
+2022-23,Hoshangabad,Madhya Pradesh,9147,88.2
+2023-24,Hoshangabad,Madhya Pradesh,8732,94.7
+2024-25,Hoshangabad,Madhya Pradesh,10600,91.6
+2025-26,Hoshangabad,Madhya Pradesh,10806,93.8
+2021-22,Indore,Madhya Pradesh,5089,73.6
+2022-23,Indore,Madhya Pradesh,5458,56.0
+2023,Indore,Madhya Pradesh,6041,63.8
+2024,INDORE,Madhya Pradesh,5022,66.3
+2025,Indore,Madhya Pradesh,5017,68.3
+2021-22,Jabalpur,Madhya Pradesh,17312,59.0
+2022-23,Jabalpur,Madhya Pradesh,16707,79.8
+2023-24,Jabalpur,Madhya Pradesh,14062,61.7
+2024-25,Jabalpur,Madhya Pradesh,15415,95.8
+2025-26,Jabalpur,Madhya Pradesh,13525,91.0
+2021-22,Jhabua,Madhya Pradesh,667,60.2
+2022-23,Jhabua,Madhya Pradesh,736,92.4
+2023,Jhabua,Madhya Pradesh,687,72.6
+2024-25,  Jhabua ,Madhya Pradesh,796,86.4
+2025-26,Jhabua,Madhya Pradesh,777,76.6
+2021,Katni,Madhya Pradesh,14686,74.4
+2022,Katni,Madhya Pradesh,12035,
+2023,Katni,Madhya Pradesh,15667,82.9
+2024-25,Katni,Madhya Pradesh,15417,78.3
+2025,KATNI,Madhya Pradesh,16236,88.4
+2021-22,Khandwa,Madhya Pradesh,1573,90.2
+2022-23,Khandwa,Madhya Pradesh,2005,56.8
+2023-24,khandwa,Madhya Pradesh,1906,90.0
+2024-25,Khandwa,Madhya Pradesh,2315,69.8
+2025-26,Khandwa,Madhya Pradesh,2436,63.8
+2021-22,Khargone,Madhya Pradesh,5164,76.4
+2022,Khargone,Madhya Pradesh,5415,62.8
+2023,Khargone,Madhya Pradesh,5679,60.6
+2024,Khargone,Madhya Pradesh,5659,69.5
+2025-26,khargone,Madhya Pradesh,6561,57.7
+2021-22,Mandla,Madhya Pradesh,2174,57.5
+2022,Mandla,Madhya Pradesh,2592,67.1
+2023-24,Mandla,Madhya Pradesh,2851,66.2
+2024-25,Mandla,Madhya Pradesh,3153,76.4
+2025-26,Mandla,Madhya Pradesh,3188,86.4
+2021-22,Mandsaur,Madhya Pradesh,2178,72.3
+2022-23,Mandsaur,Madhya Pradesh,2424,59.6
+2023-24,Mandsaur,Madhya Pradesh,2618,55.7
+2024-25,Mandsaur,Madhya Pradesh,2672,81.5
+2025-26,Mandsaur,Madhya Pradesh,2387,63.3
+2021,Morena,Madhya Pradesh,15488,
+2022-23,Morena,Madhya Pradesh,17437,91.0
+2023-24,Morena,Madhya Pradesh,16834,70.6
+2024-25,Morena,Madhya Pradesh,16130,86.8
+2025-26,Morena,Madhya Pradesh,20676,81.6
+2021-22,Narsinghpur,Madhya Pradesh,3400,57.2
+2022-23,Narsinghpur,Madhya Pradesh,3531,61.1
+2023-24,Narsinghpur,Madhya Pradesh,3353,66.7
+2024-25,Narsinghpur,Madhya Pradesh,3834,84.1
+2025-26,Narsinghpur,Madhya Pradesh,3459,81.5
+2021,Neemuch,Madhya Pradesh,7059,55.0
+2022-23,neemuch,Madhya Pradesh,6438,75.1
+2023-24,Neemuch,Madhya Pradesh,7699,59.8
+2024-25,Neemuch,Madhya Pradesh,7041,93.1
+2025-26,Neemuch,Madhya Pradesh,8187,79.0
+2021-22,Panna,Madhya Pradesh,5088,66.4
+2022-23,Panna,Madhya Pradesh,6128,55.9
+2023-24,Panna,Madhya Pradesh,5445,78.4
+2024-25,Panna,Madhya Pradesh,6785,88.9
+2025-26,Panna,Madhya Pradesh,6022,60.9
+2021-22,Raisen,Madhya Pradesh,7079,72.2
+2022-23,Raisen,Madhya Pradesh,8621,63.5
+2023,Raisen,Madhya Pradesh,12021,73.7
+2024,Raisen,Madhya Pradesh,9619,87.9
+2025-26,Raisen,Madhya Pradesh,11933,55.1
+2021,Rajgarh,Madhya Pradesh,7447,75.2
+2022-23,Rajgarh,Madhya Pradesh,8254,84.0
+2023-24,Rajgarh,Madhya Pradesh,9486,
+2024-25,Rajgarh,Madhya Pradesh,9260,85.9
+2025-26,Rajgarh,Madhya Pradesh,9748,61.7
+2021-22,Ratlam,Madhya Pradesh,3795,88.3
+2022-23,Ratlam,Madhya Pradesh,3420,74.6
+2023,Ratlam,Madhya Pradesh,4516,76.9
+2024-25,Ratlam,Madhya Pradesh,3982,73.2
+2025,Ratlam,Madhya Pradesh,4404,89.3
+2021,Rewa,Madhya Pradesh,16342,86.4
+2022-23,Rewa,Madhya Pradesh,18531,93.1
+2023,REWA,Madhya Pradesh,19004,92.6
+2024-25,REWA,Madhya Pradesh,21410,61.9
+2025,Rewa,Madhya Pradesh,21946,62.5
+2021-22,Sagar,Madhya Pradesh,3258,83.2
+2022-23,Sagar,Madhya Pradesh,4019,76.6
+2023-24,Sagar,Madhya Pradesh,4600,66.8
+2024-25,  Sagar ,Madhya Pradesh,5247,59.0
+2025-26,Sagar,Madhya Pradesh,5908,73.3
+2021,Satna,Madhya Pradesh,1746,71.5
+2022-23,Satna,Madhya Pradesh,2191,74.8
+2023-24,Satna,Madhya Pradesh,2112,69.3
+2024-25,Satna,Madhya Pradesh,2601,
+2025-26,Satna,Madhya Pradesh,2259,59.1
+2021,Sehore,Madhya Pradesh,4212,87.2
+2022,Sehore,Madhya Pradesh,3656,86.3
+2023,Sehore,Madhya Pradesh,4178,70.5
+2024,Sehore,Madhya Pradesh,4493,
+2025-26,Sehore,Madhya Pradesh,4230,65.2
+2021-22,Seoni,Madhya Pradesh,19677,72.0
+2022-23,Seoni,Madhya Pradesh,21244,86.6
+2023-24,Seoni,Madhya Pradesh,23631,84.2
+2024-25,Seoni,Madhya Pradesh,22916,95.1
+2025-26,Seoni,Madhya Pradesh,27043,66.6
+2021,Shahdol,Madhya Pradesh,10620,68.9
+2022-23,Shahdol,Madhya Pradesh,12608,91.9
+2023-24,Shahdol,Madhya Pradesh,11933,63.1
+2024-25,Shahdol,Madhya Pradesh,11311,93.2
+2025,Shahdol,Madhya Pradesh,14361,92.9
+2021-22,Shajapur,Madhya Pradesh,5022,77.7
+2022-23,Shajapur,Madhya Pradesh,4684,68.5
+2023-24,SHAJAPUR,Madhya Pradesh,6040,86.6
+2024,Shajapur,Madhya Pradesh,6126,76.8
+2025-26,Shajapur,Madhya Pradesh,7887,95.8
+2021-22,Sheopur,Madhya Pradesh,3864,93.2
+2022-23,Sheopur,Madhya Pradesh,4903,64.0
+2023-24,Sheopur,Madhya Pradesh,4685,70.3
+2024-25,Sheopur,Madhya Pradesh,4872,77.1
+2025,Sheopur,Madhya Pradesh,5417,64.9
+2021-22,Shivpuri,Madhya Pradesh,5035,85.0
+2022-23,Shivpuri,Madhya Pradesh,6048,90.8
+2023-24,Shivpuri,Madhya Pradesh,6155,78.0
+2024-25,Shivpuri,Madhya Pradesh,7034,70.0
+2025-26,Shivpuri,Madhya Pradesh,8024,74.7
+2021-22,Sidhi,Madhya Pradesh,45973,89.8
+2022-23,Sidhi,Madhya Pradesh,57683,68.1
+2023-24,Sidhi,Madhya Pradesh,43817,71.4
+2024-25,SIDHI,Madhya Pradesh,51983,95.9
+2025-26,Sidhi,Madhya Pradesh,68079,88.5
+2021-22,SINGRAULI,Madhya Pradesh,7939,82.6
+2022-23,Singrauli,Madhya Pradesh,8310,62.2
+2023,Singrauli,Madhya Pradesh,8623,82.8
+2024,Singrauli,Madhya Pradesh,9247,
+2025-26,Singrauli,Madhya Pradesh,11006,65.9
+2021-22,Tikamgarh,Madhya Pradesh,9589,65.1
+2022-23,Tikamgarh,Madhya Pradesh,9993,58.9
+2023-24,Tikamgarh,Madhya Pradesh,14509,79.9
+2024,TIKAMGARH,Madhya Pradesh,10688,65.4
+2025,Tikamgarh,Madhya Pradesh,13058,57.7
+2021,Ujjain,Madhya Pradesh,15891,82.5
+2022-23,Ujjain,Madhya Pradesh,15620,75.8
+2023,Ujjain,Madhya Pradesh,18456,75.3
+2024-25,Ujjain,Madhya Pradesh,19605,94.2
+2025-26,UJJAIN,Madhya Pradesh,19215,88.9
+2021-22,Umaria,Madhya Pradesh,6560,66.7
+2022,Umaria,Madhya Pradesh,6854,62.9
+2023-24,UMARIA,Madhya Pradesh,6881,94.0
+2024-25,Umaria,Madhya Pradesh,9184,59.2
+2025-26,Umaria,Madhya Pradesh,9467,82.6
+2021-22,Vidisha,Madhya Pradesh,4298,75.8
+2022-23,Vidisha,Madhya Pradesh,7302,80.8
+2023,Vidisha,Madhya Pradesh,6298,
+2024-25,Vidisha,Madhya Pradesh,6071,74.9
+2025-26,Vidisha,Madhya Pradesh,7564,69.9
+2021-22,Ahmednagar,Maharashtra,4435,60.7
+2022,Ahmednagar,Maharashtra,6561,82.6
+2023-24,Ahilyanagar,Maharashtra,6640,55.3
+2024-25,AHMEDNAGAR,Maharashtra,6313,57.6
+2025-26,Ahmednagar,Maharashtra,6917,58.0
+2021-22,Akola,Maharashtra,6214,75.1
+2022-23,Akola,Maharashtra,6348,94.2
+2023,Akola,Maharashtra,7222,67.3
+2024,Akola,Maharashtra,7353,72.7
+2025-26,Akola,Maharashtra,8845,55.1
+2021-22,Amravati,Maharashtra,6031,75.6
+2022-23,Amravati,Maharashtra,4765,85.0
+2023-24,Amravati,Maharashtra,5663,87.2
+2024-25,Amravati,Maharashtra,5370,69.2
+2025-26,amravati,Maharashtra,7799,60.9
+2021-22,Aurangabad,Maharashtra,12445,60.3
+2022-23,Chhatrapati Sambhajinagar,Maharashtra,12398,70.5
+2023-24,Aurangabad,Maharashtra,14560,58.7
+2024-25,Auranabad,Maharashtra,12303,65.3
+2025,Aurangabad,Maharashtra,14287,86.0
+2021,Beed,Maharashtra,7599,84.9
+2022,Beed,Maharashtra,7429,66.7
+2023-24,Bid,Maharashtra,7560,85.6
+2024,Beed,Maharashtra,8897,86.7
+2025,Beed,Maharashtra,9118,60.9
+2021-22,Bhandara,Maharashtra,17377,61.0
+2022,Bhandara,Maharashtra,19224,86.3
+2023-24,Bhandara,Maharashtra,24010,82.3
+2024-25,Bhandara,Maharashtra,18404,75.1
+2025-26,Bhandara,Maharashtra,22095,58.8
+2021,Buldhana,Maharashtra,7445,58.0
+2022-23,Buldhana,Maharashtra,9187,85.1
+2023-24,Buldhana,Maharashtra,10317,64.9
+2024-25,Buldhana,Maharashtra,9994,82.0
+2025-26,Buldhana,Maharashtra,9666,89.2
+2021-22,Chandrapur,Maharashtra,14000,78.8
+2022,Chandrapur,Maharashtra,15960,67.6
+2023-24,Chandrapur,Maharashtra,15582,84.5
+2024-25,Chandrapur,Maharashtra,18997,78.2
+2025,Chandrapur,Maharashtra,15763,84.7
+2021-22,Dhule,Maharashtra,1206,57.1
+2022-23,Dhule,Maharashtra,1196,67.5
+2023-24,Dhule,Maharashtra,1415,63.6
+2024-25,Dhule,Maharashtra,1518,57.6
+2025-26,Dhule,Maharashtra,1423,74.2
+2021-22,Gadchiroli,Maharashtra,17122,81.7
+2022-23,Gadchiroli,Maharashtra,17352,83.9
+2023-24,Gadchiroli,Maharashtra,14658,69.5
+2024-25,Gadchiroli,Maharashtra,20750,83.8
+2025-26,Gadchiroli,Maharashtra,23624,77.4
+2021-22,GONDIA,Maharashtra,7680,77.8
+2022,Gondia,Maharashtra,8200,56.4
+2023-24,Gondia,Maharashtra,9081,65.9
+2024,Gondia,Maharashtra,11569,87.9
+2025-26,GONDIA,Maharashtra,11114,86.4
+2021-22,Hingoli,Maharashtra,30102,64.5
+2022-23,Hingoli,Maharashtra,27533,68.5
+2023-24,Hingoli,Maharashtra,29405,80.7
+2024-25,Hingoli,Maharashtra,37786,82.7
+2025-26,Hingoli,Maharashtra,35460,76.6
+2021,Jalgaon,Maharashtra,529,70.8
+2022,Jalgaon,Maharashtra,721,82.1
+2023-24,Jalgaon,Maharashtra,805,92.0
+2024-25,Jalgaon,Maharashtra,741,79.7
+2025,Jalgaon,Maharashtra,736,91.2
+2021-22,Jalna,Maharashtra,28337,88.3
+2022,Jalna,Maharashtra,24298,92.9
+2023-24,Jalna,Maharashtra,29793,56.4
+2024,Jalna,Maharashtra,26577,57.4
+2025-26,Jalna,Maharashtra,37749,81.8
+2021,Kolhapur,Maharashtra,4611,74.2
+2022-23,Kolhapur,Maharashtra,6196,89.4
+2023-24,Kolhapur,Maharashtra,6423,91.4
+2024-25,Kolhapur,Maharashtra,5559,64.9
+2025-26,Kolhapur,Maharashtra,6167,58.9
+2021-22,Latur,Maharashtra,12829,89.0
+2022-23,Latur,Maharashtra,8929,83.7
+2023-24,Latur,Maharashtra,13195,74.3
+2024-25,Latur,Maharashtra,14457,91.9
+2025-26,Latur,Maharashtra,11107,85.0
+2021-22,Mumbai City,Maharashtra,2714,70.3
+2022-23,Mumbai City,Maharashtra,3312,68.5
+2023,Mumbai City,Maharashtra,3151,83.4
+2024,Mumbai City,Maharashtra,2807,
+2025-26,Mumbai City,Maharashtra,2854,64.4
+2021-22,Mumbai Suburban,Maharashtra,8321,61.2
+2022,Mumbai Suburban,Maharashtra,11281,94.9
+2023-24,Mumbai Suburban,Maharashtra,9699,58.9
+2024-25,Mumbai Suburban,Maharashtra,10360,72.9
+2025-26,Mumbai Suburban,Maharashtra,11446,69.8
+2021-22,Nagpur,Maharashtra,2988,82.5
+2022-23,Nagpur,Maharashtra,3612,59.6
+2023,Nagpur,Maharashtra,3426,88.9
+2024,Nagpur,Maharashtra,3280,85.5
+2025-26,Nagpur,Maharashtra,3878,68.7
+2021,Nanded,Maharashtra,4283,62.2
+2022-23,Nanded,Maharashtra,4239,66.2
+2023,Nanded,Maharashtra,5677,95.0
+2024,Nanded,Maharashtra,4610,70.3
+2025-26,Nanded,Maharashtra,5234,61.6
+2021-22,Nandurbar,Maharashtra,43406,95.4
+2022-23,Nandurbar,Maharashtra,64914,69.7
+2023-24,Nandurbar,Maharashtra,54026,65.6
+2024-25,Nandurbar,Maharashtra,59877,78.1
+2025-26,Nandurbar,Maharashtra,61629,63.5
+2021-22,Nashik,Maharashtra,6436,63.7
+2022-23,Nashik,Maharashtra,8287,90.8
+2023-24,NASHIK,Maharashtra,11262,86.5
+2024,Nashik,Maharashtra,8146,74.7
+2025,Nashik,Maharashtra,9892,89.8
+2021-22,Osmanabad,Maharashtra,5963,81.0
+2022-23,Osmanabad,Maharashtra,5311,57.4
+2023-24,Osmanabad,Maharashtra,7047,63.6
+2024-25,Osmanabad,Maharashtra,9324,70.9
+2025-26,Osmanabad,Maharashtra,7691,84.6
+2021-22,Palghar,Maharashtra,10233,60.8
+2022-23,Palghar,Maharashtra,10701,94.9
+2023-24,Palghar,Maharashtra,10460,66.3
+2024-25,Palghar,Maharashtra,10008,88.4
+2025-26,Palghar,Maharashtra,15490,94.0
+2021-22,Parbhani,Maharashtra,10175,70.1
+2022-23,Parbhani,Maharashtra,10295,79.6
+2023-24,Parbhani,Maharashtra,11734,68.0
+2024-25,Parbhani,Maharashtra,10683,59.5
+2025,Parbhani,Maharashtra,14431,67.6
+2021,Pune,Maharashtra,5210,62.2
+2022-23,Pune,Maharashtra,6047,88.8
+2023-24,Pune,Maharashtra,5636,77.2
+2024-25,Pune,Maharashtra,5760,72.4
+2025-26,Pune,Maharashtra,7093,84.3
+2021-22,Raigad,Maharashtra,17294,84.0
+2022,Raigad,Maharashtra,15419,82.9
+2023-24,Raigad,Maharashtra,17412,62.7
+2024,Raigad,Maharashtra,18490,86.4
+2025,Raigad,Maharashtra,20231,93.8
+2021-22,Ratnagiri,Maharashtra,54244,62.0
+2022-23,RATNAGIRI,Maharashtra,65150,68.2
+2023-24,Ratnagiri,Maharashtra,71656,65.5
+2024-25,Ratnagiri,Maharashtra,68953,73.4
+2025,Ratnagiri,Maharashtra,66306,68.5
+2021,sangli,Maharashtra,4363,61.5
+2022-23,Sangli,Maharashtra,6139,59.4
+2023,Sangli,Maharashtra,6086,89.3
+2024-25,Sangli,Maharashtra,5928,60.6
+2025-26,Sangli,Maharashtra,7720,93.2
+2021-22,Satara,Maharashtra,4818,68.1
+2022-23,Satara,Maharashtra,4660,89.8
+2023-24,SATARA,Maharashtra,6492,65.1
+2024-25,Satara,Maharashtra,5921,69.0
+2025-26,Satara,Maharashtra,6908,83.4
+2021-22,  Sindhudurg ,Maharashtra,22675,80.7
+2022-23,Sindhudurg,Maharashtra,23644,77.1
+2023-24,Sindhudurg,Maharashtra,21502,88.9
+2024-25,Sindhudurg,Maharashtra,27548,89.6
+2025-26,Sindhudurg,Maharashtra,25662,90.1
+2021,Solapur,Maharashtra,12608,86.6
+2022-23,Solapur,Maharashtra,12469,72.3
+2023,Solapur,Maharashtra,15375,91.5
+2024-25,solapur,Maharashtra,16748,74.5
+2025,Solapur,Maharashtra,15776,73.0
+2021-22,Thane,Maharashtra,24384,55.3
+2022-23,Thane,Maharashtra,24884,59.0
+2023-24,Thane,Maharashtra,25090,83.2
+2024-25,Thane,Maharashtra,30138,81.7
+2025-26,Thane,Maharashtra,28698,55.0
+2021-22,Wardha,Maharashtra,8363,85.0
+2022,WARDHA,Maharashtra,8470,85.0
+2023-24,Wardha,Maharashtra,8727,82.4
+2024-25,Wardha,Maharashtra,9888,77.0
+2025-26,Wardha,Maharashtra,9702,66.6
+2021-22,Washim,Maharashtra,2435,89.6
+2022-23,Washim,Maharashtra,2709,62.0
+2023-24,Washim,Maharashtra,2528,62.8
+2024-25,Washim,Maharashtra,2225,94.0
+2025-26,Washim,Maharashtra,3083,84.3
+2021,Yavatmal,Maharashtra,22662,93.6
+2022-23,Yavatmal,Maharashtra,22796,64.0
+2023-24,Yavatmal,Maharashtra,25980,
+2024-25,Yavatmal,Maharashtra,24129,72.7
+2025-26,Yavatmal,Maharashtra,25331,95.5
+2021-22,Bishnupur,Manipur,3114,80.4
+2022-23,Bishnupur,Manipur,3817,69.1
+2023-24,Bishnupur,Manipur,3658,68.2
+2024-25,Bishnupur,Manipur,3342,58.4
+2025-26,bishnupur,Manipur,3352,66.8
+2021-22,Chandel,Manipur,6992,
+2022-23,Chandel,Manipur,8048,62.4
+2023,Chandel,Manipur,7788,83.7
+2024-25,Chandel,Manipur,7570,81.5
+2025-26,Chandel,Manipur,8381,65.5
+2021,Churachandpur,Manipur,3564,71.7
+2022-23,Churachandpur,Manipur,4806,70.9
+2023-24,Churachandpur,Manipur,4463,69.5
+2024,Churachandpur,Manipur,4420,71.9
+2025-26,Churachandpur,Manipur,5798,58.5
+2021-22,Imphal East,Manipur,4861,95.9
+2022-23,Imphal East,Manipur,4570,77.9
+2023-24,Imphal East,Manipur,4648,70.1
+2024-25,Imphal East,Manipur,5608,87.5
+2025-26,Imphal East,Manipur,7384,68.6
+2021,Imphal West,Manipur,7519,63.1
+2022-23,Imphal West,Manipur,6671,59.6
+2023-24,Imphal West,Manipur,9172,69.1
+2024-25,Imphal West,Manipur,10868,72.3
+2025,Imphal West,Manipur,9301,92.7
+2021-22,Jiribam,Manipur,9049,63.1
+2022-23,Jiribam,Manipur,9065,88.7
+2023-24,Jiribam,Manipur,9516,68.6
+2024-25,Jiribam,Manipur,9497,67.3
+2025,Jiribam,Manipur,9918,94.1
+2021-22,Kakching,Manipur,10180,64.6
+2022-23,KAKCHING,Manipur,11187,71.7
+2023-24,Kakching,Manipur,12374,84.5
+2024-25,Kakching,Manipur,13649,55.1
+2025-26,Kakching,Manipur,11202,94.3
+2021-22,Kamjong,Manipur,26049,65.8
+2022-23,Kamjong,Manipur,24386,70.6
+2023-24,Kamjong,Manipur,29158,63.4
+2024-25,Kamjong,Manipur,28293,63.7
+2025,Kamjong,Manipur,30954,68.3
+2021-22,Kangpokpi,Manipur,7539,82.3
+2022,Kangpokpi,Manipur,7471,
+2023-24,Kangpokpi,Manipur,8160,82.2
+2024-25,Kangpokpi,Manipur,7349,73.2
+2025,Kangpokpi,Manipur,8906,80.8
+2021-22,Noney,Manipur,3738,57.3
+2022-23,Noney,Manipur,3890,87.4
+2023-24,Noney,Manipur,3829,58.9
+2024-25,Noney,Manipur,4759,78.5
+2025-26,Noney,Manipur,5826,86.7
+2021-22,Pherzawl,Manipur,21159,94.9
+2022,Pherzawl,Manipur,19482,58.3
+2023-24,Pherzawl,Manipur,23077,58.9
+2024-25,Pherzawl,Manipur,24133,56.8
+2025-26,Pherzawl,Manipur,25961,85.0
+2021-22,Senapati,Manipur,18182,81.9
+2022-23,Senapati,Manipur,18899,77.1
+2023-24,Senapati,Manipur,18311,59.0
+2024,Senapati,Manipur,19755,72.9
+2025-26,Senapati,Manipur,21570,94.9
+2021-22,Tamenglong,Manipur,2131,86.0
+2022-23,Tamenglong,Manipur,2451,80.9
+2023-24,Tamenglong,Manipur,2238,68.5
+2024-25,Tamenglong,Manipur,2538,79.0
+2025-26,Tamenglong,Manipur,2533,80.0
+2021-22,Tengnoupal,Manipur,18090,83.0
+2022,Tengnoupal,Manipur,15611,67.5
+2023-24,Tengnoupal,Manipur,19961,89.3
+2024-25,Tengnoupal,Manipur,21066,72.5
+2025-26,Tengnoupal,Manipur,22491,88.6
+2021-22,Thoubal,Manipur,12518,60.6
+2022,Thoubal,Manipur,11281,92.5
+2023-24,Thoubal,Manipur,14322,58.9
+2024-25,Thoubal,Manipur,12486,94.8
+2025-26,Thoubal,Manipur,12429,79.2
+2021-22,UKHRUL,Manipur,6725,55.3
+2022-23,Ukhrul,Manipur,6576,83.4
+2023-24,Ukhrul,Manipur,7068,95.3
+2024-25,Ukhrul,Manipur,9232,57.2
+2025-26,Ukhrul,Manipur,10334,85.3
+2021-22,East Garo Hills,Meghalaya,18209,77.5
+2022-23,East Garo Hills,Meghalaya,18161,90.9
+2023-24,East Garo Hills,Meghalaya,21647,69.2
+2024,East Garo Hills,Meghalaya,20105,92.2
+2025-26,East Garo Hills,Meghalaya,20461,85.4
+2021-22,East Jaintia Hills,Meghalaya,11346,64.4
+2022-23,East Jaintia Hills,Meghalaya,10430,66.4
+2023-24,East Jaintia Hills,Meghalaya,13096,
+2024,East Jaintia Hills,Meghalaya,12860,76.9
+2025,East Jaintia Hills,Meghalaya,12872,90.4
+2021,East Khasi Hills,Meghalaya,14344,76.8
+2022,East Khasi Hills,Meghalaya,13657,64.4
+2023-24,East Khasi Hills,Meghalaya,13947,78.9
+2024-25,East Khasi Hills,Meghalaya,14013,76.1
+2025,East Khasi Hills,Meghalaya,15976,62.3
+2021-22,North Garo Hills,Meghalaya,4786,87.2
+2022-23,North Garo Hills,Meghalaya,5793,79.7
+2023-24,North Garo Hills,Meghalaya,6093,55.3
+2024-25,North Garo Hills,Meghalaya,5580,56.5
+2025-26,North Garo Hills,Meghalaya,6239,61.0
+2021-22,Ri Bhoi,Meghalaya,7482,87.3
+2022,Ri Bhoi,Meghalaya,9036,78.6
+2023-24,RI BHOI,Meghalaya,9409,62.6
+2024-25,Ri Bhoi,Meghalaya,11035,91.6
+2025-26,RI BHOI,Meghalaya,9993,68.4
+2021,South Garo Hills,Meghalaya,3090,89.7
+2022-23,South Garo Hills,Meghalaya,3486,81.9
+2023,South Garo Hills,Meghalaya,3797,59.2
+2024-25,South Garo Hills,Meghalaya,3671,85.5
+2025-26,South Garo Hills,Meghalaya,4156,84.1
+2021-22,South West Garo Hills,Meghalaya,2947,62.5
+2022,South West Garo Hills,Meghalaya,3569,85.2
+2023-24,South West Garo Hills,Meghalaya,3558,68.8
+2024-25,South West Garo Hills,Meghalaya,4118,66.2
+2025-26,South West Garo Hills,Meghalaya,5141,70.0
+2021,South West Khasi Hills,Meghalaya,17681,60.6
+2022-23,South West Khasi Hills,Meghalaya,17827,72.8
+2023-24,SOUTH WEST KHASI HILLS,Meghalaya,19197,89.6
+2024-25,South West Khasi Hills,Meghalaya,19114,94.7
+2025-26,South West Khasi Hills,Meghalaya,19531,80.4
+2021-22,West Garo Hills,Meghalaya,3824,67.6
+2022-23,West Garo Hills,Meghalaya,4263,55.9
+2023,West Garo Hills,Meghalaya,4503,91.3
+2024-25,West Garo Hills,Meghalaya,5496,81.9
+2025-26,West Garo Hills,Meghalaya,4841,62.9
+2021-22,West Jaintia Hills,Meghalaya,3684,81.7
+2022-23,West Jaintia Hills,Meghalaya,3527,93.0
+2023-24,West Jaintia Hills,Meghalaya,4449,63.3
+2024-25,West Jaintia Hills,Meghalaya,4325,88.8
+2025-26,West Jaintia Hills,Meghalaya,5606,86.7
+2021,WEST KHASI HILLS,Meghalaya,964,56.1
+2022-23,West Khasi Hills,Meghalaya,892,87.9
+2023-24,WEST KHASI HILLS,Meghalaya,900,89.9
+2024-25,West Khasi Hills,Meghalaya,1123,76.7
+2025-26,West Khasi Hills,Meghalaya,1150,75.9
+2021-22,Aizawl,Mizoram,3645,70.4
+2022-23,Aizawl,Mizoram,3349,92.2
+2023,Aizawl,Mizoram,2785,65.1
+2024-25,Aizawl,Mizoram,4275,70.0
+2025-26,Aizawl,Mizoram,4325,67.4
+2021-22,Champhai,Mizoram,2095,92.7
+2022-23,Champhai,Mizoram,1943,57.7
+2023-24,Champhai,Mizoram,1918,86.4
+2024,Champhai,Mizoram,1725,95.4
+2025-26,Champhai,Mizoram,1880,80.6
+2021-22,Kolasib,Mizoram,19323,95.8
+2022-23,Kolasib,Mizoram,22340,90.5
+2023-24,Kolasib,Mizoram,24697,70.3
+2024-25,Kolasib,Mizoram,23262,55.6
+2025-26,Kolasib,Mizoram,28421,63.2
+2021-22,Lawngtlai,Mizoram,19052,74.1
+2022-23,Lawngtlai,Mizoram,18809,84.8
+2023-24,Lawngtlai,Mizoram,22213,73.0
+2024-25,Lawngtlai,Mizoram,18527,91.6
+2025-26,Lawngtlai,Mizoram,20533,91.1
+2021-22,Lunglei,Mizoram,6883,80.6
+2022-23,Lunglei,Mizoram,6277,65.4
+2023-24,Lunglei,Mizoram,6019,91.8
+2024-25,Lunglei,Mizoram,7946,90.0
+2025-26,Lunglei,Mizoram,8297,93.0
+2021-22,Mamit,Mizoram,40421,89.6
+2022,Mamit,Mizoram,33814,55.9
+2023-24,Mamit,Mizoram,35902,75.1
+2024-25,Mamit,Mizoram,35304,94.6
+2025-26,Mamit,Mizoram,42758,77.2
+2021-22,Saiha,Mizoram,22801,73.2
+2022-23,Saiha,Mizoram,23190,86.0
+2023-24,Saiha,Mizoram,23571,95.6
+2024-25,Saiha,Mizoram,26069,89.1
+2025-26,Saiha,Mizoram,29855,88.2
+2021-22,Serchhip,Mizoram,3608,87.9
+2022-23,Serchhip,Mizoram,3758,76.0
+2023-24,Serchhip,Mizoram,4053,83.9
+2024-25,Serchhip,Mizoram,3475,74.0
+2025,Serchhip,Mizoram,4437,94.2
+2021-22,Dimapur,Nagaland,709,78.7
+2022-23,Dimapur,Nagaland,807,58.4
+2023-24,Dimapur,Nagaland,782,62.6
+2024-25,Dimapur,Nagaland,864,
+2025-26,Dimapur,Nagaland,878,82.5
+2021-22,Kiphire,Nagaland,34046,55.1
+2022-23,Kiphire,Nagaland,39266,72.0
+2023-24,Kiphire,Nagaland,42470,89.1
+2024-25,Kiphire,Nagaland,46606,59.3
+2025-26,Kiphire,Nagaland,50791,91.6
+2021-22,Kohima,Nagaland,2351,55.4
+2022-23,kohima,Nagaland,3289,75.6
+2023-24,  Kohima ,Nagaland,3270,61.9
+2024-25,Kohima,Nagaland,3141,58.9
+2025-26,Kohima,Nagaland,3505,81.3
+2021-22,Longleng,Nagaland,1868,86.4
+2022,Longleng,Nagaland,1721,65.8
+2023-24,Longleng,Nagaland,1940,63.5
+2024-25,Longleng,Nagaland,2616,91.2
+2025,Longleng,Nagaland,2547,68.0
+2021,Mokokchung,Nagaland,10040,62.7
+2022,Mokokchung,Nagaland,9831,95.9
+2023-24,Mokokchng,Nagaland,11024,65.8
+2024-25,Mokokchung,Nagaland,11614,89.9
+2025-26,Mokokchung,Nagaland,10926,81.5
+2021-22,Mon,Nagaland,31810,94.2
+2022,Mon,Nagaland,51294,92.0
+2023,Mon,Nagaland,47100,64.4
+2024-25,Mon,Nagaland,50958,89.0
+2025,Mon,Nagaland,48352,57.4
+2021-22,Peren,Nagaland,12740,82.8
+2022-23,Peren,Nagaland,12848,82.2
+2023-24,Peren,Nagaland,14710,79.6
+2024-25,Peren,Nagaland,16841,74.7
+2025-26,Peren,Nagaland,16679,83.8
+2021-22,Phek,Nagaland,12080,86.3
+2022,Phek,Nagaland,13193,87.7
+2023,Phek,Nagaland,12476,56.5
+2024-25,Phek,Nagaland,15005,64.9
+2025,Phek,Nagaland,16356,79.2
+2021-22,Tuensang,Nagaland,9159,74.0
+2022,Tuensang,Nagaland,11760,
+2023,Tuensang,Nagaland,11703,93.5
+2024-25,Tuensang,Nagaland,12461,78.5
+2025,TUENSANG,Nagaland,13005,68.9
+2021-22,Wokha,Nagaland,10913,75.5
+2022-23,Wokha,Nagaland,10360,90.9
+2023-24,Wokha,Nagaland,10364,77.4
+2024-25,Wokha,Nagaland,10399,73.2
+2025-26,Wokha,Nagaland,12190,85.3
+2021-22,ZUNHEBOTO,Nagaland,9306,86.4
+2022-23,Zunheboto,Nagaland,12674,79.4
+2023-24,Zunheboto,Nagaland,10413,82.4
+2024-25,Zunheboto,Nagaland,11324,62.2
+2025-26,Zunheboto,Nagaland,11692,93.9
+2021,Angul,Odisha,5727,82.9
+2022,Angul,Odisha,6593,80.3
+2023-24,Angul,Odisha,7120,
+2024-25,Angul,Odisha,7725,74.1
+2025-26,ANGUL,Odisha,8014,81.4
+2021-22,  Balangir ,Odisha,6549,72.6
+2022,Balangir,Odisha,7590,75.7
+2023-24,Balangir,Odisha,6993,83.1
+2024-25,Balangir,Odisha,8410,58.9
+2025-26,BALANGIR,Odisha,9855,60.8
+2021,Balasore,Odisha,6885,82.4
+2022,Balasore,Odisha,8946,72.9
+2023-24,Balasore,Odisha,11598,73.7
+2024-25,Balasore,Odisha,7939,72.5
+2025-26,Balasore,Odisha,12132,66.8
+2021-22,Bargarh,Odisha,3156,56.4
+2022,Bargarh,Odisha,3210,94.5
+2023,Bargarh,Odisha,3133,68.8
+2024-25,Bargarh,Odisha,3536,91.3
+2025-26,Bargarh,Odisha,3567,72.4
+2021-22,Bhadrak,Odisha,6092,85.9
+2022-23,Bhadrak,Odisha,5840,79.4
+2023-24,Bhadrak,Odisha,6798,56.0
+2024-25,Bhadrak,Odisha,7198,56.8
+2025-26,Bhadrak,Odisha,5926,89.6
+2021-22,Boudh,Odisha,1323,59.5
+2022-23,Boudh,Odisha,1422,74.5
+2023-24,Boudh,Odisha,1856,79.4
+2024-25,Boudh,Odisha,2051,75.8
+2025,Boudh,Odisha,2114,95.6
+2021-22,Cuttack,Odisha,4918,70.8
+2022-23,Cuttack,Odisha,5518,76.9
+2023,CUTTACK,Odisha,5424,94.5
+2024-25,CUTTACK,Odisha,4463,92.8
+2025-26,Cuttack,Odisha,6554,84.5
+2021-22,Deogarh,Odisha,3431,60.5
+2022-23,Deogarh,Odisha,3455,67.3
+2023-24,Deogarh,Odisha,3210,86.9
+2024-25,Deogarh,Odisha,3621,
+2025,DEOGARH,Odisha,3655,63.3
+2021,Dhenkanal,Odisha,2100,65.7
+2022,DHENKANAL,Odisha,3324,63.7
+2023,Dhenkanal,Odisha,2798,89.9
+2024-25,Dhenkanal,Odisha,2369,91.7
+2025-26,Dhenkanal,Odisha,2413,72.6
+2021,Gajapati,Odisha,5737,87.7
+2022-23,GAJAPATI,Odisha,7149,91.6
+2023-24,Gajapati,Odisha,9335,
+2024-25,Gajapati,Odisha,7801,58.1
+2025-26,GAJAPATI,Odisha,8586,55.0
+2021-22,Ganjam,Odisha,14448,63.9
+2022-23,Ganjam,Odisha,16520,59.4
+2023-24,Ganjam,Odisha,15003,73.1
+2024-25,Ganjam,Odisha,15712,77.6
+2025-26,Ganjam,Odisha,16070,58.3
+2021-22,Jagatsinghapur,Odisha,20432,90.6
+2022-23,Jagatsinghapur,Odisha,24160,87.6
+2023-24,Jagatsinghapur,Odisha,26947,88.4
+2024-25,Jagatsinghapur,Odisha,30132,88.7
+2025-26,Jagatsinghapur,Odisha,30838,94.9
+2021,Jajpur,Odisha,1770,89.1
+2022-23,Jajpur,Odisha,2119,84.1
+2023-24,Jajpur,Odisha,2731,87.8
+2024-25,Jajpur,Odisha,2771,61.4
+2025-26,JAJPUR,Odisha,2466,71.2
+2021-22,JHARSUGUDA,Odisha,2441,72.9
+2022,JHARSUGUDA,Odisha,2607,76.9
+2023,Jharsuguda,Odisha,2770,78.8
+2024-25,JHARSUGUDA,Odisha,2760,58.7
+2025-26,Jharsuguda,Odisha,2903,84.6
+2021-22,Kalahandi,Odisha,12400,61.8
+2022,Kalahandi,Odisha,11667,84.6
+2023-24,Kalahandi,Odisha,15085,94.5
+2024-25,Kalahandi,Odisha,16190,90.1
+2025-26,Kalahandi,Odisha,19094,84.1
+2021-22,Kandhamal,Odisha,3121,79.0
+2022-23,Kandhamal,Odisha,2831,63.4
+2023-24,Kandhamal,Odisha,3299,75.7
+2024,Kandhamal,Odisha,3608,89.8
+2025-26,Kandhamal,Odisha,3471,83.3
+2021-22,KENDRAPARA,Odisha,5167,74.4
+2022,KENDRAPARA,Odisha,6700,65.8
+2023-24,Kendrapara,Odisha,5704,95.4
+2024,Kendrapara,Odisha,5883,79.6
+2025,Kendrapara,Odisha,6879,90.0
+2021-22,Kendujhar (Keonjhar),Odisha,10468,92.6
+2022-23,Kendujhar (Keonjhar),Odisha,11544,58.0
+2023,Kendujhar (Keonjhar),Odisha,12479,80.3
+2024-25,Kendujhar (Keonjhar),Odisha,13192,68.1
+2025-26,Kendujhar (Keonjhar),Odisha,16551,79.8
+2021-22,Khordha,Odisha,3907,92.3
+2022-23,Khordha,Odisha,3748,91.4
+2023,Khordha,Odisha,4250,59.7
+2024-25,Khordha,Odisha,4001,59.3
+2025-26,Khordha,Odisha,5265,
+2021-22,Koraput,Odisha,5907,80.4
+2022-23,Koraput,Odisha,7212,83.9
+2023,Koraput,Odisha,7887,75.5
+2024-25,Koraput,Odisha,7415,72.1
+2025,Koraput,Odisha,7075,93.6
+2021,Malkangiri,Odisha,2179,67.3
+2022-23,Malkangiri,Odisha,2171,67.4
+2023-24,Malkangiri,Odisha,2167,61.5
+2024-25,Malkangiri,Odisha,2536,79.3
+2025,Malkangiri,Odisha,2952,76.2
+2021-22,Mayurbhanj,Odisha,4014,68.5
+2022-23,Mayurbhanj,Odisha,4081,81.1
+2023-24,Mayurbhanj,Odisha,3968,85.1
+2024,Mayurbhanj,Odisha,4770,70.6
+2025-26,mayurbhanj,Odisha,4527,83.4
+2021-22,Nabarangpur,Odisha,5982,75.9
+2022-23,Nabarangpur,Odisha,6290,60.0
+2023-24,Nabarangpur,Odisha,6569,65.8
+2024-25,Nabarangpur,Odisha,6611,64.0
+2025,Nabarangpur,Odisha,7359,78.2
+2021,Nayagarh,Odisha,1386,81.6
+2022-23,Nayagarh,Odisha,1570,61.1
+2023-24,Nayagarh,Odisha,1542,79.8
+2024-25,Nayagarh,Odisha,1812,55.7
+2025-26,Nayagarh,Odisha,1842,65.7
+2021-22,Nuapada,Odisha,14193,82.5
+2022,Nuapada,Odisha,14245,75.9
+2023-24,Nuapada,Odisha,15341,76.9
+2024-25,Nuapada,Odisha,16232,80.8
+2025-26,Nuapada,Odisha,15028,75.1
+2021-22,Puri,Odisha,9135,78.8
+2022-23,Puri,Odisha,11012,77.5
+2023,Puri,Odisha,11692,83.7
+2024-25,Puri,Odisha,13447,87.1
+2025-26,Puri,Odisha,13820,80.6
+2021,Rayagada,Odisha,10354,
+2022,Rayagada,Odisha,9669,84.9
+2023-24,Rayagada,Odisha,8717,62.4
+2024-25,Rayagada,Odisha,10766,70.5
+2025-26,Rayagada,Odisha,12688,61.2
+2021-22,Sambalpur,Odisha,10105,67.8
+2022-23,Sambalpur,Odisha,9569,75.4
+2023-24,Sambalpur,Odisha,9315,83.3
+2024-25,Sambalpur,Odisha,9686,94.6
+2025-26,Sambalpur,Odisha,12939,91.1
+2021-22,Sonepur,Odisha,21815,62.4
+2022-23,Sonepur,Odisha,20905,83.4
+2023-24,Sonepur,Odisha,22068,56.4
+2024-25,Sonepur,Odisha,23086,64.1
+2025-26,Sonepur,Odisha,25895,75.0
+2021-22,Sundargarh,Odisha,14457,79.3
+2022-23,Sundargarh,Odisha,16805,80.4
+2023-24,Sundargarh,Odisha,14736,82.9
+2024-25,Sundargarh,Odisha,18083,61.1
+2025-26,Sundargarh,Odisha,20070,90.3
+2021-22,Karaikal,Puducherry (UT),6270,88.4
+2022,Karaikal,Puducherry (UT),6577,80.7
+2023-24,Karaikal,Puducherry (UT),7628,80.1
+2024-25,Karaikal,Puducherry (UT),7263,56.6
+2025,Karaikal,Puducherry (UT),9533,89.9
+2021,Mahe,Puducherry (UT),7766,75.5
+2022-23,Mahe,Puducherry (UT),6639,90.6
+2023-24,Mahe,Puducherry (UT),8881,79.6
+2024-25,Mahe,Puducherry (UT),8001,87.0
+2025-26,Mahe,Puducherry (UT),8221,70.1
+2021-22,Pondicherry,Puducherry (UT),7164,59.6
+2022-23,Puducherry,Puducherry (UT),7985,86.9
+2023-24,Pondicherry,Puducherry (UT),9164,74.9
+2024,Pondicherry,Puducherry (UT),9549,86.1
+2025-26,Pondicherry,Puducherry (UT),10353,75.0
+2021-22,Yanam,Puducherry (UT),4544,75.1
+2022-23,Yanam,Puducherry (UT),4076,57.4
+2023-24,Yanam,Puducherry (UT),5284,72.0
+2024-25,Yanam,Puducherry (UT),5449,57.8
+2025,Yanam,Puducherry (UT),7950,94.4
+2021-22,Amritsar,Punjab,6439,59.3
+2022,Amritsar,Punjab,7732,85.6
+2023-24,Amritsar,Punjab,8366,89.7
+2024-25,AMRITSAR,Punjab,8255,91.3
+2025-26,Amritsar,Punjab,8948,60.1
+2021-22,Barnala,Punjab,2969,58.2
+2022-23,Barnala,Punjab,2930,64.0
+2023-24,Barnala,Punjab,3653,64.3
+2024-25,Barnala,Punjab,4498,60.0
+2025-26,Barnala,Punjab,4926,78.1
+2021-22,Bathinda,Punjab,3012,73.9
+2022-23,Bathinda,Punjab,3115,76.4
+2023-24,Bathinda,Punjab,3169,66.6
+2024,Bathinda,Punjab,3706,94.9
+2025,Bathinda,Punjab,4067,75.5
+2021-22,Faridkot,Punjab,1943,75.6
+2022-23,Faridkot,Punjab,2020,72.2
+2023-24,faridkot,Punjab,2210,76.8
+2024-25,Faridkot,Punjab,2092,95.4
+2025-26,Faridkot,Punjab,2140,66.6
+2021-22,Fatehgarh Sahib,Punjab,18347,87.9
+2022-23,Fatehgarh Sahib,Punjab,17368,86.5
+2023,Fatehgarh Sahib,Punjab,19283,93.5
+2024-25,Fatehgarh Sahib,Punjab,21221,86.7
+2025-26,Fatehgarh Sahib,Punjab,24357,86.9
+2021-22,Fazilka,Punjab,3856,75.5
+2022,Fazilka,Punjab,4817,56.3
+2023-24,Fazilka,Punjab,5255,69.9
+2024-25,Fazilka,Punjab,4561,61.6
+2025-26,Fazilka,Punjab,5581,66.6
+2021-22,Ferozepur,Punjab,4668,94.5
+2022-23,Ferozepur,Punjab,4749,69.1
+2023,Ferozepur,Punjab,6206,60.8
+2024-25,Ferozepur,Punjab,5751,
+2025,Ferozepur,Punjab,7357,88.7
+2021,Gurdaspur,Punjab,3361,74.6
+2022-23,Gurdaspur,Punjab,3438,84.0
+2023-24,GURDASPUR,Punjab,4095,96.0
+2024-25,Gurdaspur,Punjab,4285,65.2
+2025,Gurdaspur,Punjab,4743,65.8
+2021-22,Hoshiarpur,Punjab,20210,75.7
+2022-23,Hoshiarpur,Punjab,22541,82.1
+2023-24,Hoshiarpur,Punjab,21639,79.8
+2024-25,Hoshiarpur,Punjab,23496,62.9
+2025-26,Hoshiarpur,Punjab,25389,72.4
+2021-22,Jalandhar,Punjab,5962,65.9
+2022,Jalandhar,Punjab,5262,76.7
+2023-24,jalandhar,Punjab,5197,59.1
+2024-25,JALANDHAR,Punjab,4911,78.1
+2025-26,Jalandhar,Punjab,6217,60.3
+2021-22,Kapurthala,Punjab,13570,57.9
+2022-23,Kapurthala,Punjab,12164,85.3
+2023,Kapurthala,Punjab,14229,93.1
+2024,KAPURTHALA,Punjab,12808,77.9
+2025-26,Kapurthala,Punjab,17630,61.0
+2021-22,Ldhiana,Punjab,6322,56.1
+2022-23,Ludhiana,Punjab,7532,75.4
+2023,Ludhiana,Punjab,6284,70.7
+2024,Ludhiana,Punjab,7645,66.3
+2025-26,Ludhiana,Punjab,5802,91.1
+2021-22,Mansa,Punjab,7771,91.3
+2022-23,Mansa,Punjab,10506,60.5
+2023-24,Mansa,Punjab,9299,70.1
+2024-25,Mansa,Punjab,11920,58.0
+2025-26,Mansa,Punjab,10965,76.2
+2021-22,Moga,Punjab,3320,90.7
+2022-23,Moga,Punjab,2516,57.9
+2023-24,Moga,Punjab,2895,93.6
+2024-25,Moga,Punjab,3730,68.6
+2025,Moga,Punjab,3657,83.1
+2021-22,Muktsar,Punjab,31784,86.1
+2022-23,Muktsar,Punjab,26298,90.3
+2023-24,Muktsar,Punjab,36418,64.2
+2024,Muktsar,Punjab,31909,61.9
+2025-26,Muktsar,Punjab,41073,62.9
+2021-22,Nawanshahr (Shahid Bhagat Singh Nagar),Punjab,2339,95.9
+2022-23,Nawanshahr (Shahid Bhagat Singh Nagar),Punjab,2153,
+2023-24,Nawanshahr (Shahid Bhagat Singh Nagar),Punjab,2172,87.6
+2024-25,Nawanshahr (Shahid Bhagat Singh Nagar),Punjab,2573,59.9
+2025-26,Nawanshahr (Shahid Bhagat Singh Nagar),Punjab,2807,92.1
+2021-22,Pathankot,Punjab,5282,
+2022-23,Pathankot,Punjab,7106,65.2
+2023-24,Pathankot,Punjab,7375,89.3
+2024,Pathankot,Punjab,7309,74.6
+2025-26,Pathankot,Punjab,6334,75.1
+2021-22,Patiala,Punjab,12892,89.2
+2022-23,Patiala,Punjab,16056,92.4
+2023-24,Patiala,Punjab,15953,73.3
+2024-25,Patiala,Punjab,14787,88.0
+2025-26,  Patiala ,Punjab,19491,59.7
+2021,Rupnagar,Punjab,13890,76.0
+2022-23,RUPNAGAR,Punjab,17113,
+2023,Rupnagar,Punjab,15318,87.3
+2024-25,Rupnagar,Punjab,21287,88.3
+2025-26,Rupnagar,Punjab,19366,90.3
+2021,Sahibzada Ajit Singh Nagar (Mohali),Punjab,3988,71.9
+2022,Sahibzada Ajit Singh Nagar (Mohali),Punjab,4508,92.0
+2023,Mohali,Punjab,4313,78.9
+2024-25,Sahibzada Ajit Singh Nagar (Mohali),Punjab,4556,95.4
+2025-26,Sahibzada Ajit Singh Nagar (Mohali),Punjab,6016,62.3
+2021-22,Sangrur,Punjab,7172,79.6
+2022-23,Sangrur,Punjab,7059,72.5
+2023-24,Sangrur,Punjab,6660,85.8
+2024-25,Sangrur,Punjab,7469,93.7
+2025-26,Sangrur,Punjab,8282,60.9
+2021-22,Tarn Taran,Punjab,5881,91.4
+2022-23,Tarn Taran,Punjab,4723,58.9
+2023-24,Tarn Taran,Punjab,5901,87.3
+2024-25,Tarn Taran,Punjab,8073,90.7
+2025,Tarn Taran,Punjab,7497,76.5
+2021-22,Ajmer,Rajasthan,4446,78.7
+2022,Ajmer,Rajasthan,5126,67.3
+2023,Ajmer,Rajasthan,6138,84.4
+2024,Ajmer,Rajasthan,7746,86.9
+2025-26,Ajmer,Rajasthan,6479,70.3
+2021-22,Alwar,Rajasthan,10495,56.1
+2022-23,Alwar,Rajasthan,10155,88.6
+2023-24,Alwar,Rajasthan,11182,87.2
+2024-25,Alwar,Rajasthan,11304,63.4
+2025-26,Alwar,Rajasthan,14792,93.3
+2021-22,Banswara,Rajasthan,26701,90.0
+2022-23,BANSWARA,Rajasthan,26909,70.7
+2023-24,Banswara,Rajasthan,30333,55.2
+2024-25,Banswara,Rajasthan,31836,77.9
+2025-26,Banswara,Rajasthan,34803,73.4
+2021-22,Baran,Rajasthan,3697,89.0
+2022-23,Baran,Rajasthan,4031,76.0
+2023-24,BARAN,Rajasthan,5222,79.6
+2024-25,Baran,Rajasthan,4465,68.0
+2025-26,Baran,Rajasthan,4999,60.7
+2021-22,Barmer,Rajasthan,1944,78.7
+2022-23,Barmer,Rajasthan,1989,60.8
+2023-24,Barmer,Rajasthan,2312,77.0
+2024-25,Barmer,Rajasthan,2273,89.6
+2025-26,Barmer,Rajasthan,2546,90.2
+2021-22,Bharatpur,Rajasthan,6464,57.9
+2022-23,Bharatpur,Rajasthan,5827,60.7
+2023,Bharatpur,Rajasthan,6660,60.1
+2024-25,Bharatpur,Rajasthan,7446,
+2025-26,Bharatpur,Rajasthan,8624,59.7
+2021-22,Bhilwara,Rajasthan,39309,86.8
+2022,Bhilwara,Rajasthan,47243,58.2
+2023-24,Bhilwara,Rajasthan,48706,87.8
+2024-25,Bhilwara,Rajasthan,48461,89.2
+2025-26,Bhilwara,Rajasthan,54306,76.3
+2021-22,Bikaner,Rajasthan,3925,70.9
+2022-23,Bikaner,Rajasthan,3134,74.2
+2023-24,Bikaner,Rajasthan,3263,73.4
+2024,Bikaner,Rajasthan,3539,72.7
+2025-26,Bikaner,Rajasthan,4003,61.1
+2021-22,Bundi,Rajasthan,16897,68.1
+2022-23,Bundi,Rajasthan,24965,89.1
+2023-24,BUNDI,Rajasthan,20759,75.0
+2024-25,Bundi,Rajasthan,20822,94.2
+2025,Bundi,Rajasthan,19557,90.3
+2021-22,Chittorgarh,Rajasthan,18087,66.5
+2022-23,Chittorgarh,Rajasthan,24265,73.7
+2023-24,Chittorgarh,Rajasthan,23668,93.8
+2024-25,Chittorgarh,Rajasthan,24017,86.6
+2025,Chittorgarh,Rajasthan,23197,81.1
+2021-22,Churu,Rajasthan,5265,85.7
+2022,Churu,Rajasthan,5360,56.1
+2023,Churu,Rajasthan,6534,61.5
+2024-25,Churu,Rajasthan,7164,75.8
+2025-26,CHURU,Rajasthan,5917,81.6
+2021-22,Dausa,Rajasthan,11870,87.3
+2022-23,Dausa,Rajasthan,11891,88.4
+2023,Dausa,Rajasthan,11847,95.2
+2024-25,Dausa,Rajasthan,13539,
+2025-26,Dausa,Rajasthan,13735,88.1
+2021-22,Dholpur,Rajasthan,16434,67.8
+2022,Dholpur,Rajasthan,20053,88.5
+2023-24,Dholpur,Rajasthan,20134,78.1
+2024-25,Dholpur,Rajasthan,17918,79.4
+2025-26,Dholpur,Rajasthan,22194,83.4
+2021-22,Dungarpur,Rajasthan,4241,90.4
+2022-23,Dungarpur,Rajasthan,5476,77.0
+2023-24,Dungarpur,Rajasthan,5247,78.0
+2024-25,Dungarpur,Rajasthan,6290,74.2
+2025-26,Dungarpur,Rajasthan,7417,86.3
+2021-22,Hanumangarh,Rajasthan,6805,
+2022,Hanumangarh,Rajasthan,7927,78.9
+2023,HANUMANGARH,Rajasthan,6599,77.0
+2024,HANUMANGARH,Rajasthan,7886,57.8
+2025-26,hanumangarh,Rajasthan,8706,62.3
+2021,Jaipur,Rajasthan,2605,95.5
+2022-23,Jaipur,Rajasthan,2944,
+2023-24,Jaipur,Rajasthan,3206,72.8
+2024-25,JAIPUR,Rajasthan,3397,70.1
+2025-26,Jaipur,Rajasthan,3991,95.2
+2021-22,Jaisalmer,Rajasthan,3173,64.9
+2022-23,JAISALMER,Rajasthan,3158,75.2
+2023-24,Jaisalmer,Rajasthan,4060,88.0
+2024,Jaisalmer,Rajasthan,4640,78.5
+2025-26,Jaisalmer,Rajasthan,4307,95.3
+2021-22,Jalore,Rajasthan,3968,63.8
+2022-23,Jalore,Rajasthan,3640,64.1
+2023-24,Jalor,Rajasthan,3331,55.6
+2024-25,Jalor,Rajasthan,3748,63.9
+2025-26,Jalore,Rajasthan,5204,77.8
+2021-22,Jhalawar,Rajasthan,2921,62.8
+2022-23,JHALAWAR,Rajasthan,3172,86.9
+2023-24,Jhalawar,Rajasthan,3268,65.0
+2024-25,Jhalawar,Rajasthan,4312,83.5
+2025-26,Jhalawar,Rajasthan,3819,73.7
+2021-22,Jhunjhunu,Rajasthan,4352,78.2
+2022-23,Jhunjhunu,Rajasthan,4508,74.1
+2023-24,Jhunjhunu,Rajasthan,7040,63.4
+2024-25,Jhunjhunun,Rajasthan,6486,
+2025-26,Jhunjhunu,Rajasthan,8384,77.5
+2021-22,Jodhpur,Rajasthan,2468,67.2
+2022-23,Jodhpur,Rajasthan,2797,84.2
+2023,Jodhpur,Rajasthan,2686,57.6
+2024-25,Jodhpur,Rajasthan,3309,91.7
+2025,Jodhpur,Rajasthan,3421,95.4
+2021-22,KARAULI,Rajasthan,5711,77.5
+2022-23,Karauli,Rajasthan,5925,82.6
+2023,Karauli,Rajasthan,6983,86.6
+2024-25,Karauli,Rajasthan,7231,78.1
+2025-26,Karauli,Rajasthan,6509,76.2
+2021,Kota,Rajasthan,2161,62.2
+2022,Kota,Rajasthan,1739,56.1
+2023,Kota,Rajasthan,1971,66.5
+2024-25,Kota,Rajasthan,2272,92.9
+2025,KOTA,Rajasthan,3014,71.6
+2021-22,Nagaur,Rajasthan,10078,58.5
+2022,Nagaur,Rajasthan,8984,92.9
+2023-24,Nagaur,Rajasthan,11568,84.0
+2024,Nagaur,Rajasthan,10281,67.6
+2025-26,Nagaur,Rajasthan,11650,63.8
+2021-22,Pali,Rajasthan,9447,57.6
+2022-23,Pali,Rajasthan,9376,71.4
+2023-24,Pali,Rajasthan,12095,73.4
+2024,Pali,Rajasthan,13023,68.7
+2025-26,Pali,Rajasthan,13421,
+2021-22,Pratapgarh,Rajasthan,4624,86.1
+2022-23,Pratapgarh,Rajasthan,5044,84.7
+2023,Pratapgarh,Rajasthan,5516,74.2
+2024-25,Pratapgarh,Rajasthan,5586,90.2
+2025,Pratapgarh,Rajasthan,5821,63.8
+2021-22,Rajsamand,Rajasthan,5772,90.1
+2022-23,Rajsamand,Rajasthan,7192,82.3
+2023-24,Rajsamand,Rajasthan,5354,71.6
+2024-25,Rajsamand,Rajasthan,6367,86.6
+2025-26,Rajsamand,Rajasthan,6895,95.5
+2021-22,Sawai Madhopur,Rajasthan,17571,91.0
+2022,Sawai Madhopur,Rajasthan,14681,95.3
+2023,Sawai Madhopur,Rajasthan,15444,77.3
+2024-25,SAWAI MADHOPUR,Rajasthan,19174,81.9
+2025-26,Sawai Madhopur,Rajasthan,16227,67.8
+2021-22,Sikar,Rajasthan,1956,87.8
+2022-23,Sikar,Rajasthan,1747,61.6
+2023-24,Sikar,Rajasthan,2140,67.2
+2024-25,sikar,Rajasthan,2450,65.2
+2025-26,Sikar,Rajasthan,2120,81.8
+2021-22,Sirohi,Rajasthan,18794,64.2
+2022-23,Sirohi,Rajasthan,17977,77.3
+2023,Sirohi,Rajasthan,21918,85.0
+2024-25,Sirohi,Rajasthan,20902,73.4
+2025,Sirohi,Rajasthan,22104,55.4
+2021-22,Sri Ganganagar,Rajasthan,8393,64.4
+2022-23,Sri Ganganagar,Rajasthan,8840,70.9
+2023-24,Sri Ganganagar,Rajasthan,9503,94.3
+2024-25,Sri Ganganagar,Rajasthan,9879,77.0
+2025-26,Sri Ganganagar,Rajasthan,11759,74.2
+2021-22,Tonk,Rajasthan,3108,80.8
+2022-23,Tonk,Rajasthan,3350,93.3
+2023-24,Tonk,Rajasthan,3468,60.0
+2024,Tonk,Rajasthan,3253,59.5
+2025-26,Tonk,Rajasthan,4211,59.6
+2021-22,Udaipur,Rajasthan,6474,76.4
+2022,Udaipur,Rajasthan,6158,64.3
+2023,Udaipur,Rajasthan,5650,86.0
+2024-25,Udaipur,Rajasthan,7146,76.1
+2025-26,Udaipur,Rajasthan,5862,77.4
+2021,East Sikkim,Sikkim,14249,66.5
+2022,East Sikkim,Sikkim,14558,85.7
+2023-24,East Sikkim,Sikkim,14849,89.2
+2024-25,East Sikkim,Sikkim,14718,93.2
+2025-26,East Sikkim,Sikkim,14219,81.8
+2021-22,North Sikkim,Sikkim,6528,62.2
+2022-23,North Sikkim,Sikkim,6680,94.1
+2023-24,North Sikkim,Sikkim,6844,62.6
+2024-25,North Sikkim,Sikkim,7116,80.7
+2025-26,North Sikkim,Sikkim,7440,93.7
+2021-22,South Sikkim,Sikkim,13864,58.5
+2022,South Sikkim,Sikkim,12387,63.6
+2023-24,South Sikkim,Sikkim,15163,66.4
+2024,South Sikkim,Sikkim,14081,64.7
+2025-26,South Sikkim,Sikkim,14025,80.0
+2021-22,West Sikkim,Sikkim,2744,61.6
+2022,West Sikkim,Sikkim,2964,95.9
+2023-24,West Sikkim,Sikkim,2255,90.1
+2024-25,West Sikkim,Sikkim,3217,56.1
+2025-26,WEST SIKKIM,Sikkim,3897,66.5
+2021,Ariyalur,Tamil Nadu,8476,65.7
+2022-23,Ariyalur,Tamil Nadu,9665,91.2
+2023,Ariyalur,Tamil Nadu,8930,64.6
+2024-25,Ariyalur,Tamil Nadu,10439,62.4
+2025-26,Ariyalur,Tamil Nadu,11122,64.8
+2021,Chennai,Tamil Nadu,3179,89.0
+2022,Chennai,Tamil Nadu,3463,68.5
+2023-24,CHENNAI,Tamil Nadu,3885,93.3
+2024,Chennai,Tamil Nadu,4737,77.0
+2025-26,Chennai,Tamil Nadu,3931,79.1
+2021-22,Coimbatore,Tamil Nadu,4024,71.5
+2022-23,Coimbatore,Tamil Nadu,4420,70.5
+2023,Coimbatore,Tamil Nadu,4301,77.3
+2024-25,Coimbatore,Tamil Nadu,4577,84.0
+2025-26,Coimbatore,Tamil Nadu,5447,85.3
+2021-22,Cuddalore,Tamil Nadu,2689,62.1
+2022-23,Cuddalore,Tamil Nadu,2895,62.1
+2023-24,Cuddalore,Tamil Nadu,3148,73.0
+2024,Cuddalore,Tamil Nadu,3987,94.1
+2025-26,Cuddalore,Tamil Nadu,3178,71.0
+2021-22,DHARMAPURI,Tamil Nadu,3570,92.0
+2022-23,Dharmapuri,Tamil Nadu,5191,94.3
+2023,DHARMAPURI,Tamil Nadu,4391,80.4
+2024,Dharmapuri,Tamil Nadu,5553,65.4
+2025-26,Dharmapuri,Tamil Nadu,4452,86.3
+2021,Dindigul,Tamil Nadu,17276,
+2022-23,Dindigul,Tamil Nadu,15774,84.7
+2023-24,Dindigul,Tamil Nadu,17694,64.2
+2024-25,DINDIGUL,Tamil Nadu,20317,61.5
+2025-26,DINDIGUL,Tamil Nadu,16390,64.5
+2021-22,Erode,Tamil Nadu,14257,60.5
+2022-23,Erode,Tamil Nadu,16665,82.4
+2023,Erode,Tamil Nadu,20890,
+2024-25,Erode,Tamil Nadu,18816,80.5
+2025-26,Erode,Tamil Nadu,18660,94.8
+2021-22,Kanchipuram,Tamil Nadu,9346,70.5
+2022-23,Kanchipuram,Tamil Nadu,10836,81.8
+2023,Kanchipuram,Tamil Nadu,8805,82.6
+2024-25,Kanchipuram,Tamil Nadu,9869,62.2
+2025-26,Kanchipuram,Tamil Nadu,11792,92.9
+2021-22,Kanyakumari,Tamil Nadu,2807,68.8
+2022-23,Kanyakumari,Tamil Nadu,2583,58.5
+2023-24,Kanyakumari,Tamil Nadu,3397,58.4
+2024-25,KANYAKUMARI,Tamil Nadu,2980,56.6
+2025,Kanyakumari,Tamil Nadu,3418,84.2
+2021-22,Karur,Tamil Nadu,4423,75.0
+2022-23,Karur,Tamil Nadu,4024,87.2
+2023-24,Karur,Tamil Nadu,5370,56.7
+2024,Karur,Tamil Nadu,6012,78.4
+2025,KARUR,Tamil Nadu,6113,85.3
+2021,Krishnagiri,Tamil Nadu,22895,67.9
+2022-23,Krishnagiri,Tamil Nadu,21180,84.0
+2023,Krishnagiri,Tamil Nadu,25885,76.1
+2024-25,Krishnagiri,Tamil Nadu,23476,84.9
+2025-26,Krishnagiri,Tamil Nadu,31799,92.9
+2021-22,MADURAI,Tamil Nadu,8159,78.5
+2022-23,Madurai,Tamil Nadu,7936,83.4
+2023,Madurai,Tamil Nadu,6550,64.8
+2024-25,Madurai,Tamil Nadu,8312,59.7
+2025,Madurai,Tamil Nadu,9319,
+2021-22,Nagapattinam,Tamil Nadu,40345,94.1
+2022,Nagapattinam,Tamil Nadu,45857,70.0
+2023-24,NAGAPATTINAM,Tamil Nadu,48705,78.7
+2024-25,Nagapattinam,Tamil Nadu,45131,78.2
+2025,Nagapattinam,Tamil Nadu,56720,82.6
+2021-22,Namakkal,Tamil Nadu,7902,62.8
+2022-23,Namakkal,Tamil Nadu,8492,59.8
+2023,Namakkal,Tamil Nadu,10401,68.0
+2024-25,Namakkal,Tamil Nadu,11010,57.0
+2025,Namakkal,Tamil Nadu,9506,76.1
+2021-22,Nilgiris,Tamil Nadu,6647,95.9
+2022-23,Nilgiris,Tamil Nadu,6912,74.4
+2023-24,Nilgiris,Tamil Nadu,7351,82.8
+2024-25,NILGIRIS,Tamil Nadu,6854,85.3
+2025-26,Nilgiris,Tamil Nadu,8716,94.0
+2021,Perambalur,Tamil Nadu,4217,62.1
+2022-23,Perambalur,Tamil Nadu,5369,67.5
+2023,Perambalur,Tamil Nadu,5054,57.7
+2024-25,PERAMBALUR,Tamil Nadu,5317,79.1
+2025-26,Perambalur,Tamil Nadu,5087,92.7
+2021-22,Pudukkottai,Tamil Nadu,8469,55.1
+2022-23,Pudukkottai,Tamil Nadu,7770,91.0
+2023-24,Pudukkottai,Tamil Nadu,9082,87.6
+2024-25,Pudukkottai,Tamil Nadu,9161,60.9
+2025-26,Pudukkottai,Tamil Nadu,10494,73.8
+2021,Ramanathapuram,Tamil Nadu,4807,86.2
+2022-23,Ramanathapuram,Tamil Nadu,6736,68.9
+2023-24,Ramanathapuram,Tamil Nadu,5325,74.4
+2024-25,RAMANATHAPURAM,Tamil Nadu,6080,83.2
+2025,Ramanathapuram,Tamil Nadu,7275,63.4
+2021-22,Salem,Tamil Nadu,10860,80.1
+2022-23,Salem,Tamil Nadu,12681,77.3
+2023-24,Salem,Tamil Nadu,14720,78.8
+2024-25,Salem,Tamil Nadu,13401,65.4
+2025-26,Salem,Tamil Nadu,16906,90.2
+2021-22,Sivaganga,Tamil Nadu,26486,67.7
+2022,Sivaganga,Tamil Nadu,27483,91.5
+2023-24,Sivaganga,Tamil Nadu,28802,82.2
+2024-25,Sivaganga,Tamil Nadu,28187,68.6
+2025-26,Sivaganga,Tamil Nadu,27931,65.4
+2021-22,Thanjavur,Tamil Nadu,5482,62.5
+2022-23,Thanjavur,Tamil Nadu,4564,87.4
+2023-24,Thanjavur,Tamil Nadu,4734,79.0
+2024-25,THANJAVUR,Tamil Nadu,5988,70.7
+2025-26,Thanjavur,Tamil Nadu,5690,82.9
+2021,Theni,Tamil Nadu,2177,81.1
+2022-23,Theni,Tamil Nadu,2089,75.6
+2023,Theni,Tamil Nadu,2078,65.2
+2024-25,THENI,Tamil Nadu,2338,88.7
+2025-26,Theni,Tamil Nadu,2391,87.1
+2021-22,Thoothukudi (Tuticorin),Tamil Nadu,2238,61.9
+2022-23,Thoothukudi (Tuticorin),Tamil Nadu,2372,78.3
+2023-24,Thoothukudi (Tuticorin),Tamil Nadu,2730,70.8
+2024-25,Thoothukudi (Tuticorin),Tamil Nadu,2953,78.9
+2025-26,Thoothukudi (Tuticorin),Tamil Nadu,3053,85.3
+2021-22,Tiruchirappalli,Tamil Nadu,8908,94.5
+2022-23,Tiruchirappalli,Tamil Nadu,10457,56.2
+2023-24,Tiruchirappalli,Tamil Nadu,9260,57.4
+2024,Tiruchirapalli,Tamil Nadu,9819,60.8
+2025,Tiruchirappalli,Tamil Nadu,10371,69.0
+2021-22,Tirunelveli,Tamil Nadu,1756,61.3
+2022-23,Tirunelveli,Tamil Nadu,1925,82.7
+2023-24,Tirunelveli,Tamil Nadu,2328,88.8
+2024,Tirunelveli,Tamil Nadu,2309,85.8
+2025-26,Tirunelveli,Tamil Nadu,2389,68.1
+2021-22,Tiruppur,Tamil Nadu,1144,82.8
+2022-23,Tiruppur,Tamil Nadu,1006,83.6
+2023-24,Tiruppur,Tamil Nadu,1106,81.9
+2024,Tiruppur,Tamil Nadu,1249,87.7
+2025-26,Tiruppur,Tamil Nadu,1481,55.3
+2021,Tiruvallur,Tamil Nadu,5859,78.5
+2022-23,Tiruvallur,Tamil Nadu,7472,91.5
+2023-24,Tiruvallur,Tamil Nadu,7277,61.0
+2024-25,Tiruvallur,Tamil Nadu,8142,65.3
+2025-26,TIRUVALLUR,Tamil Nadu,8090,86.7
+2021,Tiruvannamalai,Tamil Nadu,36992,75.5
+2022-23,tiruvannamalai,Tamil Nadu,36887,61.1
+2023-24,Tiruvannamalai,Tamil Nadu,46256,79.1
+2024-25,Tiruvannamalai,Tamil Nadu,39531,62.0
+2025-26,Tiruvannamalai,Tamil Nadu,37710,69.9
+2021-22,Tiruvarur,Tamil Nadu,6342,71.9
+2022-23,Tiruvarur,Tamil Nadu,6819,55.1
+2023-24,Tiruvarur,Tamil Nadu,5981,64.7
+2024,Tiruvarur,Tamil Nadu,6107,90.2
+2025-26,Tiruvarur,Tamil Nadu,7319,89.6
+2021-22,Vellore,Tamil Nadu,19892,81.9
+2022,Vellore,Tamil Nadu,21637,
+2023-24,VELLORE,Tamil Nadu,23539,85.0
+2024-25,VELLORE,Tamil Nadu,22727,82.0
+2025,vellore,Tamil Nadu,28742,74.8
+2021-22,Viluppuram,Tamil Nadu,6532,91.9
+2022-23,Viluppuram,Tamil Nadu,5962,68.9
+2023-24,Viluppuram,Tamil Nadu,8291,68.6
+2024-25,Viluppuram,Tamil Nadu,8746,83.6
+2025,Vilppuram,Tamil Nadu,8830,59.0
+2021-22,VIRUDHUNAGAR,Tamil Nadu,5865,60.2
+2022-23,Virudhunagar,Tamil Nadu,5872,85.7
+2023-24,Virudhunagar,Tamil Nadu,6879,75.0
+2024-25,Virudhunagar,Tamil Nadu,6559,90.6
+2025,Virudhunagar,Tamil Nadu,7818,66.1
+2021-22,ADILABAD,Telangana,15743,80.3
+2022,Adilabad,Telangana,16427,90.4
+2023-24,Adilabad,Telangana,17324,72.7
+2024-25,Adilabad,Telangana,18667,93.2
+2025-26,Adilabad,Telangana,16777,83.4
+2021-22,Bhadradri Kothagudem,Telangana,3287,
+2022-23,Bhadradri Kothagudem,Telangana,4417,59.9
+2023-24,Bhadradri Kothagudem,Telangana,3683,73.8
+2024-25,Bhadradri Kothagudem,Telangana,4289,86.2
+2025-26,Bhadradri Kothagudem,Telangana,4224,60.8
+2021,Hderabad,Telangana,8095,89.2
+2022,Hyderabad,Telangana,8144,64.4
+2023-24,Hyderabad,Telangana,8110,81.8
+2024,Hyderabad,Telangana,10086,62.9
+2025,HYDERABAD,Telangana,11874,81.4
+2021-22,Jagtial,Telangana,9206,72.9
+2022,Jagtial,Telangana,11495,61.0
+2023-24,Jagtial,Telangana,10924,74.5
+2024-25,Jagtial,Telangana,9675,90.4
+2025,Jagtial,Telangana,12598,55.4
+2021-22,Jangaon,Telangana,2748,55.6
+2022,Jangaon,Telangana,3261,76.2
+2023-24,Jangaon,Telangana,3116,67.8
+2024-25,Jangaon,Telangana,2903,67.6
+2025,Jangaon,Telangana,3923,85.0
+2021-22,Jayashankar Bhoopalpally,Telangana,19912,76.7
+2022,Jayashankar Bhoopalpally,Telangana,20406,66.8
+2023-24,Jayashankar Bhoopalpally,Telangana,21241,58.7
+2024-25,Jayashankar Bhoopalpally,Telangana,20517,69.1
+2025,Jayashankar Bhoopalpally,Telangana,26721,93.6
+2021-22,Jogulamba Gadwal,Telangana,5936,63.9
+2022-23,Jogulamba Gadwal,Telangana,7296,85.9
+2023-24,Jogulamba Gadwal,Telangana,5890,66.0
+2024-25,Jogulamba Gadwal,Telangana,7057,77.0
+2025,Jogulamba Gadwal,Telangana,6426,94.8
+2021,Kamareddy,Telangana,3124,60.9
+2022-23,Kamareddy,Telangana,3719,
+2023-24,Kamareddy,Telangana,3734,56.4
+2024-25,Kamareddy,Telangana,4277,56.7
+2025-26,Kamareddy,Telangana,4269,84.3
+2021-22,Karimnagar,Telangana,11246,84.1
+2022-23,Karimnagar,Telangana,11211,71.3
+2023-24,Karimnagar,Telangana,13190,61.6
+2024-25,Karimnagar,Telangana,13971,57.9
+2025,Karimnagar,Telangana,12903,87.8
+2021,Khammam,Telangana,6717,76.8
+2022-23,Khammam,Telangana,8529,90.5
+2023-24,Khammam,Telangana,8637,78.6
+2024-25,Khammam,Telangana,10037,80.6
+2025-26,KHAMMAM,Telangana,9891,91.8
+2021-22,KOMARAM BHEEM ASIFABAD,Telangana,6623,56.1
+2022,Komaram Bheem Asifabad,Telangana,6872,90.6
+2023-24,Komaram Bheem Asifabad,Telangana,8653,79.0
+2024,KOMARAM BHEEM ASIFABAD,Telangana,8035,59.6
+2025-26,KOMARAM BHEEM ASIFABAD,Telangana,8884,85.8
+2021-22,Mahabubabad,Telangana,6560,67.6
+2022-23,Mahabubabad,Telangana,7850,90.9
+2023-24,Mahabubabad,Telangana,6241,86.3
+2024-25,Mahabubabad,Telangana,8933,88.6
+2025,MAHABUBABAD,Telangana,7371,69.0
+2021-22,Mahabubnagar,Telangana,13454,77.2
+2022,Mahabubnagar,Telangana,13892,77.6
+2023-24,Mahabubnagar,Telangana,13421,84.2
+2024-25,Mahabubnagar,Telangana,15880,61.6
+2025-26,Mahabubnagar,Telangana,18667,68.0
+2021-22,Mancherial,Telangana,7354,76.5
+2022-23,Mancherial,Telangana,8057,59.3
+2023-24,MANCHERIAL,Telangana,8251,84.9
+2024-25,Mancherial,Telangana,8165,67.0
+2025-26,Mancherial,Telangana,10672,66.9
+2021-22,Medak,Telangana,8025,58.2
+2022-23,Medak,Telangana,10857,81.7
+2023-24,Medak,Telangana,8299,64.4
+2024-25,Medak,Telangana,9835,87.6
+2025-26,Medak,Telangana,8123,68.3
+2021-22,Medchal,Telangana,9388,94.7
+2022-23,Medchal,Telangana,12052,64.8
+2023-24,Medchal,Telangana,10247,74.4
+2024-25,Medchal,Telangana,11858,57.4
+2025,Medchal,Telangana,11488,73.7
+2021-22,Nagarkurnool,Telangana,15641,78.5
+2022,Nagarkurnool,Telangana,18790,80.2
+2023-24,Nagarkurnool,Telangana,21016,90.4
+2024-25,Nagarkurnool,Telangana,20361,71.3
+2025-26,Nagarkurnool,Telangana,23049,55.9
+2021-22,NALGONDA,Telangana,8338,92.2
+2022-23,Nalgonda,Telangana,8799,74.5
+2023-24,Nalgonda,Telangana,9620,78.6
+2024-25,Nalgonda,Telangana,10082,78.5
+2025-26,Nalgonda,Telangana,11100,
+2021-22,Nirmal,Telangana,6579,94.4
+2022-23,Nirmal,Telangana,7751,67.6
+2023-24,Nirmal,Telangana,8908,83.3
+2024-25,Nirmal,Telangana,9264,59.8
+2025-26,Nirmal,Telangana,10238,88.7
+2021-22,Nizamabad,Telangana,2475,65.0
+2022,Nizamabad,Telangana,3119,80.1
+2023-24,Nizamabad,Telangana,2945,63.7
+2024-25,Nizamabad,Telangana,3231,92.7
+2025-26,Nizamabad,Telangana,3408,89.3
+2021,Peddapalli,Telangana,3653,95.9
+2022-23,Peddapalli,Telangana,5106,95.2
+2023-24,Peddapalli,Telangana,5109,68.8
+2024-25,Peddapalli,Telangana,4546,62.9
+2025-26,Peddapalli,Telangana,5228,84.6
+2021,Rajanna Sircilla,Telangana,4689,91.2
+2022-23,Rajanna Sircilla,Telangana,5176,84.3
+2023-24,Rajanna Sircilla,Telangana,4682,95.4
+2024-25,Rajanna Sircilla,Telangana,4916,68.5
+2025-26,Rajanna Sircilla,Telangana,5770,70.7
+2021,Rangareddy,Telangana,3818,93.8
+2022-23,Rangareddy,Telangana,3719,83.8
+2023,Rangareddy,Telangana,3897,57.2
+2024-25,Rangareddy,Telangana,4477,86.3
+2025-26,Rangareddy,Telangana,4473,87.9
+2021,Sangareddy,Telangana,3846,80.3
+2022-23,Sangareddy,Telangana,4852,63.4
+2023-24,Sangareddy,Telangana,5771,87.0
+2024-25,Sangareddy,Telangana,5349,77.8
+2025-26,Sangareddy,Telangana,6814,57.3
+2021-22,Siddipet,Telangana,6570,82.3
+2022,Siddipet,Telangana,6864,73.3
+2023-24,Siddipet,Telangana,6707,86.0
+2024-25,Siddipet,Telangana,6986,70.3
+2025,Siddipet,Telangana,6663,81.4
+2021-22,Suryapet,Telangana,10061,86.8
+2022,Suryapet,Telangana,13045,90.8
+2023-24,Suryapet,Telangana,13126,
+2024-25,Suryapet,Telangana,12687,61.9
+2025-26,Suryapet,Telangana,13897,59.8
+2021-22,VIKARABAD,Telangana,7775,63.9
+2022-23,Vikarabad,Telangana,8712,63.6
+2023-24,Vikarabad,Telangana,8358,59.9
+2024-25,Vikarabad,Telangana,8276,70.8
+2025-26,Vikarabad,Telangana,10007,55.2
+2021-22,Wanaparthy,Telangana,6873,70.5
+2022,Wanaparthy,Telangana,7716,87.1
+2023-24,Wanaparthy,Telangana,8005,77.4
+2024,Wanaparthy,Telangana,8636,92.4
+2025-26,Wanaparthy,Telangana,8528,72.3
+2021-22,Warangal (Rural),Telangana,10069,87.3
+2022-23,Warangal (Rural),Telangana,8060,62.4
+2023-24,Warangal (Rural),Telangana,8713,75.6
+2024-25,Warangal (Rural),Telangana,10233,60.3
+2025-26,Warangal (Rural),Telangana,11387,81.5
+2021-22,Warangal (Urban),Telangana,2500,65.1
+2022-23,Warangal (Urban),Telangana,2678,67.7
+2023,Warangal (Urban),Telangana,2619,93.8
+2024-25,Warangal (Urban),Telangana,2247,70.8
+2025-26,Warangal (Urban),Telangana,2426,92.0
+2021-22,Yadadri Bhuvanagiri,Telangana,3822,65.8
+2022-23,Yadadri Bhuvanagiri,Telangana,3170,86.8
+2023,Yadadri Bhuvanagiri,Telangana,3983,81.5
+2024,Yadadri Bhuvanagiri,Telangana,4078,86.0
+2025-26,Yadadri Bhuvanagiri,Telangana,3776,72.8
+2021-22,Dhalai,Tripura,9416,95.9
+2022-23,Dhalai,Tripura,13817,58.6
+2023,Dhalai,Tripura,12528,89.0
+2024-25,Dhalai,Tripura,12981,81.1
+2025-26,Dhalai,Tripura,12628,95.6
+2021-22,  Gomati ,Tripura,2091,92.1
+2022-23,Gomati,Tripura,2505,58.2
+2023-24,Gomati,Tripura,2491,76.8
+2024,Gomati,Tripura,2524,
+2025-26,Gomati,Tripura,2476,71.8
+2021-22,Khowai,Tripura,7286,93.0
+2022-23,Khowai,Tripura,8332,58.7
+2023,Khowai,Tripura,9252,72.6
+2024-25,Khowai,Tripura,10827,92.4
+2025-26,Khowai,Tripura,10143,95.8
+2021-22,NORTH TRIPURA,Tripura,15882,88.9
+2022-23,North Tripura,Tripura,14975,78.9
+2023,North Tripura,Tripura,16769,70.4
+2024-25,North Tripura,Tripura,17280,72.9
+2025,North Tripura,Tripura,21890,76.5
+2021-22,Sepahijala,Tripura,25397,79.6
+2022-23,Sepahijala,Tripura,25272,79.9
+2023-24,Sepahijala,Tripura,28013,80.4
+2024-25,Sepahijala,Tripura,33149,80.3
+2025-26,Sepahijala,Tripura,27497,69.8
+2021-22,South Tripura,Tripura,6869,59.2
+2022-23,South Tripura,Tripura,8014,74.3
+2023-24,South Tripura,Tripura,7503,60.8
+2024-25,SOUTH TRIPURA,Tripura,8064,94.0
+2025-26,South Tripura,Tripura,7558,63.4
+2021-22,Unakoti,Tripura,16820,84.9
+2022,Unakoti,Tripura,24701,83.4
+2023-24,Unakoti,Tripura,25227,79.1
+2024-25,Unakoti,Tripura,24057,78.7
+2025-26,Unakoti,Tripura,23535,84.9
+2021-22,West Tripura,Tripura,7301,86.8
+2022-23,West Tripura,Tripura,7285,68.8
+2023-24,West Tripura,Tripura,8482,87.7
+2024,West Tripura,Tripura,10818,85.4
+2025-26,West Tripura,Tripura,9000,70.1
+2021-22,Almora,Uttarakhand,3724,65.8
+2022-23,Almora,Uttarakhand,3901,73.6
+2023,Almora,Uttarakhand,4294,82.4
+2024-25,  Almora ,Uttarakhand,5299,82.4
+2025-26,Almora,Uttarakhand,4408,58.0
+2021-22,Bageshwar,Uttarakhand,9936,92.6
+2022-23,Bageshwar,Uttarakhand,9549,71.4
+2023,Bageshwar,Uttarakhand,10305,77.9
+2024-25,Bageshwar,Uttarakhand,9266,86.0
+2025-26,Bageshwar,Uttarakhand,11588,90.3
+2021-22,Chamoli,Uttarakhand,5312,91.6
+2022,Chamoli,Uttarakhand,4791,74.0
+2023-24,CHAMOLI,Uttarakhand,5041,84.1
+2024-25,Chamoli,Uttarakhand,6158,58.4
+2025-26,Chamoli,Uttarakhand,6372,81.8
+2021-22,Champawat,Uttarakhand,4669,59.5
+2022-23,Champawat,Uttarakhand,5056,91.8
+2023-24,Champawat,Uttarakhand,5705,66.4
+2024-25,Champawat,Uttarakhand,6154,75.4
+2025-26,Champawat,Uttarakhand,6756,55.9
+2021-22,Dehradun,Uttarakhand,9408,84.9
+2022,Dehradun,Uttarakhand,8147,94.3
+2023-24,Dehradun,Uttarakhand,9820,90.7
+2024-25,Dehradun,Uttarakhand,10188,64.1
+2025,Dehradun,Uttarakhand,12466,81.8
+2021-22,Haridwar,Uttarakhand,9967,71.9
+2022-23,Haridwar,Uttarakhand,8606,93.0
+2023-24,HARIDWAR,Uttarakhand,8387,73.0
+2024-25,Haridwar,Uttarakhand,9201,73.1
+2025-26,Haridwar,Uttarakhand,9988,60.0
+2021-22,Nainital,Uttarakhand,6280,70.6
+2022-23,Nainital,Uttarakhand,8939,88.6
+2023-24,Nainital,Uttarakhand,7805,76.0
+2024-25,Nainital,Uttarakhand,9939,61.3
+2025-26,Nainital,Uttarakhand,7449,88.3
+2021-22,Pauri Garhwal,Uttarakhand,7822,85.7
+2022,Pauri Garhwal,Uttarakhand,7966,66.9
+2023-24,Pauri Garhwal,Uttarakhand,8237,85.6
+2024-25,Pauri Garhwal,Uttarakhand,9107,85.7
+2025,Pauri Garhwal,Uttarakhand,8834,61.5
+2021,Pithoragarh,Uttarakhand,17031,71.4
+2022-23,Pithoragarh,Uttarakhand,18367,91.8
+2023-24,Pithoragarh,Uttarakhand,20646,88.1
+2024-25,Pithoragarh,Uttarakhand,18922,84.6
+2025-26,Pithoragarh,Uttarakhand,22353,83.4
+2021,Rudraprayag,Uttarakhand,20326,56.8
+2022-23,Rudraprayag,Uttarakhand,19758,69.9
+2023,Rudraprayag,Uttarakhand,23957,63.3
+2024,Rudraprayag,Uttarakhand,27995,66.0
+2025-26,Rudraprayag,Uttarakhand,28155,75.1
+2021-22,TEHRI GARHWAL,Uttarakhand,3157,69.7
+2022-23,Tehri Garhwal,Uttarakhand,4447,89.1
+2023-24,Tehri Garhwal,Uttarakhand,3845,70.1
+2024-25,Tehri Garhwal,Uttarakhand,4332,94.5
+2025,tehri garhwal,Uttarakhand,4096,66.0
+2021,Udham Singh Nagar,Uttarakhand,1380,67.8
+2022-23,Udham Singh Nagar,Uttarakhand,1518,71.2
+2023-24,Udham Singh Nagar,Uttarakhand,1933,57.4
+2024-25,Udham Singh Nagar,Uttarakhand,2282,76.6
+2025-26,Udham Singh Nagar,Uttarakhand,2101,81.8
+2021-22,Uttarkashi,Uttarakhand,12718,58.8
+2022-23,Uttarkashi,Uttarakhand,10103,86.5
+2023-24,Uttarkashi,Uttarakhand,12884,57.2
+2024-25,Uttarkashi,Uttarakhand,12198,76.0
+2025,Uttarkashi,Uttarakhand,14727,56.5
+2021-22,Agra,Uttar Pradesh,2284,69.1
+2022-23,Agra,Uttar Pradesh,1971,93.6
+2023-24,Agra,Uttar Pradesh,1735,88.3
+2024-25,Agra,Uttar Pradesh,2057,63.5
+2025-26,Agra,Uttar Pradesh,2415,66.0
+2021,Aligarh,Uttar Pradesh,5341,82.9
+2022-23,Aligarh,Uttar Pradesh,6731,79.0
+2023-24,Aligarh,Uttar Pradesh,4914,63.2
+2024,Aligarh,Uttar Pradesh,5527,
+2025-26,Aligarh,Uttar Pradesh,6564,85.2
+2021-22,Allahabad,Uttar Pradesh,3247,75.4
+2022-23,Allahabad,Uttar Pradesh,2731,62.9
+2023-24,Allahabad,Uttar Pradesh,2638,92.4
+2024,Allahabad,Uttar Pradesh,3150,72.7
+2025-26,Allahabad,Uttar Pradesh,3733,77.5
+2021,Ambedkar  Nagar,Uttar Pradesh,2122,60.6
+2022-23,Ambedkar Nagar,Uttar Pradesh,2329,86.4
+2023-24,Ambedkar Nagar,Uttar Pradesh,2416,73.5
+2024-25,Ambedkar Nagar,Uttar Pradesh,2371,93.9
+2025-26,Ambedkar Nagar,Uttar Pradesh,2689,63.2
+2021-22,Amethi (Chatrapati Sahuji Mahraj Nagar),Uttar Pradesh,6288,57.6
+2022,Amethi (Chatrapati Sahuji Mahraj Nagar),Uttar Pradesh,7938,55.4
+2023,Amethi (Chatrapati Sahuji Mahraj Nagar),Uttar Pradesh,8155,64.7
+2024,Amethi (Chatrapati Sahuji Mahraj Nagar),Uttar Pradesh,8073,77.7
+2025-26,Amethi (Chatrapati Sahuji Mahraj Nagar),Uttar Pradesh,9509,86.5
+2021-22,Amroha (J.P. Nagar),Uttar Pradesh,16497,63.5
+2022-23,Amroha (J.P. Nagar),Uttar Pradesh,14931,59.2
+2023-24,Amroha (J.P. Nagar),Uttar Pradesh,19963,59.8
+2024-25,Amroha (J.P. Nagar),Uttar Pradesh,22041,93.0
+2025-26,Amroha (J.P. Nagar),Uttar Pradesh,23007,91.3
+2021-22,Auraiya,Uttar Pradesh,4196,67.3
+2022,Auraiya,Uttar Pradesh,4322,75.4
+2023,Auraiya,Uttar Pradesh,4007,72.2
+2024,Auraiya,Uttar Pradesh,4557,72.3
+2025,AURAIYA,Uttar Pradesh,5676,87.2
+2021-22,Azamgarh,Uttar Pradesh,879,61.7
+2022,Azamgarh,Uttar Pradesh,758,86.8
+2023,Azamgarh,Uttar Pradesh,974,75.3
+2024-25,Azamgarh,Uttar Pradesh,1065,90.5
+2025,Azamgarh,Uttar Pradesh,1000,93.0
+2021-22,BAGHPAT,Uttar Pradesh,4067,72.6
+2022-23,Baghpat,Uttar Pradesh,3882,91.9
+2023-24,Baghpat,Uttar Pradesh,4529,89.6
+2024-25,Baghpat,Uttar Pradesh,4004,72.7
+2025-26,Baghpat,Uttar Pradesh,4272,94.2
+2021-22,Bahraich,Uttar Pradesh,6100,57.2
+2022-23,Bahraich,Uttar Pradesh,7545,74.8
+2023,Bahraich,Uttar Pradesh,6839,84.9
+2024,Bahraich,Uttar Pradesh,7186,63.7
+2025-26,Bahraich,Uttar Pradesh,8206,85.6
+2021-22,Ballia,Uttar Pradesh,2301,80.1
+2022-23,Ballia,Uttar Pradesh,2539,94.7
+2023-24,Ballia,Uttar Pradesh,3142,82.5
+2024-25,Ballia,Uttar Pradesh,2887,86.0
+2025,Ballia,Uttar Pradesh,3886,55.3
+2021,Balrampur,Uttar Pradesh,7541,78.7
+2022-23,Balrampur,Uttar Pradesh,8074,85.7
+2023,Balrampur,Uttar Pradesh,7528,73.1
+2024-25,Balrampur,Uttar Pradesh,8886,94.1
+2025-26,Balrampur,Uttar Pradesh,9358,67.2
+2021-22,Banda,Uttar Pradesh,5118,74.8
+2022-23,Banda,Uttar Pradesh,4565,
+2023,Banda,Uttar Pradesh,5094,69.4
+2024,Banda,Uttar Pradesh,5614,63.8
+2025-26,Banda,Uttar Pradesh,6200,93.3
+2021-22,Barabanki,Uttar Pradesh,6044,56.2
+2022,Barabanki,Uttar Pradesh,7843,89.9
+2023-24,Barabanki,Uttar Pradesh,7753,78.3
+2024-25,Barabanki,Uttar Pradesh,8604,89.1
+2025-26,Barabanki,Uttar Pradesh,9662,68.5
+2021,Bareilly,Uttar Pradesh,6222,86.2
+2022-23,Bareilly,Uttar Pradesh,7508,77.0
+2023,Bareilly,Uttar Pradesh,7543,82.3
+2024-25,Bareilly,Uttar Pradesh,7662,79.3
+2025-26,Bareilly,Uttar Pradesh,9435,94.5
+2021-22,Basti,Uttar Pradesh,6627,69.1
+2022-23,Basti,Uttar Pradesh,5387,71.5
+2023-24,Basti,Uttar Pradesh,5382,76.5
+2024-25,Basti,Uttar Pradesh,6491,58.6
+2025-26,Basti,Uttar Pradesh,7591,88.1
+2021-22,Bhadohi,Uttar Pradesh,15815,78.5
+2022-23,Bhadohi,Uttar Pradesh,16662,72.2
+2023-24,Bhadohi,Uttar Pradesh,15750,68.2
+2024-25,  Bhadohi ,Uttar Pradesh,18336,57.5
+2025,Bhadohi,Uttar Pradesh,19903,87.3
+2021-22,Bijnor,Uttar Pradesh,4765,59.3
+2022-23,Bijnor,Uttar Pradesh,3988,73.3
+2023,Bijnor,Uttar Pradesh,5265,72.2
+2024-25,Bijnor,Uttar Pradesh,3972,94.2
+2025-26,Bijnor,Uttar Pradesh,5157,69.3
+2021-22,Budaun,Uttar Pradesh,6490,55.4
+2022-23,Budaun,Uttar Pradesh,5976,87.0
+2023-24,Budaun,Uttar Pradesh,6870,65.7
+2024,Budaun,Uttar Pradesh,6010,90.8
+2025-26,Budaun,Uttar Pradesh,7118,71.1
+2021-22,Bulandshahr,Uttar Pradesh,2925,58.4
+2022-23,Bulandshahr,Uttar Pradesh,3542,59.8
+2023-24,Bulandshahr,Uttar Pradesh,3712,87.9
+2024-25,Bulandshahr,Uttar Pradesh,3259,59.6
+2025,Bulandshahr,Uttar Pradesh,3358,89.3
+2021-22,Chandauli,Uttar Pradesh,3383,72.4
+2022-23,Chandauli,Uttar Pradesh,3187,71.1
+2023-24,Chandauli,Uttar Pradesh,3052,70.7
+2024,Chandauli,Uttar Pradesh,2666,73.9
+2025-26,Chandauli,Uttar Pradesh,3902,80.9
+2021-22,Chitrakoot,Uttar Pradesh,3205,90.1
+2022,Chitrakoot,Uttar Pradesh,4422,56.4
+2023-24,Chitrakoot,Uttar Pradesh,3481,66.7
+2024-25,CHITRAKOOT,Uttar Pradesh,3605,84.7
+2025-26,Chitrakoot,Uttar Pradesh,4514,56.2
+2021-22,  Deoria ,Uttar Pradesh,5382,84.3
+2022-23,Deoria,Uttar Pradesh,5578,83.7
+2023-24,Deoria,Uttar Pradesh,4917,72.0
+2024-25,Deoria,Uttar Pradesh,6159,76.1
+2025-26,Deoria,Uttar Pradesh,6114,70.1
+2021-22,Etah,Uttar Pradesh,29203,90.1
+2022-23,  Etah ,Uttar Pradesh,26372,57.4
+2023-24,Etah,Uttar Pradesh,31500,71.5
+2024-25,Etah,Uttar Pradesh,28599,71.4
+2025-26,ETAH,Uttar Pradesh,33389,66.9
+2021-22,Etawah,Uttar Pradesh,4145,74.8
+2022-23,Etawah,Uttar Pradesh,4143,83.7
+2023-24,Etawah,Uttar Pradesh,5137,69.4
+2024,ETAWAH,Uttar Pradesh,5032,64.1
+2025-26,Etawah,Uttar Pradesh,5185,57.1
+2021-22,Faizabad,Uttar Pradesh,2477,74.8
+2022-23,Faizabad,Uttar Pradesh,2828,81.9
+2023-24,Faizabad,Uttar Pradesh,3271,91.1
+2024-25,Faizabad,Uttar Pradesh,3198,69.8
+2025,Faizabad,Uttar Pradesh,2993,79.0
+2021-22,Farrukhabad,Uttar Pradesh,17250,83.9
+2022-23,Farrukhabad,Uttar Pradesh,17290,78.5
+2023-24,Farrukhabad,Uttar Pradesh,19362,61.9
+2024-25,FARRUKHABAD,Uttar Pradesh,25034,64.4
+2025,Farrukhabad,Uttar Pradesh,21065,71.7
+2021-22,Fatehpur,Uttar Pradesh,4861,89.1
+2022,Fatehpur,Uttar Pradesh,4849,59.9
+2023,FATEHPUR,Uttar Pradesh,4574,61.0
+2024-25,Fatehpur,Uttar Pradesh,5710,84.7
+2025,fatehpur,Uttar Pradesh,5171,86.3
+2021-22,Firozabad,Uttar Pradesh,9035,85.9
+2022-23,Firozabad,Uttar Pradesh,7348,82.1
+2023,FIROZABAD,Uttar Pradesh,9922,58.0
+2024-25,Firozabad,Uttar Pradesh,11259,74.2
+2025-26,Firozabad,Uttar Pradesh,10784,60.2
+2021-22,Gautam Buddha Nagar,Uttar Pradesh,16341,83.7
+2022,Gautam Buddha Nagar,Uttar Pradesh,16231,69.1
+2023,Gautam Buddha Nagar,Uttar Pradesh,17014,83.1
+2024-25,Gautam Buddha Nagar,Uttar Pradesh,15545,72.1
+2025,Gautam Buddha Nagar,Uttar Pradesh,20409,75.2
+2021,GHAZIABAD,Uttar Pradesh,3445,61.7
+2022-23,Ghaziabad,Uttar Pradesh,4654,65.1
+2023-24,Ghaziabad,Uttar Pradesh,5333,90.8
+2024-25,Ghaziabad,Uttar Pradesh,4906,91.8
+2025-26,Ghaziabad,Uttar Pradesh,5652,65.7
+2021-22,GHAZIPUR,Uttar Pradesh,25235,73.1
+2022-23,GHAZIPUR,Uttar Pradesh,24981,82.4
+2023-24,GHAZIPUR,Uttar Pradesh,26765,64.6
+2024-25,Ghazipur,Uttar Pradesh,27283,61.8
+2025-26,Ghazipur,Uttar Pradesh,31535,67.6
+2021-22,Gonda,Uttar Pradesh,9556,84.6
+2022,Gonda,Uttar Pradesh,11012,57.5
+2023-24,Gonda,Uttar Pradesh,11885,92.1
+2024,Gonda,Uttar Pradesh,13237,80.8
+2025-26,Gonda,Uttar Pradesh,15658,77.0
+2021-22,Gorakhpur,Uttar Pradesh,4697,59.6
+2022-23,GORAKHPUR,Uttar Pradesh,5223,95.3
+2023-24,Gorakhpur,Uttar Pradesh,4521,67.6
+2024-25,GORAKHPUR,Uttar Pradesh,5750,79.2
+2025-26,Gorakhpur,Uttar Pradesh,5513,72.8
+2021-22,Hamirpur,Uttar Pradesh,30398,87.1
+2022-23,Hamirpur,Uttar Pradesh,30870,90.9
+2023,HAMIRPUR,Uttar Pradesh,29888,61.5
+2024-25,Hamirpur,Uttar Pradesh,35786,70.8
+2025-26,Hamirpur,Uttar Pradesh,32683,60.8
+2021,Panchsheel Nagar,Uttar Pradesh,2985,72.2
+2022-23,Hapur (Panchsheel Nagar),Uttar Pradesh,3527,78.8
+2023-24,Hapur (Panchsheel Nagar),Uttar Pradesh,3438,72.8
+2024,Hapur (Panchsheel Nagar),Uttar Pradesh,4257,84.2
+2025-26,Hapur (Panchsheel Nagar),Uttar Pradesh,4328,59.7
+2021-22,Hardoi,Uttar Pradesh,10965,90.5
+2022-23,Hardoi,Uttar Pradesh,11246,85.7
+2023-24,Hardoi,Uttar Pradesh,9859,56.0
+2024-25,Hardoi,Uttar Pradesh,13053,87.1
+2025-26,Hardoi,Uttar Pradesh,14343,72.9
+2021,Hathras,Uttar Pradesh,6816,64.5
+2022-23,Hathras,Uttar Pradesh,7322,94.9
+2023-24,Hathras,Uttar Pradesh,8026,89.1
+2024-25,Hathras,Uttar Pradesh,9092,91.5
+2025-26,Hathras,Uttar Pradesh,9719,64.3
+2021,Jalaun,Uttar Pradesh,14162,85.9
+2022-23,Jalaun,Uttar Pradesh,16614,
+2023,Jalaun,Uttar Pradesh,16951,73.4
+2024,Jalaun,Uttar Pradesh,17836,65.4
+2025,Jalaun,Uttar Pradesh,20965,90.9
+2021,Jaunpur,Uttar Pradesh,21831,59.9
+2022-23,Jaunpur,Uttar Pradesh,26859,92.2
+2023,Jaunpur,Uttar Pradesh,22735,
+2024-25,JAUNPUR,Uttar Pradesh,21872,60.6
+2025-26,Jaunpur,Uttar Pradesh,28221,71.8
+2021-22,Jhansi,Uttar Pradesh,6416,76.6
+2022-23,Jhansi,Uttar Pradesh,5915,65.0
+2023-24,Jhansi,Uttar Pradesh,6319,80.8
+2024-25,Jhansi,Uttar Pradesh,7416,82.4
+2025-26,Jhansi,Uttar Pradesh,7446,72.4
+2021-22,Kannauj,Uttar Pradesh,5721,69.7
+2022-23,Kannauj,Uttar Pradesh,6820,72.8
+2023-24,Kannauj,Uttar Pradesh,7262,81.9
+2024-25,Kannauj,Uttar Pradesh,6822,89.5
+2025-26,Kannauj,Uttar Pradesh,6497,75.8
+2021-22,Kanpur Dehat,Uttar Pradesh,6313,96.0
+2022,Kanpur Dehat,Uttar Pradesh,5992,80.0
+2023-24,Kanpur Dehat,Uttar Pradesh,6677,82.9
+2024-25,Kanpur Dehat,Uttar Pradesh,6157,60.7
+2025-26,Kanpur Dehat,Uttar Pradesh,8595,95.6
+2021,Kanpur Nagar,Uttar Pradesh,5283,82.4
+2022,Kanpur Nagar,Uttar Pradesh,6659,76.8
+2023,Kanpur Nagar,Uttar Pradesh,6826,92.1
+2024-25,Kanpur Nagar,Uttar Pradesh,6240,55.6
+2025-26,Kanpur Nagar,Uttar Pradesh,5939,91.5
+2021-22,Kanshiram Nagar (Kasganj),Uttar Pradesh,40733,81.2
+2022,Kanshiram Nagar (Kasganj),Uttar Pradesh,36540,60.0
+2023-24,Kanshiram Nagar (Kasganj),Uttar Pradesh,47316,57.7
+2024-25,Kanshiram Nagar (Kasganj),Uttar Pradesh,58879,61.2
+2025-26,Kanshiram Nagar (Kasganj),Uttar Pradesh,45866,92.3
+2021-22,Kaushambi,Uttar Pradesh,5974,82.3
+2022,Kaushambi,Uttar Pradesh,6087,76.1
+2023-24,Kaushambi,Uttar Pradesh,5897,74.7
+2024-25,Kaushambi,Uttar Pradesh,5566,65.8
+2025-26,Kaushambi,Uttar Pradesh,5876,84.9
+2021-22,Kushinagar (Padrauna),Uttar Pradesh,4630,59.0
+2022-23,  Kushinagar (Padrauna) ,Uttar Pradesh,3808,92.9
+2023-24,Kushinagar (Padrauna),Uttar Pradesh,4935,65.2
+2024-25,Kushinagar (Padrauna),Uttar Pradesh,5484,66.3
+2025,Kushinagar (Padrauna),Uttar Pradesh,6161,85.6
+2021-22,Lakhimpur - Kheri,Uttar Pradesh,6637,62.1
+2022-23,Lakhimpur - Kheri,Uttar Pradesh,6448,
+2023-24,Lakhimpur - Kheri,Uttar Pradesh,6209,95.6
+2024,Lakhimpur Kheri,Uttar Pradesh,7874,65.1
+2025,Lakhimpur - Kheri,Uttar Pradesh,9776,61.4
+2021-22,Lalitpur,Uttar Pradesh,1665,76.6
+2022-23,Lalitpur,Uttar Pradesh,1681,62.0
+2023-24,Lalitpur,Uttar Pradesh,2002,76.6
+2024-25,Lalitpur,Uttar Pradesh,2105,70.0
+2025-26,Lalitpur,Uttar Pradesh,2459,88.5
+2021-22,Lucknow,Uttar Pradesh,2875,93.3
+2022-23,Lucknow,Uttar Pradesh,2502,92.1
+2023-24,Lucknow,Uttar Pradesh,2785,62.5
+2024-25,LUCKNOW,Uttar Pradesh,2773,90.3
+2025,Lucknow,Uttar Pradesh,2697,79.0
+2021-22,Maharajganj,Uttar Pradesh,14233,95.9
+2022-23,Maharajganj,Uttar Pradesh,13798,94.5
+2023,Maharajganj,Uttar Pradesh,15113,71.3
+2024-25,Maharajganj,Uttar Pradesh,16907,95.7
+2025-26,Maharajganj,Uttar Pradesh,16140,69.6
+2021,Mahoba,Uttar Pradesh,6775,60.8
+2022,MAHOBA,Uttar Pradesh,7957,93.9
+2023-24,Mahoba,Uttar Pradesh,7953,88.6
+2024-25,Mahoba,Uttar Pradesh,9375,55.9
+2025-26,Mahoba,Uttar Pradesh,8237,62.5
+2021-22,Mainpuri,Uttar Pradesh,3203,82.6
+2022-23,Mainpuri,Uttar Pradesh,4251,83.2
+2023,Mainpuri,Uttar Pradesh,4949,67.8
+2024-25,Mainpuri,Uttar Pradesh,4911,63.9
+2025-26,Mainpuri,Uttar Pradesh,4010,69.2
+2021,Mathura,Uttar Pradesh,15285,63.7
+2022-23,Mathura,Uttar Pradesh,13003,94.9
+2023-24,Mathura,Uttar Pradesh,14165,75.6
+2024-25,Mathura,Uttar Pradesh,16097,88.9
+2025,Mathura,Uttar Pradesh,17739,86.0
+2021,Mau,Uttar Pradesh,21978,61.7
+2022-23,Mau,Uttar Pradesh,20135,73.4
+2023-24,Mau,Uttar Pradesh,22306,80.5
+2024-25,Mau,Uttar Pradesh,19419,95.4
+2025-26,Mau,Uttar Pradesh,28434,72.4
+2021-22,Meerut,Uttar Pradesh,10340,63.7
+2022-23,Meerut,Uttar Pradesh,8946,69.2
+2023-24,Meerut,Uttar Pradesh,9023,77.7
+2024-25,Meerut,Uttar Pradesh,9391,79.8
+2025-26,MEERUT,Uttar Pradesh,8976,83.9
+2021,Mirzapur,Uttar Pradesh,11429,58.3
+2022-23,Mirzapur,Uttar Pradesh,11025,92.0
+2023-24,Mirzapur,Uttar Pradesh,14991,92.8
+2024-25,Mirzapur,Uttar Pradesh,13698,63.4
+2025-26,Mirzapur,Uttar Pradesh,15687,88.7
+2021-22,Moradabad,Uttar Pradesh,4090,56.8
+2022-23,MORADABAD,Uttar Pradesh,4378,81.0
+2023,Moradabad,Uttar Pradesh,4461,88.9
+2024,Moradabad,Uttar Pradesh,4796,90.0
+2025-26,Moradabad,Uttar Pradesh,4262,86.0
+2021,Muzaffarnagar,Uttar Pradesh,1903,74.8
+2022,MUZAFFARNAGAR,Uttar Pradesh,1760,76.7
+2023-24,Muzaffarnagar,Uttar Pradesh,1596,66.8
+2024-25,Muzaffarnagar,Uttar Pradesh,2288,82.8
+2025,Muzaffarnagar,Uttar Pradesh,2148,68.1
+2021-22,Pilibhit,Uttar Pradesh,21072,70.6
+2022-23,Pilibhit,Uttar Pradesh,21909,75.1
+2023,Pilibhit,Uttar Pradesh,26282,85.1
+2024-25,Pilibhit,Uttar Pradesh,30023,72.8
+2025-26,Pilibhit,Uttar Pradesh,28832,85.6
+2021-22,Pratapgarh,Uttar Pradesh,4289,88.3
+2022,PRATAPGARH,Uttar Pradesh,5873,56.2
+2023,Pratapgarh,Uttar Pradesh,5052,71.8
+2024-25,Pratapgarh,Uttar Pradesh,5754,80.0
+2025-26,Pratapgarh,Uttar Pradesh,5973,60.4
+2021-22,RaeBareli,Uttar Pradesh,5339,69.8
+2022-23,RaeBareli,Uttar Pradesh,5662,87.8
+2023,RaeBareli,Uttar Pradesh,5693,94.5
+2024-25,RAEBARELI,Uttar Pradesh,5424,74.5
+2025-26,RaeBareli,Uttar Pradesh,6784,65.0
+2021-22,Rampur,Uttar Pradesh,20045,82.6
+2022-23,RAMPUR,Uttar Pradesh,20075,79.3
+2023-24,Rampur,Uttar Pradesh,24534,57.1
+2024-25,Rampur,Uttar Pradesh,25603,65.2
+2025,Rampur,Uttar Pradesh,26919,71.4
+2021-22,Saharanpur,Uttar Pradesh,10263,66.4
+2022,Saharanpur,Uttar Pradesh,10539,69.9
+2023-24,Saharanpur,Uttar Pradesh,10618,88.4
+2024-25,Saharanpur,Uttar Pradesh,13805,81.2
+2025-26,Saharanpur,Uttar Pradesh,13717,71.7
+2021-22,Sambhal (Bhim Nagar),Uttar Pradesh,8766,89.2
+2022-23,Sambhal (Bhim Nagar),Uttar Pradesh,8701,92.9
+2023,Sambhal (Bhim Nagar),Uttar Pradesh,10044,65.1
+2024-25,Sambhal (Bhim Nagar),Uttar Pradesh,11207,69.5
+2025,Sambhal (Bhim Nagar),Uttar Pradesh,10424,81.2
+2021-22,Sant Kabir Nagar,Uttar Pradesh,42647,85.8
+2022-23,Sant Kabir Nagar,Uttar Pradesh,46155,62.3
+2023-24,Sant Kabir Nagar,Uttar Pradesh,55225,59.8
+2024-25,Sant Kabir Nagar,Uttar Pradesh,45722,63.1
+2025-26,Sant Kabir Nagar,Uttar Pradesh,59285,77.8
+2021-22,Shahjahanpur,Uttar Pradesh,2811,76.5
+2022-23,Shahjahanpur,Uttar Pradesh,3404,58.9
+2023-24,SHAHJAHANPUR,Uttar Pradesh,3652,79.5
+2024,Shahjahanpur,Uttar Pradesh,4258,84.4
+2025,Shahjahanpur,Uttar Pradesh,3706,67.8
+2021-22,Shamali (Prabuddh Nagar),Uttar Pradesh,14231,78.8
+2022-23,Shamali (Prabuddh Nagar),Uttar Pradesh,15891,78.6
+2023,Shamali (Prabuddh Nagar),Uttar Pradesh,19295,66.6
+2024-25,Shamali (Prabuddh Nagar),Uttar Pradesh,17037,76.2
+2025-26,Shamali (Prabuddh Nagar),Uttar Pradesh,18264,62.2
+2021-22,Shravasti,Uttar Pradesh,6801,64.0
+2022-23,Shravasti,Uttar Pradesh,7791,65.1
+2023,Shravasti,Uttar Pradesh,7935,66.5
+2024-25,Shravasti,Uttar Pradesh,7872,70.6
+2025-26,Shravasti,Uttar Pradesh,8901,69.8
+2021-22,Siddharth Nagar,Uttar Pradesh,7432,60.7
+2022,Siddharth Nagar,Uttar Pradesh,8125,77.8
+2023-24,Siddharth Nagar,Uttar Pradesh,8409,57.4
+2024-25,Siddharth Nagar,Uttar Pradesh,6925,87.7
+2025-26,Siddharth Nagar,Uttar Pradesh,7838,57.3
+2021-22,Sitapur,Uttar Pradesh,22805,86.5
+2022-23,SITAPUR,Uttar Pradesh,24295,60.3
+2023,Sitapur,Uttar Pradesh,24098,85.3
+2024,Sitapur,Uttar Pradesh,23769,82.9
+2025,Sitapur,Uttar Pradesh,26291,72.5
+2021,Sonbhadra,Uttar Pradesh,7411,74.0
+2022-23,Sonbhadra,Uttar Pradesh,7984,56.7
+2023-24,Sonbhadra,Uttar Pradesh,6955,86.8
+2024-25,Sonbhadra,Uttar Pradesh,9200,58.0
+2025,Sonbhadra,Uttar Pradesh,8370,75.4
+2021,Sultanpur,Uttar Pradesh,11757,91.3
+2022-23,Sultanpur,Uttar Pradesh,11494,73.3
+2023-24,Sultanpur,Uttar Pradesh,12682,81.0
+2024-25,Sultanpur,Uttar Pradesh,13247,85.3
+2025-26,Sultanpur,Uttar Pradesh,15639,72.3
+2021-22,Unnao,Uttar Pradesh,12731,70.9
+2022-23,Unnao,Uttar Pradesh,16835,96.0
+2023-24,UNNAO,Uttar Pradesh,14117,95.0
+2024-25,Unnao,Uttar Pradesh,14538,55.3
+2025-26,Unnao,Uttar Pradesh,18470,86.8
+2021-22,Varanasi,Uttar Pradesh,3560,72.3
+2022-23,Varanasi,Uttar Pradesh,4447,85.6
+2023-24,Varanasi,Uttar Pradesh,4795,70.6
+2024,Varanasi,Uttar Pradesh,4768,63.5
+2025-26,Varanasi,Uttar Pradesh,5550,85.9
+2021,Alipurduar,West Bengal,4861,83.1
+2022,Alipurduar,West Bengal,4123,66.3
+2023-24,Alipurduar,West Bengal,5695,82.8
+2024-25,Alipurduar,West Bengal,5564,92.1
+2025-26,ALIPURDUAR,West Bengal,5781,56.8
+2021-22,Bankura,West Bengal,2499,56.1
+2022-23,Bankura,West Bengal,2381,73.3
+2023,BANKURA,West Bengal,3292,73.1
+2024-25,Bankura,West Bengal,2645,61.2
+2025-26,Bankura,West Bengal,2987,65.1
+2021-22,Birbhum,West Bengal,979,89.5
+2022,Birbhum,West Bengal,1118,73.6
+2023-24,Birbhum,West Bengal,1010,92.7
+2024,Birbhum,West Bengal,1531,67.9
+2025-26,Birbhum,West Bengal,1494,56.8
+2021-22,Burdwan (Bardhaman),West Bengal,20929,73.6
+2022-23,Burdwan (Bardhaman),West Bengal,22421,77.9
+2023-24,Burdwan (Bardhaman),West Bengal,23836,76.3
+2024-25,Burdwan (Bardhaman),West Bengal,23207,66.6
+2025-26,Burdwan (Bardhaman),West Bengal,27155,71.4
+2021-22,Cooch Behar,West Bengal,3254,81.0
+2022-23,Cooch Behar,West Bengal,4510,86.8
+2023-24,Cooch Behar,West Bengal,3343,95.9
+2024-25,Cooch Behar,West Bengal,3448,95.1
+2025-26,Cooch Behar,West Bengal,4003,66.7
+2021,Dakshin Dinajpur (South Dinajpur),West Bengal,4408,91.6
+2022,Dakshin Dinajpur (South Dinajpur),West Bengal,4230,68.8
+2023,Dakshin Dinajpur (South Dinajpur),West Bengal,5336,76.4
+2024-25,Dakshin Dinajpur (South Dinajpur),West Bengal,5489,79.5
+2025-26,Dakshin Dinajpur (South Dinajpur),West Bengal,6010,91.5
+2021,DARJEELING,West Bengal,8322,90.5
+2022,Darjeeling,West Bengal,9319,86.3
+2023-24,Darjeeling,West Bengal,10641,61.8
+2024-25,Darjeeling,West Bengal,10234,60.6
+2025-26,Darjeeling,West Bengal,12804,84.8
+2021,Hooghly,West Bengal,7077,90.3
+2022-23,Hooghly,West Bengal,5015,70.0
+2023-24,Hooghly,West Bengal,5837,80.9
+2024,Hooghly,West Bengal,5696,64.2
+2025-26,Hooghly,West Bengal,7252,92.3
+2021,Howrah,West Bengal,20721,80.3
+2022-23,Howrah,West Bengal,17966,95.2
+2023,Howrah,West Bengal,27913,58.7
+2024,Howrah,West Bengal,21527,69.5
+2025,Howrah,West Bengal,24726,90.7
+2021-22,Jalpaiguri,West Bengal,12681,63.4
+2022-23,Jalpaiguri,West Bengal,11552,95.1
+2023-24,Jalpaiguri,West Bengal,12553,56.2
+2024-25,Jalpaiguri,West Bengal,12849,
+2025,Jalpaiguri,West Bengal,16682,95.6
+2021-22,KALIMPONG,West Bengal,4722,86.2
+2022-23,KALIMPONG,West Bengal,4383,74.1
+2023-24,Kalimpong,West Bengal,5684,90.1
+2024-25,Kalimpong,West Bengal,3605,64.5
+2025-26,Kalimpong,West Bengal,4666,81.1
+2021-22,Kolkata,West Bengal,4054,76.1
+2022,Kolkata,West Bengal,5354,64.7
+2023-24,KOLKATA,West Bengal,5421,73.0
+2024,Kolkata,West Bengal,5044,82.5
+2025-26,Kolkata,West Bengal,6851,81.2
+2021-22,Malda,West Bengal,9889,73.4
+2022-23,Malda,West Bengal,8455,55.1
+2023,Malda,West Bengal,9657,90.0
+2024-25,Malda,West Bengal,10662,93.2
+2025-26,Malda,West Bengal,9527,70.6
+2021,Murshidabad,West Bengal,5371,72.6
+2022,Murshidabad,West Bengal,6279,61.6
+2023-24,Murshidabad,West Bengal,5538,91.7
+2024,Murshidabad,West Bengal,5646,62.6
+2025-26,Murshidabad,West Bengal,6360,88.3
+2021-22,Nadia,West Bengal,30022,57.8
+2022-23,Nadia,West Bengal,29009,88.8
+2023-24,Nadia,West Bengal,30684,79.1
+2024-25,Nadia,West Bengal,39073,86.3
+2025-26,Nadia,West Bengal,38894,55.7
+2021-22,North Twenty Four Parganas,West Bengal,8379,87.8
+2022-23,North 24 Parganas,West Bengal,9032,55.4
+2023-24,North 24 Parganas,West Bengal,9931,58.5
+2024,North 24 Parganas,West Bengal,10656,82.1
+2025-26,North 24 Parganas,West Bengal,12361,73.8
+2021-22,West Medinipur,West Bengal,10280,90.2
+2022,Paschim Medinipur (West Medinipur),West Bengal,12698,81.6
+2023-24,Paschim Medinipur (West Medinipur),West Bengal,12877,64.8
+2024-25,Paschim Medinipur (West Medinipur),West Bengal,12481,72.5
+2025-26,Paschim Medinipur (West Medinipur),West Bengal,13698,68.5
+2021-22,Purba Medinipur (East Medinipur),West Bengal,8829,89.3
+2022-23,Purba Medinipur (East Medinipur),West Bengal,9478,89.4
+2023,Purba Medinipur (East Medinipur),West Bengal,13423,72.2
+2024-25,Purba Medinipur (East Medinipur),West Bengal,12412,80.7
+2025,Purba Medinipur (East Medinipur),West Bengal,11971,87.4
+2021,Purulia,West Bengal,17418,91.6
+2022,  Purulia ,West Bengal,16942,69.6
+2023,Purulia,West Bengal,14644,83.7
+2024-25,Purulia,West Bengal,16769,94.7
+2025-26,Purulia,West Bengal,17385,79.9
+2021,South 24 Parganas,West Bengal,7503,69.7
+2022-23,South 24 Parganas,West Bengal,7329,64.5
+2023-24,South 24 Parganas,West Bengal,9517,
+2024-25,South 24 Parganas,West Bengal,7542,71.6
+2025-26,South 24 Parganas,West Bengal,10957,91.9
+2021-22,Uttar Dinajpur (North Dinajpur),West Bengal,1902,68.1
+2022-23,Uttar Dinajpur (North Dinajpur),West Bengal,1853,69.0
+2023-24,Uttar Dinajpur (North Dinajpur),West Bengal,1708,76.0
+2024-25,Uttar Dinajpur (North Dinajpur),West Bengal,1867,85.4
+2025-26,Uttar Dinajpur (North Dinajpur),West Bengal,2036,76.2
