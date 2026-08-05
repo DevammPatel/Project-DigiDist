@@ -44,11 +44,18 @@ computed in SQL and **Power BI-ready exports**.
 ## Run it
 
 ```bash
-pip install pandas numpy psycopg2-binary rapidfuzz
-# with your own PostgreSQL: create db `digital_economy`, adjust DSN in scripts
+# 1) Create and activate a local Python environment
+python3 -m venv .venv
+source .venv/bin/activate
+python -m pip install --upgrade pip
+python -m pip install -r requirements.txt
+
+# 2) Run the ETL with your own PostgreSQL server
+# create db `digital_economy`, then adjust the DSN in scripts/etl_pipeline.py if needed
 ./run_pipeline.sh
-# or, with zero-install embedded PostgreSQL (used in development):
-npm install @embedded-postgres/linux-arm64   # pick your platform variant
+
+# 3) Or, for a zero-install local development setup on macOS ARM:
+npm install @embedded-postgres/darwin-arm64
 ./run_pipeline.sh --with-postgres-embedded
 ```
 
