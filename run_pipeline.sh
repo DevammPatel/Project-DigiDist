@@ -7,7 +7,7 @@ set -euo pipefail
 cd "$(dirname "$0")"
 
 if [[ "${1:-}" == "--with-postgres-embedded" ]]; then
-    PGDIR=node_modules/@embedded-postgres/linux-arm64/native   # adjust for your platform
+    PGDIR=node_modules/@embedded-postgres/darwin-arm64/native   # adjust for your platform
     export LD_LIBRARY_PATH="$PWD/$PGDIR/lib"
     [[ -d /tmp/pgdata ]] || "$PGDIR/bin/initdb" -D /tmp/pgdata -U postgres --auth=trust -E UTF8
     "$PGDIR/bin/pg_ctl" -D /tmp/pgdata -o "-p 5433 -k /tmp" -l /tmp/pglog start || true
