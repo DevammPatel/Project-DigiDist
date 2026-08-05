@@ -1,6 +1,6 @@
 run_at,source,rows_in,rows_loaded,errors_before,errors_after,notes
-2026-07-15 06:21:32.715772+00:00,district_demographics.csv,712,712,46,0,
-2026-07-15 06:21:32.715772+00:00,upi_transactions_monthly.csv,43710,42829,5275,0,
-2026-07-15 06:21:32.715772+00:00,broadband_subscribers_quarterly.csv,14498,14277,1237,0,
-2026-07-15 06:21:32.715772+00:00,gst_registrations_annual.csv,3610,3573,385,0,
-2026-07-15 06:21:32.715772+00:00,csc_egov_annual.csv,3610,3572,385,0,
+2026-08-05 07:09:13.760173+00:00,district_demographics.csv,712,712,46,0,
+2026-08-05 07:09:13.760173+00:00,upi_transactions_monthly.csv,43710,42829,5275,0,
+2026-08-05 07:09:13.760173+00:00,broadband_subscribers_quarterly.csv,14498,14277,1237,0,
+2026-08-05 07:09:13.760173+00:00,gst_registrations_annual.csv,3610,3573,385,0,
+2026-08-05 07:09:13.760173+00:00,csc_egov_annual.csv,3610,3572,385,0,
