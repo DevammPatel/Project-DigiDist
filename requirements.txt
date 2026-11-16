@@ -1,5 +1,5 @@
-# Core runtime dependencies for the DigiDist ETL pipeline
-pandas
-numpy
-psycopg2-binary
-rapidfuzz
+# Runtime dependencies for the DigiDist pipeline (exact versions, tested together)
+pandas==2.3.3
+numpy==2.0.2
+psycopg2-binary==2.9.12
+rapidfuzz==3.13.0

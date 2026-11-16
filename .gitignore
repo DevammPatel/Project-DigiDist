@@ -4,3 +4,5 @@ __pycache__/
 *.pyo
 .venv/
 node_modules/
+# Built by scripts/export_site.py on every pipeline run
+site/data/

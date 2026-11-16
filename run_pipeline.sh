@@ -1,32 +1,41 @@
 #!/usr/bin/env bash
 # End-to-end pipeline runner.
 # Usage: ./run_pipeline.sh [--with-postgres-embedded]
-#   By default assumes PostgreSQL is already running (edit DSN in scripts if needed).
-#   --with-postgres-embedded starts the npm embedded-postgres binaries on port 5433.
+#   By default connects to the PostgreSQL server named in DATABASE_URL, e.g.
+#     DATABASE_URL=postgresql://postgres:postgres@localhost:5432/digital_economy
+#   --with-postgres-embedded starts the npm embedded-postgres binaries on port 5433
+#   and uses them instead (no DATABASE_URL needed).
 set -euo pipefail
 cd "$(dirname "$0")"
 
+# Use the project's virtual environment when one exists and none is active.
+PY=python3
+if [[ -z "${VIRTUAL_ENV:-}" && -x .venv/bin/python ]]; then PY=.venv/bin/python; fi
+
 if [[ "${1:-}" == "--with-postgres-embedded" ]]; then
-    PGDIR=node_modules/@embedded-postgres/darwin-arm64/native   # adjust for your platform
+    PGDIR=$(ls -d node_modules/@embedded-postgres/*/native 2>/dev/null | head -1 || true)
+    if [[ -z "$PGDIR" ]]; then
+        echo "Embedded Postgres not found. Run: npm install @embedded-postgres/<your-platform>" >&2
+        exit 1
+    fi
     export LD_LIBRARY_PATH="$PWD/$PGDIR/lib"
+    unset DATABASE_URL   # scripts fall back to the embedded server (see scripts/db.py)
     [[ -d /tmp/pgdata ]] || "$PGDIR/bin/initdb" -D /tmp/pgdata -U postgres --auth=trust -E UTF8
     "$PGDIR/bin/pg_ctl" -D /tmp/pgdata -o "-p 5433 -k /tmp" -l /tmp/pglog start || true
     sleep 2
 fi
 
-echo "== 1/3 Generating raw source data =="
-python3 scripts/generate_raw_data.py
+echo "== 1/4 Generating raw source data =="
+"$PY" scripts/generate_raw_data.py
 
-echo "== 2/3 Running ETL into PostgreSQL =="
-python3 scripts/etl_pipeline.py
+echo "== 2/4 Running ETL into PostgreSQL =="
+"$PY" scripts/etl_pipeline.py
 
-echo "== 3/3 Computing DPI and exporting for Power BI =="
-python3 - << 'EOF'
-import psycopg2
-c = psycopg2.connect(host='/tmp', port=5433, user='postgres', dbname='digital_economy')
-c.cursor().execute(open('sql/compute_dpi.sql').read()); c.commit(); c.close()
-print("DPI materialized view refreshed")
-EOF
-python3 scripts/export_powerbi.py
+echo "== 3/4 Computing DPI and exporting for Power BI =="
+"$PY" scripts/compute_dpi.py
+"$PY" scripts/export_powerbi.py
 
-echo "Done. Open exports/ in Power BI (see docs/POWERBI_SETUP.md)."
+echo "== 4/4 Exporting data for the website =="
+"$PY" scripts/export_site.py
+
+echo "Done. Preview the site with: python3 -m http.server 8000 --directory site"

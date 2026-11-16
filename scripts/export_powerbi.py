@@ -2,7 +2,8 @@
 from pathlib import Path
 
 import pandas as pd
-import psycopg2
+
+from db import get_conn
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "exports"
@@ -33,7 +34,7 @@ EXPORTS = {
     "etl_audit.csv": "SELECT * FROM warehouse.etl_audit ORDER BY run_at",
 }
 
-conn = psycopg2.connect(host="/tmp", port=5433, user="postgres", dbname="digital_economy")
+conn = get_conn()
 total = 0
 for fname, sql in EXPORTS.items():
     df = pd.read_sql(sql, conn)

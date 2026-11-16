@@ -1,0 +1,185 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>District Prosperity Index: India's digital economy by district</title>
+  <meta name="description" content="A 0 to 100 score of digital economic activity for every district in India, built from UPI, broadband, GST, e-governance and literacy indicators. Demonstration project with simulated values.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <p class="eyebrow">National Digital Economy Intelligence Warehouse</p>
+      <h1>District Prosperity Index</h1>
+      <p class="lede">One score from 0 to 100 for every district in India, built from five
+        signs of digital economic activity: UPI payments, broadband, GST registrations,
+        e-governance use and literacy.</p>
+      <nav class="section-nav" aria-label="Sections">
+        <a href="#overview">Overview</a>
+        <a href="#rankings">District rankings</a>
+        <a href="#states">States</a>
+        <a href="#movers">Movers</a>
+        <a href="#quality">Data quality</a>
+        <a href="#method">Method</a>
+      </nav>
+    </div>
+  </header>
+
+  <div class="notice" role="note">
+    <div class="wrap">
+      <strong>Simulated data.</strong> District and state names are real. Every number on this
+      site is generated for demonstration and does not describe the real districts.
+    </div>
+  </div>
+
+  <div class="filters" id="filters">
+    <div class="wrap filters-row">
+      <div class="filter">
+        <span class="filter-label" id="year-label">Year</span>
+        <div class="segmented" id="year-buttons" role="group" aria-labelledby="year-label"></div>
+      </div>
+      <label class="filter">
+        <span class="filter-label">State or UT</span>
+        <select id="state-select"><option value="">All India</option></select>
+      </label>
+    </div>
+  </div>
+
+  <main class="wrap" id="app" hidden>
+    <section id="overview">
+      <h2>Overview <span class="scope" data-scope></span></h2>
+      <div class="tiles" id="tiles"></div>
+      <div class="card">
+        <h3 id="upi-title">Monthly UPI transaction value</h3>
+        <p class="sub">In ₹ crore (1 crore = 10 million). The shaded band is the selected year.</p>
+        <div class="chart" id="upi-chart"></div>
+        <details class="table-view">
+          <summary>View as table</summary>
+          <div class="table-scroll"><table id="upi-table"></table></div>
+        </details>
+      </div>
+    </section>
+
+    <section id="rankings">
+      <h2>District rankings <span class="scope" data-scope></span></h2>
+      <div class="card">
+        <div class="table-tools">
+          <label class="search">
+            <span class="visually-hidden">Search districts</span>
+            <input type="search" id="search" placeholder="Search a district" autocomplete="off">
+          </label>
+          <p class="sub" id="rank-count" aria-live="polite"></p>
+        </div>
+        <div class="table-scroll">
+          <table id="rank-table" class="data-table">
+            <thead><tr id="rank-head"></tr></thead>
+            <tbody id="rank-body"></tbody>
+          </table>
+        </div>
+        <div class="pager">
+          <button type="button" id="prev-page">Previous</button>
+          <span id="page-info"></span>
+          <button type="button" id="next-page">Next</button>
+        </div>
+        <p class="sub">Select a district to see its five-year history.</p>
+      </div>
+    </section>
+
+    <section id="states">
+      <h2>States and union territories <span class="scope" data-year-scope></span></h2>
+      <div class="card">
+        <h3>Average district score by state</h3>
+        <p class="sub">Select a state to filter the whole page to it.</p>
+        <div class="bar-list" id="state-bars"></div>
+        <details class="table-view">
+          <summary>View as table</summary>
+          <div class="table-scroll"><table id="state-table" class="data-table"></table></div>
+        </details>
+      </div>
+    </section>
+
+    <section id="movers">
+      <h2>Biggest moves in national rank <span class="scope" id="movers-scope"></span></h2>
+      <p class="sub" id="movers-note" hidden></p>
+      <div class="two-col" id="movers-cols">
+        <div class="card">
+          <h3>Climbed the most</h3>
+          <p class="sub">Places gained in the national ranking.</p>
+          <div class="bar-list" id="gainers"></div>
+        </div>
+        <div class="card">
+          <h3>Fell the most</h3>
+          <p class="sub">Places lost in the national ranking.</p>
+          <div class="bar-list" id="losers"></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="quality">
+      <h2>Data quality</h2>
+      <p class="section-intro">Before scoring, a cleaning pipeline reads five raw source files,
+        fixes inconsistent district names, mixed date formats, duplicates and impossible
+        values, and records what it changed.</p>
+      <div class="tiles" id="quality-tiles"></div>
+      <div class="card">
+        <h3>Latest pipeline run, by source file</h3>
+        <div class="table-scroll"><table id="audit-table" class="data-table"></table></div>
+      </div>
+    </section>
+
+    <section id="method">
+      <h2>How the score is built</h2>
+      <div class="card">
+        <h3>Indicator weights</h3>
+        <div class="weights" id="weights" role="img"></div>
+        <ul class="legend" id="weights-legend"></ul>
+        <div class="table-scroll"><table id="weights-table" class="data-table"></table></div>
+        <ol class="steps">
+          <li>The four activity indicators are divided by the district's population, so
+            large and small districts can be compared. Literacy is already a rate.</li>
+          <li>Within each year, every indicator is rescaled so the lowest district is 0 and
+            the highest is 1 (min-max normalisation).</li>
+          <li>The five rescaled values are multiplied by the weights above, added up, and
+            multiplied by 100. A missing indicator counts as 0.</li>
+          <li>Districts are ranked by score nationally and inside their state.</li>
+        </ol>
+        <p class="sub">Because the rescaling is done separately for each year, a score shows
+          where a district stands against the others that year, not absolute growth.</p>
+      </div>
+      <div class="card">
+        <h3>Where the data comes from</h3>
+        <p>The list of districts and states is real, taken from a community-maintained
+          registry of official Indian districts. The metric values are synthetic: they are
+          generated with fixed random seeds at realistic national magnitudes, with deliberate
+          errors added so the cleaning pipeline has real work to do.</p>
+        <p>The pipeline is Python and PostgreSQL. The code, the SQL that computes the index
+          and the exported files are in the
+          <a href="https://github.com/DevammPatel/Project-DigiDist">project repository</a>.</p>
+      </div>
+    </section>
+  </main>
+
+  <p class="wrap status" id="status" role="status">Loading data…</p>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p id="generated"></p>
+      <p>Simulated data for demonstration. Not an official statistic.</p>
+    </div>
+  </footer>
+
+  <dialog id="district-dialog" aria-labelledby="dlg-title">
+    <form method="dialog" class="dlg-close"><button aria-label="Close">Close</button></form>
+    <h3 id="dlg-title"></h3>
+    <p class="sub" id="dlg-sub"></p>
+    <div class="tiles tiles-small" id="dlg-tiles"></div>
+    <h4>Score by year</h4>
+    <div class="chart" id="dlg-chart"></div>
+    <div class="table-scroll"><table id="dlg-table" class="data-table"></table></div>
+  </dialog>
+
+  <div class="tip" id="tip" role="tooltip" hidden></div>
+  <script src="app.js" defer></script>
+</body>
+</html>

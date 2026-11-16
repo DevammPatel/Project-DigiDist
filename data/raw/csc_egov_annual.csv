@@ -344,53 +344,53 @@ year,District Name,State/UT,egov_transactions,active_cscs
 2023,Arwal,Bihar,1615042,281
 2024,Arwal,Bihar,1418904,450
 2025,Arwal,Bihar,1171803,311
-2021,Aurangabad,Bihar,1537474,437
-2022,Aurangabad,Bihar,1780283,585
-2023,Chhatrapati Sambhajinagar,Bihar,1468774,531
-2024,Aurangabad,Bihar,1671794,427
-2025,Aurangabad,Bihar,1692387,551
+2021,Aurangabad,Bihar,946057,296
+2022,Aurangabad,Bihar,1095465,396
+2023,AURANGABAD,Bihar,903784,359
+2024,AURANGABAD,Bihar,1028708,289
+2025,Aurangabad,Bihar,1041380,373
 2021,Banka,Bihar,785954,366
 2022,Banka,Bihar,1073535,357
-2023,Banka,Bihar,1199248,302
-2024,Banka,Bihar,1292811,386
+2023,BANKA,Bihar,1199248,302
+2024,BANKA,Bihar,1292811,386
 2025,Banka,Bihar,1630293,282
 2021,Begusarai,Bihar,355774,58
 2022,Begusarai,Bihar,659512,121
 2023,Begusarai,Bihar,475323,78
 2024,Begusarai,Bihar,615610,101
-2025,Begusarai,Bihar,610265,124
+2025,BEGUSARAI,Bihar,610265,124
 2021,Bhagalpur,Bihar,461141,127
 2022,Bhagalpur,Bihar,478357,130
 2023,Bhagalpur,Bihar,579441,125
 2024,Bhagalpur,Bihar,458021,78
-2025,BHAGALPUR,Bihar,534521,86
+2025,Bhagalpur,Bihar,534521,86
 2021,Bhojpur,Bihar,2417542,598
-2022,BHOJPUR,Bihar,2795503,643
+2022,Bhojpur,Bihar,2795503,643
 2023,BHOJPUR,Bihar,4367819,652
 2024,Bhojpur,Bihar,2713490,661
 2025,Bhojpur,Bihar,2756015,467
 2021,Buxar,Bihar,735786,250
 2022,Buxar,Bihar,804942,260
-2023,BUXAR,Bihar,660000,206
-2024,BUXAR,Bihar,725636,235
+2023,Buxar,Bihar,660000,206
+2024,Buxar,Bihar,725636,235
 2025,Buxar,Bihar,689055,275
-2021,Darbhanga,Bihar,1612694,276
+2021,DARBHANGA,Bihar,1612694,276
 2022,Darbhanga,Bihar,1686081,556
 2023,Darbhanga,Bihar,2117322,566
-2024,Darbhanga,Bihar,2401739,463
+2024,DARBHANGA,Bihar,2401739,463
 2025,Darbhanga,Bihar,2120988,311
 2021,East Champaran (Motihari),Bihar,1060537,181
 2022,East Champaran (Motihari),Bihar,813508,214
 2023,East Champaran (Motihari),Bihar,858037,150
 2024,East Champaran (Motihari),Bihar,809759,210
-2025,East Champaran (Motihari),Bihar,1156171,168
+2025,East Champaran,Bihar,1156171,168
 2021,Gaya,Bihar,953121,339
 2022,Gaya,Bihar,1046166,195
 2023,Gaya,Bihar,847441,276
 2024,Gaya,Bihar,1044865,190
-2025,GAYA,Bihar,697388,324
+2025,Gaya,Bihar,697388,324
 2021,Gopalganj,Bihar,1468028,441
-2022,GOPALGANJ,Bihar,2304914,319
+2022,Gopalganj,Bihar,2304914,319
 2023,Gopalganj,Bihar,1575739,630
 2024,Gopalganj,Bihar,1929931,414
 2025,Gopalganj,Bihar,2964124,539
@@ -408,7 +408,7 @@ year,District Name,State/UT,egov_transactions,active_cscs
 2022,Kaimur (Bhabua),Bihar,769498,139
 2023,Kaimur (Bhabua),Bihar,785747,137
 2024,Kaimur (Bhabua),Bihar,798525,141
-2025,Kaimur (Bhabua),Bihar,610903,117
+2025,KAIMUR (BHABUA),Bihar,610903,117
 2021,Katihar,Bihar,796638,129
 2022,Katihar,Bihar,1006928,243
 2023,Katihar,Bihar,907966,111
@@ -416,24 +416,24 @@ year,District Name,State/UT,egov_transactions,active_cscs
 2025,Katihar,Bihar,1078679,185
 2021,Khagaria,Bihar,517281,125
 2022,Khagaria,Bihar,641268,217
-2023,Khagaria,Bihar,738305,157
+2023,KHAGARIA,Bihar,738305,157
 2024,Khagaria,Bihar,691827,249
 2025,Khagaria,Bihar,1170373,150
 2021,Kishanganj,Bihar,813334,260
 2022,Kishanganj,Bihar,738766,237
-2023,Kishanganj,Bihar,867188,191
+2023,KISHANGANJ,Bihar,867188,191
 2024,Kishanganj,Bihar,974819,352
 2025,Kishanganj,Bihar,1179901,372
 2021,Lakhisarai,Bihar,495850,153
 2022,Lakhisarai,Bihar,722478,119
 2023,Lakhisarai,Bihar,748512,132
-2024,Lakhisarai,Bihar,633730,193
+2024,lakhisarai,Bihar,633730,193
 2025,Lakhisarai,Bihar,691508,165
 2021,Madhepura,Bihar,2870325,852
-2022,MADHEPURA,Bihar,2553635,622
+2022,Madhepura,Bihar,2553635,622
 2023,Madhepura,Bihar,2515903,388
 2024,MADHEPURA,Bihar,3669564,577
-2025,MADHEPURA,Bihar,2343129,515
+2025,Madhepura,Bihar,2343129,515
 2021,Madhubani,Bihar,411043,160
 2022,Madhubani,Bihar,589545,108
 2023,Madhubani,Bihar,513829,105
@@ -441,7 +441,7 @@ year,District Name,State/UT,egov_transactions,active_cscs
 2025,Madhubani,Bihar,717697,149
 2021,Munger (Monghyr),Bihar,691069,235
 2022,Munger (Monghyr),Bihar,1005854,134
-2023,Munge (Monghyr),Bihar,622602,196
+2023,Munger (Monghyr),Bihar,622602,196
 2024,Munger (Monghyr),Bihar,942540,226
 2025,Munger  (Monghyr),Bihar,767082,163
 2021,Muzaffarpur,Bihar,580755,242
@@ -539,11 +539,11 @@ year,District Name,State/UT,egov_transactions,active_cscs
 2023,Baloda Bazar,Chhattisgarh,821448,242
 2024,Baloda Bazar,Chhattisgarh,678606,125
 2025,Baloda Bazar,Chhattisgarh,570009,263
-2021,Balrampur,Chhattisgarh,842147,315
-2022,Balrampur,Chhattisgarh,1116444,351
-2023,Balrampur,Chhattisgarh,1186189,187
-2024,Balrampur,Chhattisgarh,1432627,227
-2025,BALRAMPUR,Chhattisgarh,916170,328
+2021,Balrampur,Chhattisgarh,276572,100
+2022,Balrampur,Chhattisgarh,366655,111
+2023,Balrampur,Chhattisgarh,389561,59
+2024,Balrampur,Chhattisgarh,470494,72
+2025,BALRAMPUR,Chhattisgarh,300883,104
 2021,Bastar,Chhattisgarh,435211,85
 2022,Bastar,Chhattisgarh,422287,124
 2023,Bastar,Chhattisgarh,500401,106
@@ -559,11 +559,11 @@ year,District Name,State/UT,egov_transactions,active_cscs
 2023,BIJAPUR,Chhattisgarh,580430,168
 2024,Bijapur,Chhattisgarh,660707,101
 2025,Bijapur,Chhattisgarh,587839,120
-2021,Bilaspur,Chhattisgarh,408177,166
-2022,Bilaspur,Chhattisgarh,458615,177
-2023,BILASPUR,Chhattisgarh,551372,103
-2024,Bilaspur,Chhattisgarh,643265,102
-2025,Bilaspur,Chhattisgarh,690699,102
+2021,Bilaspur,Chhattisgarh,721542,246
+2022,Bilaspur,Chhattisgarh,810703,262
+2023,BILASPUR,Chhattisgarh,974672,152
+2024,Bilaspur,Chhattisgarh,1137113,152
+2025,Bilaspur,Chhattisgarh,1220963,152
 2021,Dantewada (South Bastar),Chhattisgarh,1333969,317
 2022,Dantewada (South Bastar),Chhattisgarh,1689679,180
 2023,Dantewada (South Bastar),Chhattisgarh,2539881,367
@@ -1029,11 +1029,11 @@ year,District Name,State/UT,egov_transactions,active_cscs
 2023,Chamba,Himachal Pradesh,1237304,384
 2024,Chamba,Himachal Pradesh,1160594,402
 2025,Chamba,Himachal Pradesh,1269989,196
-2021,Hamirpur,Himachal Pradesh,3527607,1420
-2022,Hamirpur,Himachal Pradesh,3780375,851
-2023,Hamirpur,Himachal Pradesh,3747694,1247
-2024,Hamirpur,Himachal Pradesh,5617870,1547
-2025,HAMIRPUR,Himachal Pradesh,4279407,875
+2021,Hamirpur,Himachal Pradesh,2701235,911
+2022,Hamirpur,Himachal Pradesh,2894790,546
+2023,Hamirpur,Himachal Pradesh,2869765,800
+2024,Hamirpur,Himachal Pradesh,4301837,992
+2025,HAMIRPUR,Himachal Pradesh,3276920,561
 2021,KANGRA,Himachal Pradesh,820253,211
 2022,Kangra,Himachal Pradesh,967026,250
 2023,Kangra,Himachal Pradesh,844473,272
@@ -2649,11 +2649,11 @@ year,District Name,State/UT,egov_transactions,active_cscs
 2023,Pali,Rajasthan,1270324,411
 2024,Pali,Rajasthan,1590324,566
 2025,Pali,Rajasthan,1672654,493
-2021,PRATAPGARH,Rajasthan,786393,236
-2022,Pratapgarh,Rajasthan,555324,205
-2023,Pratapgarh,Rajasthan,926844,140
-2024,Pratapgarh,Rajasthan,749188,168
-2025,Pratapgarh,Rajasthan,809095,162
+2021,PRATAPGARH,Rajasthan,262784,67
+2022,Pratapgarh,Rajasthan,185569,58
+2023,Pratapgarh,Rajasthan,309717,40
+2024,Pratapgarh,Rajasthan,250351,48
+2025,Pratapgarh,Rajasthan,270370,46
 2021,Rajsamand,Rajasthan,973930,263
 2022,Rajsamand,Rajasthan,962120,371
 2023,Rajsamand,Rajasthan,984347,287
