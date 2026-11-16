@@ -68,7 +68,7 @@ Udalguri,Assam,2072746,71.9,19.7
 West Karbi Anglong,Assam,1393564,64.0,14.6
 Araria,Bihar,422641,67.6,34.2
 Arwal,Bihar,2027296,71.0,18.5
-Aurangabad,Bihar,2535045,57.0,16.1
+Aurangabad,Bihar,1716444,55.5,13.5
 Banka,Bihar,1800696,62.4,40.8
 Begusarai,Bihar,563790,63.0,33.1
 Bhagalpur,Bihar,652918,67.8,20.3
@@ -107,11 +107,11 @@ West Champaran,Bihar,4802653,63.7,27.8
 Chandigarh,Chandigarh (UT),992373,64.6,24.6
 Balod,Chhattisgarh,1071810,70.7,22.0
 Baloda Bazar,Chhattisgarh,1189045,63.4,36.6
-Balrampur,Chhattisgarh,1685410,64.3,18.5
+Balrampur,Chhattisgarh,535878,64.8,19.4
 Bastar,Chhattisgarh,737492,70.4,35.3
 BEMETARA,Chhattisgarh,691690,53.3,8.6
 Bijapur,Chhattisgarh,825836,58.8,29.8
-Bilaspur,Chhattisgarh,965893,60.6,20.5
+Bilaspur,Chhattisgarh,1431146,63.4,25.4
 Dantewada (South Bastar),Chhattisgarh,1750935,71.8,45.8
 Dhamtari,Chhattisgarh,4699070,60.0,14.5
 Durg,Chhattisgarh,694699,63.0,19.6
@@ -205,7 +205,7 @@ Sonipat,Haryana,3599426,66.5,19.1
 Yamunanagar,Haryana,468649,71.2,16.3
 Bilaspur,Himachal Pradesh,965893,62.3,8.4
 Chamba,Himachal Pradesh,1949159,52.0,29.6
-Hamirpur,Himachal Pradesh,7407334,56.4,19.0
+Hamirpur,Himachal Pradesh,4752317,59.0,23.6
 KANGRA,Himachal Pradesh,1398187,67.0,33.9
 Kinnaur,Himachal Pradesh,968593,59.3,27.4
 Kullu,Himachal Pradesh,6021625,72.2,37.7
@@ -529,7 +529,7 @@ Karauli,Rajasthan,1750372,58.6,11.9
 Kota,Rajasthan,457292,56.2,40.0
 Nagaur,Rajasthan,1882592,60.0,29.6
 Pali,Rajasthan,2744602,55.7,30.3
-Pratapgarh,Rajasthan,1153129,67.2,20.3
+Pratapgarh,Rajasthan,329291,69.4,24.2
 Rajsamand,Rajasthan,1944552,57.2,22.6
 Sawai Madhopur,Rajasthan,3688578,60.0,24.4
 Sikar,Rajasthan,592893,63.2,25.5

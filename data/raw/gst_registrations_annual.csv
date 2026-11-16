@@ -344,11 +344,11 @@ fin_year,district,state,gst_registrations,gst_returns_filed_pct
 2023-24,Arwal,Bihar,9337,86.9
 2024,Arwal,Bihar,12045,65.9
 2025-26,Arwal,Bihar,13316,95.0
-2021-22,Aurangabad,Bihar,12120,75.3
-2022-23,Aurangabad,Bihar,12134,85.6
-2023,Aurangabad,Bihar,11727,89.9
-2024,Aurangabad,Bihar,15879,94.5
-2025-26,Aurangabad,Bihar,14879,55.7
+2021-22,Aurangabad,Bihar,7060,75.3
+2022-23,Aurangabad,Bihar,7068,85.6
+2023,Aurangabad,Bihar,6831,89.9
+2024,Aurangabad,Bihar,9249,94.5
+2025-26,Aurangabad,Bihar,8667,55.7
 2021-22,Banka,Bihar,8133,71.9
 2022-23,  Banka ,Bihar,11049,67.2
 2023,Banka,Bihar,9040,64.4
@@ -539,11 +539,11 @@ fin_year,district,state,gst_registrations,gst_returns_filed_pct
 2023-24,Baloda Bazar,Chhattisgarh,5740,69.8
 2024-25,BALODA BAZAR,Chhattisgarh,6735,66.0
 2025,Baloda Bazar,Chhattisgarh,7823,91.6
-2021,Balrampur,Chhattisgarh,7565,56.8
-2022-23,Balrampur,Chhattisgarh,6435,89.5
-2023,Balrampur,Chhattisgarh,7409,67.4
-2024-25,Balrampur,Chhattisgarh,8533,92.6
-2025-26,Balrampur,Chhattisgarh,9513,62.0
+2021,Balrampur,Chhattisgarh,2526,56.8
+2022-23,Balrampur,Chhattisgarh,2148,89.5
+2023,Balrampur,Chhattisgarh,2474,67.4
+2024-25,Balrampur,Chhattisgarh,2849,92.6
+2025-26,Balrampur,Chhattisgarh,3176,62.0
 2021,Bastar,Chhattisgarh,3041,70.9
 2022,Bastar,Chhattisgarh,3449,57.5
 2023-24,Bastar,Chhattisgarh,3342,79.4
@@ -559,11 +559,11 @@ fin_year,district,state,gst_registrations,gst_returns_filed_pct
 2023-24,Bijapur,Chhattisgarh,3705,95.2
 2024,Bijapur,Chhattisgarh,4586,76.7
 2025-26,Bijapur,Chhattisgarh,4433,88.0
-2021-22,Bilaspur,Chhattisgarh,3735,72.3
-2022,Bilaspur,Chhattisgarh,3997,83.2
-2023,Bilaspur,Chhattisgarh,4030,92.8
-2024-25,Bilaspur,Chhattisgarh,3773,75.1
-2025,Bilaspur,Chhattisgarh,3869,83.9
+2021-22,Bilaspur,Chhattisgarh,7350,72.3
+2022,Bilaspur,Chhattisgarh,7866,83.2
+2023,Bilaspur,Chhattisgarh,7930,92.8
+2024-25,Bilaspur,Chhattisgarh,7426,75.1
+2025,Bilaspur,Chhattisgarh,7614,83.9
 2021,Dantewada (South Bastar),Chhattisgarh,14377,75.6
 2022-23,Dantewada (South Bastar),Chhattisgarh,17386,62.5
 2023-24,South Bastar Dantewada,Chhattisgarh,18937,89.5
@@ -1029,11 +1029,11 @@ fin_year,district,state,gst_registrations,gst_returns_filed_pct
 2023-24,Chamba,Himachal Pradesh,8023,85.6
 2024-25,Chamba,Himachal Pradesh,9308,65.6
 2025-26,Chamba,Himachal Pradesh,8940,90.8
-2021-22,Hamirpur,Himachal Pradesh,26432,89.9
-2022,  Hamirpur ,Himachal Pradesh,31096,89.1
-2023-24,Hamirpur,Himachal Pradesh,31860,88.0
-2024-25,Hamirpur,Himachal Pradesh,27104,86.6
-2025,Hamirpur,Himachal Pradesh,33270,87.5
+2021-22,Hamirpur,Himachal Pradesh,22240,89.9
+2022,  Hamirpur ,Himachal Pradesh,26163,89.1
+2023-24,Hamirpur,Himachal Pradesh,26806,88.0
+2024-25,Hamirpur,Himachal Pradesh,22805,86.6
+2025,Hamirpur,Himachal Pradesh,27992,87.5
 2021,Kangra,Himachal Pradesh,7411,59.2
 2022-23,Kangra,Himachal Pradesh,6849,73.6
 2023,Kangra,Himachal Pradesh,7756,65.1
@@ -2649,11 +2649,11 @@ fin_year,district,state,gst_registrations,gst_returns_filed_pct
 2023-24,Pali,Rajasthan,12095,73.4
 2024,Pali,Rajasthan,13023,68.7
 2025-26,Pali,Rajasthan,13421,
-2021-22,Pratapgarh,Rajasthan,4624,86.1
-2022-23,Pratapgarh,Rajasthan,5044,84.7
-2023,Pratapgarh,Rajasthan,5516,74.2
-2024-25,Pratapgarh,Rajasthan,5586,90.2
-2025,Pratapgarh,Rajasthan,5821,63.8
+2021-22,Pratapgarh,Rajasthan,1672,86.1
+2022-23,Pratapgarh,Rajasthan,1824,84.7
+2023,Pratapgarh,Rajasthan,1995,74.2
+2024-25,Pratapgarh,Rajasthan,2020,90.2
+2025,Pratapgarh,Rajasthan,2105,63.8
 2021-22,Rajsamand,Rajasthan,5772,90.1
 2022-23,Rajsamand,Rajasthan,7192,82.3
 2023-24,Rajsamand,Rajasthan,5354,71.6
